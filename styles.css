@@ -109,6 +109,13 @@ body {
   border-radius: var(--radius);
   padding: 14px;
   margin-bottom: 12px;
+  cursor: pointer; /* the card's main area toggles the notes */
+}
+
+/* Interactive zones opt out of the card's pointer cursor. */
+.card .best-row,
+.card .notes {
+  cursor: auto;
 }
 
 .card-head {
@@ -116,6 +123,9 @@ body {
   justify-content: space-between;
   align-items: baseline;
   gap: 12px;
+  /* Avoid selecting the name/prescription text on a tap so toggling stays reliable. */
+  -webkit-user-select: none;
+  user-select: none;
 }
 
 .exercise-name {

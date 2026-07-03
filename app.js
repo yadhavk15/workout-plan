@@ -310,7 +310,23 @@ function renderExerciseCard(exercise) {
   card.appendChild(bestRow);
 
   // Notes accordion (native <details>).
-  card.appendChild(renderNotes(exercise.id));
+  const details = renderNotes(exercise.id);
+  card.appendChild(details);
+
+  // Tapping the card's main visible area toggles the notes, so you don't have
+  // to hit the small "Notes" label. Tapping anywhere inside the open notes body
+  // closes them too. Interactive zones are left alone:
+  //  - the Best input row handles its own taps (focus/typing)
+  //  - the native <summary> keeps its own toggle (avoid double-handling)
+  //  - links inside notes stay clickable
+  //  - an active text selection never triggers a toggle
+  card.addEventListener("click", (e) => {
+    if (e.target.closest(".best-row")) return;
+    if (e.target.closest("summary")) return;
+    if (e.target.closest("a")) return;
+    if (window.getSelection().toString()) return;
+    details.open = !details.open;
+  });
 
   return card;
 }
