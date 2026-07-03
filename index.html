@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0f1420" />
+  <title>Workout Sheet</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <!-- Marked.js renders the exercise-notes Markdown blocks. -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+</head>
+<body>
+  <header class="app-header">
+    <h1>Workout Sheet</h1>
+  </header>
+
+  <!-- Day selector buttons are injected here. -->
+  <nav id="day-selector" class="day-selector" aria-label="Select workout day"></nav>
+
+  <!-- Friendly error / status messages. -->
+  <div id="status" class="status" role="status" hidden></div>
+
+  <!-- The selected workout day renders here. -->
+  <main id="workout" class="workout"></main>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
