@@ -1,4 +1,4 @@
-# Workout Sheet
+# Workout Plan
 
 A tiny, mobile-first workout reference. It reads your plan and form notes from
 Markdown files in this repo and lets you jot a free-text "best" for each
