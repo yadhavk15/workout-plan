@@ -4,13 +4,18 @@ version: 1
 ## band-pull-aparts
 name: Band Pull-Aparts
 
-### Plan-specific note
-- On Day 3, this is the only pressing-prep exercise in the warmup.
-- Do quality reps with intent rather than token reps.
+### Current program use
+- Use warm-up/rehab resistance rather than treating these as heavy working sets.
+- On Day 1 and Day 2, trim these first if the scapular warm-up creates fatigue before pressing; keep face pulls and Trap-3 raises.
+- On Day 3, these are the only pressing-preparation exercise, so perform the repetitions with intent rather than as token reps.
 
 ## face-pull
 name: Face Pull
-type: Cable / band exercise
+
+### Current program use
+- Use warm-up/rehab weight rather than treating this as a heavy working set.
+- Keep the cable around mid-height; the detailed setup below specifies upper-chest to eye level and not overhead.
+- Face pulls, Trap-3 raises, and band pull-aparts serve different functions in the plan.
 
 ### Setup
 - Set cable pulley to upper chest or eye level — NOT above your head
@@ -35,9 +40,9 @@ type: Cable / band exercise
 - Do not let the cable yank your shoulders forward at full extension — stay tight
 
 ### Key cues
-- **Elbows high** — if elbows drop below shoulder height, you shift load to traps and biceps, not rear delts
-- **Pull TO the face** — not the neck or chest
-- **External rotation is mandatory** — without it you lose rear delt activation and stress the shoulder joint
+- Elbows high — if elbows drop below shoulder height, you shift load to traps and biceps, not rear delts
+- Pull TO the face — not the neck or chest
+- External rotation is mandatory — without it you lose rear delt activation and stress the shoulder joint
 - Keep your wrists neutral — don't bend them back or forward
 - Head stays neutral — don't jut your chin forward to meet the rope
 
@@ -54,11 +59,16 @@ type: Cable / band exercise
 - 3–4 sets of 12–20 reps works well; higher reps reinforce the mind-muscle connection
 - If you can't maintain external rotation, the weight is too heavy
 
-## cable-external-rotation
-name: Cable External Rotation
-type: Rotator cuff / infraspinatus / teres minor
+## external-rotation
+name: External Rotation (Cable or DB)
+type: Shoulder rehab / rotator cuff exercise
 
-### Setup
+### Current program use
+- Choose either the cable or dumbbell version for the prescribed work; do not automatically perform both.
+- For the cable version, set the pulley so the cable pulls straight across at elbow height.
+- Use warm-up/rehab loading and prioritise control over weight.
+
+### Setup — Cable version
 - Set the cable pulley to elbow height — exactly level with your elbow when your arm is at your side
 - Attach a single D-handle
 - Stand side-on to the cable machine — the cable should pull across your body (from the opposite side)
@@ -66,32 +76,32 @@ type: Rotator cuff / infraspinatus / teres minor
 - Step far enough away that there's tension on the cable at the start position
 - Stand tall — feet shoulder-width apart, core lightly braced, chest up
 
-### Arm & elbow position
+### Arm & elbow position — Cable version
 - Pin your elbow tightly to your side — this must not move at any point during the rep
 - Bend your elbow to exactly 90° and keep it there throughout
 - Optional: place a small rolled towel between your elbow and your ribcage — if it falls, your elbow drifted
 - Forearm starts pointing across your body toward the cable (start position)
 
-### Execution — rotation phase
+### Execution — rotation phase — Cable version
 - Rotate your forearm outward (away from your body) in a smooth arc
 - Move only at the shoulder joint — your upper arm and elbow stay completely still
 - Rotate until your forearm is pointing straight ahead or slightly past neutral (roughly in line with your torso)
 - Do not rotate past the point where you feel tension leave the rotator cuff — most people stop at about 45–70° of rotation
 - Pause and squeeze at the end range for 1 second
 
-### Return phase
+### Return phase — Cable version
 - Slowly return the forearm back across your body under full control — 2–3 seconds
 - Do not let the cable snap your arm back — resist the whole way
 - Stop just before the cable goes fully slack — keep tension on the muscle at all times
 
-### Key cues
-- **Elbow glued to ribs** — if the elbow lifts or swings out, you're recruiting the wrong muscles
-- **Rotate the shoulder, not the wrist** — the movement comes from your shoulder joint, not your forearm twisting
+### Key cues — Cable version
+- Elbow glued to ribs — if the elbow lifts or swings out, you're recruiting the wrong muscles
+- Rotate the shoulder, not the wrist — the movement comes from your shoulder joint, not your forearm twisting
 - Keep your shoulder blade slightly retracted — don't let it wing forward during the rep
 - Keep your shoulder depressed — don't shrug it up toward your ear
 - The movement is small and deliberate — this is not a power exercise
 
-### Common mistakes
+### Common mistakes — Cable version
 - ❌ Elbow drifting away from the body — turns it into a shoulder abduction movement
 - ❌ Rotating the torso to help the weight — that's cheating the range of motion
 - ❌ Cable set too high or too low — changes the force angle and reduces rotator cuff isolation
@@ -99,36 +109,30 @@ type: Rotator cuff / infraspinatus / teres minor
 - ❌ Letting the wrist bend — keep it perfectly neutral throughout
 - ❌ Rushing the reps — slow controlled reps are the whole point here
 
-### Recommended loading
+### Recommended loading — Cable version
 - Very light weight — most people use 2–10 kg, even strong lifters
 - 2–4 sets of 12–20 reps; prioritise feel over load
 - Works well as a warm-up, prehab, or finisher — not a primary strength move
 - Train both sides equally — do the weaker side first
 
-## db-external-rotation
-name: DB External Rotation
-type: Rotator cuff / infraspinatus / teres minor
+### Two valid positions — pick one — Dumbbell version
+- Standing: Stand tall, arm at side, elbow bent 90° — dumbbell hangs in front of your hip at the start
+- Side-lying: Lie on your non-working side on a bench or floor — elbow bent 90°, dumbbell pointing toward the ceiling at the start; removes gravity compensation, often preferred for rehab
 
-### Two valid positions — pick one
-- **Standing** — Stand tall, arm at side, elbow bent 90° — dumbbell hangs in front of your hip at the start
-- **Side-lying** — Lie on your non-working side on a bench or floor — elbow bent 90°, dumbbell pointing toward the ceiling at the start; this version removes gravity compensation and is often preferred for rehab
-
-> The side-lying version gives more consistent resistance through the range of motion — recommended if you have any shoulder issues or are doing this for rehab.
-
-### Setup (standing)
+### Setup (standing) — Dumbbell version
 - Stand tall with feet shoulder-width apart, core lightly braced
 - Hold the dumbbell in one hand with a neutral grip
 - Pin your elbow firmly against your ribcage — it must stay there for the entire set
 - Bend your elbow to exactly 90° — forearm pointing forward, parallel to the floor
 - Optional: tuck a small rolled towel between your elbow and ribs — if it drops, your elbow moved
 
-### Setup (side-lying)
+### Setup (side-lying) — Dumbbell version
 - Lie on your non-working side — working arm is on top
 - Rest your working elbow on your top hip/waist — keep it pinned there throughout
 - Bend elbow to 90° — dumbbell starts pointing straight up toward the ceiling
 - Keep your head supported and spine neutral — don't twist your torso
 
-### Execution — rotation phase
+### Execution — rotation phase — Dumbbell version
 - Rotate your forearm outward (away from your body) in a smooth controlled arc
 - Move only at the shoulder joint — upper arm and elbow stay completely locked in place
 - Standing: rotate until forearm is pointing outward to the side, roughly in line with or slightly past your torso
@@ -136,28 +140,28 @@ type: Rotator cuff / infraspinatus / teres minor
 - Do not force past the comfortable end range — stop where you feel the rotator cuff working, not straining
 - Pause at the end range for 1 second and squeeze
 
-### Return phase
+### Return phase — Dumbbell version
 - Slowly reverse the arc back to the start — 2–3 seconds on the way back
 - Control the dumbbell — do not let gravity drop it back
 - Stop just before the start position goes fully slack — keep the muscle under tension
 
-### Key cues
-- **Elbow glued to ribs** — the single most important cue; any elbow drift kills the isolation
-- **Rotate at the shoulder, not the wrist** — the forearm moves because the shoulder rotates, not because you're twisting your hand
+### Key cues — Dumbbell version
+- Elbow glued to ribs — the single most important cue; any elbow drift kills the isolation
+- Rotate at the shoulder, not the wrist — the forearm moves because the shoulder rotates
 - Keep your shoulder depressed — don't let it shrug up toward your ear during the rep
 - Keep your shoulder blade lightly retracted — don't let it protract forward as you rotate
 - Wrist stays perfectly neutral the entire time — no flexion, no extension
 - Slow and deliberate beats fast every time on this exercise
 
-### Common mistakes
-- ❌ Elbow flaring away from the body — the most common error; turns it into a different movement entirely
+### Common mistakes — Dumbbell version
+- ❌ Elbow flaring away from the body — the most common error
 - ❌ Torso rotating to assist — means the weight is too heavy
 - ❌ Shrugging the shoulder up — recruits the trap, not the rotator cuff
 - ❌ Using momentum — any swinging bypasses the small stabiliser muscles entirely
-- ❌ Going too heavy — 2–6 kg is normal even for strong lifters; this is not a strength exercise
+- ❌ Going too heavy — 2–6 kg is normal even for strong lifters
 - ❌ Bending the wrist back at the top — a sign the dumbbell is too heavy
 
-### Recommended loading
+### Recommended loading — Dumbbell version
 - Very light — typically 2–6 kg; prioritise feel and control over load at all times
 - 2–4 sets of 12–20 reps per side
 - Train both sides — always do the weaker or injured side first
@@ -165,7 +169,10 @@ type: Rotator cuff / infraspinatus / teres minor
 
 ## trap-3-raise
 name: Trap-3 Raise
-type: Lower trap / scapular depression & upward rotation
+
+### Current program use
+- Use warm-up/rehab weight rather than chasing load.
+- Keep this exercise if the scapular warm-up needs to be shortened; trim band pull-aparts first.
 
 ### What & why
 - The lower trap (trapezius 3) pulls the scapula downward and rotates it upward — critical for healthy overhead movement and posture
@@ -178,13 +185,12 @@ type: Lower trap / scapular depression & upward rotation
 - Hold a very light dumbbell in each hand (or no weight at all to learn the movement)
 - Thumbs point up (supinated grip) or slightly outward — this naturally externally rotates the shoulder, which is required
 - Keep your head neutral — don't crane your neck up
-
-> Can also be done lying flat on a bench, on the floor (prone), or standing bent over — the incline bench version is easiest to learn and most commonly used.
+- Can also be done lying flat, on the floor (prone), or standing bent over
 
 ### The arm angle — critical detail
 - Your arms must move at roughly a 135° angle from your spine — this is the "Y" position, halfway between straight overhead and straight out to the side
 - Think of forming a Y shape with your body when viewed from above — not a T (arms straight out) and not an I (arms straight overhead)
-- This specific angle aligns the movement with the lower trap's line of pull — any other angle shifts load to the mid trap, rear delt, or rhomboids
+- This specific angle aligns the movement with the lower trap's line of pull
 
 ### Execution — raise phase
 - Before your arms move, depress your shoulder blades — actively pull them down away from your ears
@@ -192,39 +198,43 @@ type: Lower trap / scapular depression & upward rotation
 - As you raise, focus on driving the movement from your shoulder blade, not just lifting with your arm
 - Keep your thumbs pointing up or slightly back throughout — maintain external rotation the whole way up
 - Raise until your arms are roughly in line with your torso or just above — do not go higher than comfortable
-- Hold at the top for 1–2 seconds and actively squeeze the lower trap — think "pull shoulder blades down and together"
+- Hold at the top for 1–2 seconds and actively squeeze the lower trap
 
 ### Return phase
 - Lower slowly and under control — 2–3 seconds on the way down
 - Do not just let gravity drop your arms — the eccentric is important
-- Return to a full hang/stretch at the bottom before the next rep — allow the scapula to fully protract/elevate slightly to get a full range of motion
+- Return to a full hang/stretch at the bottom before the next rep
 
 ### Key cues
-- **Depress before you raise** — shoulder blades go down first, then arms go up
-- **Y angle, not T or I** — the arm angle is everything on this exercise
-- **Thumbs up** — external rotation must be maintained throughout or the lower trap disengages
-- Think "armpit facing forward" at the top — this cues the external rotation correctly
+- Depress before you raise — shoulder blades go down first, then arms go up
+- Y angle, not T or I — the arm angle is everything on this exercise
+- Thumbs up — external rotation must be maintained throughout or the lower trap disengages
+- Think "armpit facing forward" at the top
 - The movement should be felt low on your back between your shoulder blades, not in your upper traps or neck
-- If you feel it in your upper traps, your shoulder blades are shrugging — reset and depress them
 
 ### Common mistakes
 - ❌ Arms in a T position — activates mid trap and rear delt instead of lower trap
-- ❌ Arms straight overhead (I position) — puts excessive load on the supraspinatus, misses lower trap
+- ❌ Arms straight overhead (I position) — puts excessive load on the supraspinatus
 - ❌ Shrugging the shoulders up — upper trap dominates and lower trap stays dormant
 - ❌ Palms facing down (pronated) — internally rotates the shoulder and kills lower trap activation
-- ❌ Going too heavy — this is one of the weakest muscles in most people; even bodyweight is hard at first
+- ❌ Going too heavy — this is one of the weakest muscles in most people
 - ❌ Rushing reps — slow deliberate reps with a hard squeeze at the top are the whole point
-- ❌ Hyperextending the lower back to get the arms higher — keep the spine neutral throughout
+- ❌ Hyperextending the lower back to get the arms higher
 
 ### Recommended loading
-- Start with bodyweight only or 1–3 kg — the lower trap is typically very weak on first contact with this exercise
+- Start with bodyweight only or 1–3 kg
 - Progress weight only when you can do every rep with perfect scapular depression and the correct Y angle
 - 2–4 sets of 10–15 reps with a 1–2 second hold at the top
 - Excellent as a warm-up before overhead pressing, pulling, or any shoulder work
 
 ## dead-hang
 name: Dead Hang
-type: Shoulder decompression / spinal traction / grip
+
+### Current program use
+- Keep hangs short: 20-30 seconds per set.
+- Use a fully passive position and a relaxed grip.
+- Treat this as decompression, not a forced stretch.
+- It is currently placed before pressing; move it to the end of the session or after upper body if pressing feels worse afterward.
 
 ### What & why
 - A passive hang means you hang from a bar and let gravity do everything — no muscular effort to hold shape
@@ -246,15 +256,13 @@ type: Shoulder decompression / spinal traction / grip
 - Head hangs in a neutral position — do not crane the neck back or tuck the chin hard
 - Feet can cross at the ankles if that helps keep the legs still
 
-> The passive hang feels unusual at first because every instinct tells you to "hold yourself up" — resist this. The shoulder rising toward the ear is correct and is what creates the decompression.
-
 ### Breathing
 - Breathe slowly and deeply throughout the hang
 - Inhale through the nose — let the ribcage expand in all directions
 - Exhale through the mouth — consciously release any remaining tension on each breath out
-- Each exhale is an opportunity to let go a little more — scan for tension in your traps, neck, and jaw and release it
+- Each exhale is an opportunity to let go a little more
 
-### Duration & progression
+### General progression outside the current plan
 - Beginners: start with 10–20 seconds — grip will likely be the limiting factor first
 - Build gradually to 30–60 seconds per hang over several weeks
 - 2–3 sets per session is enough for decompression
@@ -262,28 +270,90 @@ type: Shoulder decompression / spinal traction / grip
 - Works well at the end of an upper body session or as a standalone daily practice
 
 ### Key cues
-- **Shoulders up, not down** — letting them rise toward the ears is correct and intentional
-- **Let go** — consciously release tension in your traps, neck, jaw, and lower back
-- **Breathe into it** — slow deep breathing deepens the traction effect with every exhale
-- Think of your body as wet laundry hanging on a line — completely without tension or shape
+- Shoulders up, not down — letting them rise toward the ears is correct and intentional
+- Let go — consciously release tension in your traps, neck, jaw, and lower back
+- Breathe into it — slow deep breathing deepens the traction effect with every exhale
+- Think of your body as wet laundry hanging on a line
 - If you feel pain rather than stretch discomfort, step down immediately
 
 ### Common mistakes
-- ❌ Depressing / pulling the shoulder blades down — the most common error; converts a passive hang into an active one
+- ❌ Depressing / pulling the shoulder blades down — converts a passive hang into an active one
 - ❌ Bent elbows — arms must be fully straight to allow full joint decompression
-- ❌ Feet touching or pushing off the floor — reduces traction; let the body hang freely
-- ❌ Holding the breath or bracing hard — prevents the body from fully relaxing into the stretch
+- ❌ Feet touching or pushing off the floor — reduces traction
+- ❌ Holding the breath or bracing hard
 - ❌ Swinging or kipping — keep still; momentum works against decompression
-- ❌ Gripping too tightly — excessive forearm tension travels up the arm and limits shoulder relaxation
+- ❌ Gripping too tightly — excessive forearm tension limits shoulder relaxation
 
 ### Cautions
-- ⚠ Acute shoulder injury, rotator cuff tear, or labral damage — check with a physio before hanging; traction is not always appropriate
+- ⚠ Acute shoulder injury, rotator cuff tear, or labral damage — check with a physio before hanging
 - ⚠ Sharp pain at the top of the shoulder during the hang — stop immediately and assess
-- ⚠ Grip fatigue is the most common limiter early on — this is normal and builds quickly with consistency
+- ⚠ Grip fatigue is the most common limiter early on — normal and builds quickly with consistency
+
+## chest-supported-t-bar-row
+name: Chest-Supported T-Bar Row
+
+### Current program lower-back protection
+- Keep the chest fully supported on the pad.
+- Use the neutral grip, pull with the elbows, and squeeze the mid-back.
+- Do not shrug or heave to move more weight.
+
+### What & why
+- A T-bar row performed with the chest supported against a pad — removes lower back involvement entirely
+- The neutral grip handle is generally the most shoulder-friendly and comfortable grip
+- Allows heavier loading than most cable or dumbbell row variations
+- Excellent for building mid-back thickness
+
+### Setup
+- Adjust the chest pad height so your chest rests comfortably against it with arms able to hang and reach the handle at full extension
+- Lie chest-down against the pad, feet planted on the footplates or floor
+- Grip the neutral (parallel) handle attachment with both hands, palms facing each other
+- Arms fully extended at the start — full stretch through the lats and mid back
+- Chest firmly pressed into the pad throughout
+
+### Execution — pull phase
+- Initiate the pull by retracting the shoulder blades
+- Pull the handle toward your torso by driving the elbows back and slightly down toward the hips
+- Keep the elbows relatively close to the body — roughly 30–45° from the torso
+- Pull until the handle reaches your lower chest or upper abdomen
+- At the top, squeeze the shoulder blades together hard for 1 second
+- Keep the chest pinned to the pad throughout
+- Exhale as you pull
+
+### Execution — descent phase
+- Lower the handle slowly back to full arm extension — 2–3 seconds
+- Allow the shoulder blades to fully protract at the bottom
+- Do not cut the bottom range short
+- Inhale on the way down
+
+### Key cues
+- Scapula initiates
+- Elbows close, not flared
+- Chest stays on the pad
+- Full range every rep
+
+### Common mistakes
+- ❌ Chest lifting off the pad
+- ❌ Pulling with the arms/biceps first
+- ❌ Elbows flaring too wide
+- ❌ Not achieving full stretch at the bottom
+- ❌ Shrugging the traps at the top
+- ❌ Going too heavy too fast
+
+### Recommended loading & volume
+- 3–4 sets of 8–15 reps for hypertrophy
+- Can typically handle heavier loads than dumbbell rows
+- Excellent as a primary back thickness builder
+- If your grip fails before your back does, straps are a reasonable option
 
 ## high-incline-db-press
 name: High-Incline DB Press
-type: Upper chest / anterior delt / triceps
+
+### Current program shoulder restrictions
+- Use a neutral grip.
+- Keep the elbows slightly forward and do not let them travel behind the torso at the bottom.
+- Use controlled depth and do not chase a deep stretch.
+- Stop the set if anything feels off in the shoulder.
+- If the shoulder flares during the session, skip the DB press and use the plan's row substitution.
 
 ### What & why
 - High incline = bench set to 60–75° — closer to a seated shoulder press than a standard incline press
@@ -293,284 +363,201 @@ type: Upper chest / anterior delt / triceps
 
 ### Bench & body setup
 - Set the bench to 60–75° — 60° for more upper chest emphasis, 75° for more anterior delt
-- Sit fully back into the bench — entire back in contact with the pad, not perched on the edge
+- Sit fully back into the bench — entire back in contact with the pad
 - Feet flat on the floor, hip-width apart — drive them into the ground for stability
-- Head, upper back, and glutes all stay in contact with the bench throughout — no excessive arching
-- Retract and depress your shoulder blades lightly into the pad — create a stable base before the dumbbells go up
+- Head, upper back, and glutes all stay in contact with the bench throughout
+- Retract and depress your shoulder blades lightly into the pad before the dumbbells go up
 
 ### Getting the dumbbells into position
-- Rest the dumbbells on your thighs before sitting back — use a knee kick to help drive them up one at a time as you recline into the bench
-- Start with dumbbells at shoulder height, palms facing each other (neutral grip) — ends of the dumbbells pointing forward and back
-- Elbows should be at roughly 45–60° from your torso — not flared out to 90° and not fully tucked
-
-> At a high incline, the natural elbow angle will be closer to your sides than on a flat press — this is correct and protects the shoulder joint.
+- Rest the dumbbells on your thighs before sitting back — use a knee kick to help drive them up
+- Start with dumbbells at shoulder height, palms facing each other (neutral grip)
+- Elbows should be at roughly 45–60° from your torso — not flared to 90° and not fully tucked
 
 ### Execution — press phase
-- Press the dumbbells upward and very slightly inward — they should converge slightly at the top, not go straight up like two parallel columns
-- Keep the neutral grip (palms facing each other) throughout the entire press — do not rotate to pronated at the top
-- Extend the arms to near-lockout at the top — a very slight soft elbow is fine, full lockout is also acceptable
+- Press the dumbbells upward and very slightly inward — they should converge slightly at the top
+- Keep the neutral grip throughout — do not rotate to pronated at the top
+- Extend the arms to near-lockout at the top
 - Do not let the dumbbells touch at the top — stop just short to keep tension on the muscle
-- Press through the heel of the palm — think pushing the dumbbell away, not just lifting it
+- Press through the heel of the palm — think pushing the dumbbell away
 - Exhale on the press up
 
 ### Execution — descent phase
 - Lower the dumbbells slowly — 2–3 seconds on the way down
 - Elbows stay at 45–60° from the torso — do not let them flare wide as you lower
-- Lower until your upper arms are roughly in line with the bench pad or just below — feel a full stretch in the upper chest
-- Do not bounce out of the bottom — control the stretch and press from a dead stop or with minimal stretch reflex
+- Lower only to the current pain-free controlled depth; under this plan, the elbows must not travel behind the torso and no deep stretch should be created
+- Do not bounce out of the bottom
 - Inhale on the way down
 
 ### Key cues
-- **Palms stay facing each other** — rotating to pronated mid-rep defeats the purpose of the neutral grip
-- **Elbows at 45–60°** — not flared out wide; the high angle already stresses the shoulder, so elbow position is critical
-- **Chest up** — actively push your sternum forward into the press; helps maintain the scapular position
+- Palms stay facing each other — rotating to pronated mid-rep defeats the purpose
+- Elbows at 45–60° — not flared out wide
+- Chest up — actively push your sternum forward into the press
 - Think "press up and slightly in" — not just straight up
-- Shoulder blades stay retracted and depressed throughout — do not let them round forward at the top of the press
-- If your lower back is arching excessively off the pad, the weight is too heavy or the range of motion is too large
+- Shoulder blades stay retracted and depressed throughout
+- If your lower back is arching excessively off the pad, the weight is too heavy
 
 ### Common mistakes
-- ❌ Bench angle too low — drops below 60° and becomes a standard incline press; misses the high-incline upper chest target
-- ❌ Elbows flaring out to 90° — at this high an angle it places extreme stress on the anterior shoulder capsule
-- ❌ Rotating to pronated grip mid-press — increases internal shoulder rotation and reintroduces the joint stress the neutral grip is designed to avoid
-- ❌ Losing scapular retraction at the top — shoulders rounding forward kills upper chest activation and stresses the joint
-- ❌ Head jutting forward off the pad — keep it back; neck should stay long and neutral
-- ❌ Pressing straight up instead of slightly inward — at this angle, a slight inward arc better matches the upper chest's line of pull
-- ❌ Going too heavy — at a high incline, stability drops significantly; control and full range matter more than load
+- ❌ Bench angle too low — drops below 60° and becomes a standard incline press
+- ❌ Elbows flaring out to 90°
+- ❌ Rotating to pronated grip mid-press
+- ❌ Losing scapular retraction at the top
+- ❌ Head jutting forward off the pad
+- ❌ Pressing straight up instead of slightly inward
+- ❌ Going too heavy
 
 ### Recommended loading
-- Expect to use noticeably less weight than a standard incline or flat press — this is normal at this angle
+- Expect to use noticeably less weight than a standard incline or flat press
 - 3–4 sets of 8–15 reps works well for hypertrophy
-- Prioritise full range of motion and a strong stretch at the bottom over adding more weight
-
-### Plan-specific shoulder notes
-- Use a neutral grip.
-- Keep elbows slightly forward; do not let them drop behind the torso at the bottom.
-- Do not chase a deep stretch at the bottom.
-- This was marked as the safest press in the plan, but still stop the set if anything feels off.
-
-## chest-supported-row
-name: Chest-Supported Row
-type: Mid & upper back / lats / rear delts / rhomboids
-
-### What & why
-- The chest support eliminates the lower back from the equation entirely — the bench holds your torso, so there is no temptation or ability to use momentum or spinal extension to row the weight
-- This makes it one of the most honest back exercises — every rep is pure upper back work
-- Ideal for people with lower back issues, or anyone who tends to cheat on bent-over rows
-
-### Bench setup
-- Set an incline bench to 30–45° — 30° gives a more horizontal torso and hits more mid-back and lats; 45° is more upright and hits more upper back and rear delts
-- Lie face-down (prone) on the bench — chest and stomach flat against the pad
-- Your chest should be at or near the top of the pad — head slightly off the top edge
-- Feet flat on the floor or hooked behind the footrest if the bench has one — either is fine
-- Let the dumbbells hang straight down toward the floor before starting
-
-> The higher the bench angle, the more upright your torso — this shifts emphasis from lats toward upper traps and rear delts. Most people use 30–45° for a good all-around back stimulus.
-
-### Grip options
-- **Pronated** — Palms facing back — more upper trap and rear delt, elbows flare wider
-- **Neutral** — Palms facing each other — most comfortable for most people, good lat and mid-back activation, elbows stay closer to the body
-- **Supinated** — Palms facing forward — more bicep involvement, good for lower lat emphasis
-- Neutral grip is the most commonly recommended starting point
-
-### Execution — pull phase
-- Initiate the row by retracting your shoulder blades — squeeze them together before your arms do any work
-- Then drive your elbows up and back — think "elbows to the ceiling"
-- Pull until your upper arms are roughly parallel to the floor or slightly above — dumbbells should reach somewhere between your lower chest and hip level
-- At the top, hold for 1 second and actively squeeze the shoulder blades together and down
-- Keep your chest in contact with the bench throughout — do not lift your torso off the pad to help the weight up
-- Exhale at the top of the pull
-
-### Elbow path by target
-- Elbows flared wide at ~70–80° from torso — more rear delt and upper trap emphasis
-- Elbows at ~45° from torso — balanced mid-back and lat emphasis; recommended default
-- Elbows close to the body at ~20–30° — more lat emphasis
-- Pick one angle and stay consistent throughout the set — don't let elbows drift between reps
-
-### Execution — descent phase
-- Lower the dumbbells slowly and under full control — 2–3 seconds on the way down
-- Allow the shoulder blades to fully protract (spread apart) at the bottom — let the arms hang and feel a full stretch through the mid and upper back
-- Do not cut the range short at the bottom — the stretch at the bottom is where a lot of the muscle growth stimulus comes from
-- Inhale on the way down
-
-### Key cues
-- **Scapula first** — initiate every rep with a shoulder blade squeeze, not a bicep curl
-- **Elbows up, not out** — the drive is vertical (toward the ceiling), not horizontal (behind you)
-- **Chest stays on the pad** — if it lifts, you are using momentum; lower the weight
-- **Full stretch at the bottom** — let the scapula protract completely; do not shortchange the range of motion
-- Think "bend the bar apart" with your hands — this cues external rotation and keeps the shoulder in a strong position
-- Keep your neck neutral — don't crane it up to watch yourself in the mirror
-
-### Common mistakes
-- ❌ Lifting the chest off the pad — turns it into a partial bent-over row with momentum; defeats the entire purpose
-- ❌ Pulling with the biceps instead of initiating with the scapula — the arms should feel like hooks, not the prime movers
-- ❌ Not protracting at the bottom — cutting the range short means missing half the stimulus
-- ❌ Shrugging the traps up at the top — the squeeze should be mid-back and down, not up toward the ears
-- ❌ Going too heavy — this exercise should be felt entirely in the back; if your arms are doing most of the work, reduce the load
-- ❌ Inconsistent elbow angle between reps — pick a path and own it every rep
-- ❌ Rushing the eccentric — the slow lower is as important as the pull
-
-### Recommended loading
-- 3–4 sets of 8–15 reps for hypertrophy
-- Use a weight where you can feel every rep in your back — if you feel it mainly in your arms, go lighter and focus on the scapular initiation
-- Straps are fine once grip becomes a limiting factor — the back should fail before the hands
-
-### Plan-specific shoulder note
-- Use a neutral grip in this plan.
+- Prioritise the current pain-free controlled range and the no-deep-stretch rule over adding more weight
 
 ## hammer-curl
 name: Hammer Curl
-type: Brachialis / brachioradialis / biceps brachii
+
+### Current program shoulder restrictions
+- Do not let the shoulder move into deep extension at the bottom.
+- Do not use stretch-focused repetitions.
+- Stop 2-3 reps before any tendon discomfort.
+- If unexplained shoulder irritation develops, this is the first arm-volume item to review.
 
 ### What & why
 - The neutral grip (palms facing each other) targets the brachialis — a muscle that sits underneath the bicep and pushes it up, adding thickness and peak to the arm
-- Also heavily loads the brachioradialis — the dominant muscle of the forearm — making it a great forearm builder simultaneously
-- Generally allows heavier loading than a supinated curl because the brachialis and brachioradialis combined are stronger than the bicep alone
+- Also heavily loads the brachioradialis — the dominant muscle of the forearm
+- Generally allows heavier loading than a supinated curl
 
 ### Setup
 - Stand tall with feet shoulder-width apart — chest up, core lightly braced
 - Hold a dumbbell in each hand with a neutral grip — palms facing each other, thumbs pointing forward
 - Arms hang fully extended at your sides at the start — full dead hang, no pre-tension
-- Shoulders back and down — do not let them round forward
-- Can also be done seated on a bench, which removes any lower body involvement entirely
+- Shoulders back and down
+- Can also be done seated on a bench
 
 ### Execution — curl phase
 - Pin your elbows to your sides — they must not move forward, backward, or flare out during the curl
-- Curl the dumbbell upward by flexing at the elbow only — the upper arm stays completely vertical and stationary
-- Keep the neutral grip throughout — palms stay facing each other; do not rotate to supinate at the top
-- Curl until your forearm is fully flexed — dumbbell should be near shoulder height
-- The dumbbell moves vertically, like a hammer striking a nail — hence the name
+- Curl the dumbbell upward by flexing at the elbow only
+- Keep the neutral grip throughout — do not rotate to supinate at the top
+- Curl until your forearm is fully flexed
+- The dumbbell moves vertically, like a hammer striking a nail
 - Squeeze the brachialis and bicep hard at the top for 1 second
 - Exhale on the way up
 
 ### Execution — descent phase
 - Lower the dumbbell slowly under full control — 2–3 seconds on the way down
-- Resist gravity all the way — the eccentric is where significant growth stimulus occurs
-- Return to a full dead hang at the bottom — full elbow extension, slight stretch in the bicep
-- Do not cut the range short at the bottom — full extension every rep
+- Return to a full dead hang at the bottom
+- Do not cut the range short at the bottom
 - Inhale on the way down
 
 ### Alternating vs simultaneous
-- **Alternating** — Curl one arm at a time — allows slight torso rotation for a natural feel, easier to focus on each arm individually, better mind-muscle connection
-- **Simultaneous** — Both arms curl together — more time-efficient, harder to cheat with momentum, slightly more demanding on stabilisers
+- Alternating — one arm at a time — better mind-muscle connection
+- Simultaneous — both arms together — more time-efficient, harder to cheat with momentum
 - Both are valid — alternating is more common and generally preferred for form focus
 
-> If alternating, do not rotate the torso excessively to swing the dumbbell up — a very slight natural lean is acceptable but the movement should still be driven by elbow flexion.
-
 ### Key cues
-- **Elbows stay pinned** — any forward elbow drift turns it into a front raise hybrid and removes tension from the target muscles
-- **Neutral grip the whole way** — rotating to supinated at the top shifts load to the bicep and away from the brachialis
-- **Full range both ends** — full extension at the bottom, full flexion at the top; no half reps
-- Think "thumb to shoulder" — the thumb leads upward, not the knuckles
-- Keep your wrist straight and firm — do not bend it back or forward under load
-- Slow and controlled beats fast and sloppy — momentum removes load from the muscle
+- Elbows stay pinned — any forward elbow drift removes tension from the target muscles
+- Neutral grip the whole way — rotating to supinated at the top shifts load to the bicep
+- Full range both ends — no half reps
+- Think "thumb to shoulder" — the thumb leads upward
+- Keep your wrist straight and firm
 
 ### Common mistakes
-- ❌ Elbows swinging forward at the top — shortens the range and uses anterior delt to finish the rep
-- ❌ Using body momentum / back swing — rocking the torso to get the weight up means it is too heavy
-- ❌ Rotating the wrist to supinated at the top — switches the exercise to a standard curl; defeats the purpose
-- ❌ Not lowering all the way — stopping short at the bottom removes the stretch and shortens the effective range of motion
-- ❌ Letting the wrist bend back under load — sign the weight is too heavy; reduce it
-- ❌ Shrugging the shoulders up as you curl — keep them depressed and relaxed throughout
+- ❌ Elbows swinging forward at the top
+- ❌ Using body momentum / back swing
+- ❌ Rotating the wrist to supinated at the top
+- ❌ Not lowering all the way
+- ❌ Letting the wrist bend back under load
+- ❌ Shrugging the shoulders up as you curl
 
 ### Recommended loading
 - 3–4 sets of 8–15 reps for hypertrophy
-- You can typically handle 10–20% more weight than a standard supinated curl — use this to your advantage but don't sacrifice form
+- You can typically handle 10–20% more weight than a standard supinated curl
 - Pairs well after standard bicep curls as a finishing movement, or can replace them entirely
 
 ## atg-split-squat
 name: ATG Split Squat
-type: Quads / VMO / hip flexors / glutes / knee health
 
 ### What & why
 - ATG = "Ass to Grass" — the goal is maximum depth, getting the rear knee all the way to the floor
 - Popularised by Ben Patrick (Knees Over Toes Guy) as a knee rehabilitation and strengthening exercise
-- The front knee travels as far forward over the toes as possible — this is intentional and builds knee tendon strength through full range
-- Targets the VMO (teardrop quad muscle), patellar tendon, and hip flexors through extreme ranges that most exercises never reach
-- Must be built up very gradually — the range of motion and tendon stress are significant
+- The front knee travels as far forward over the toes as possible — intentional, builds knee tendon strength through full range
+- Targets the VMO, patellar tendon, and hip flexors through extreme ranges
+- Must be built up very gradually
 
 ### Foot position & stance
 - Start in a split stance — front foot flat on the floor, rear foot on its toes
 - Front foot distance from the rear knee: closer stance = more quad emphasis and knee travel; wider = slightly easier
-- For ATG specifically, the front foot is placed closer than a standard lunge — roughly shin's length away from the rear knee when at the bottom
-- Front foot points straight ahead or very slightly out — not dramatically angled
+- Front foot points straight ahead or very slightly out
 - Rear foot toes are on the floor — heel is up throughout
-- Use a wall, pole, or TRX for balance assistance when learning — this is not cheating, it allows you to focus on depth and form
+- Use a wall, pole, or TRX for balance assistance when learning
 
 ### Torso position
 - Keep the torso upright — as vertical as possible throughout the movement
-- Do not lean forward excessively — a slight natural forward lean is acceptable but the chest should stay up
-- Core lightly braced — spine neutral, no excessive arching or rounding
-- Hands can be on hips, holding a counterweight (small plate or dumbbell at chest), or holding a support for balance
-
-> Holding a light counterweight (2.5–5 kg) at chest height can actually help you stay upright by shifting your centre of mass — a common ATG technique.
+- Do not lean forward excessively
+- Core lightly braced — spine neutral
+- Hands can be on hips, holding a counterweight, or holding a support for balance
 
 ### Execution — descent phase
 - Sink straight down by bending both knees simultaneously — do not step forward into a lunge
-- Allow the front knee to travel forward over the toes — as far forward as your ankle mobility allows, ideally well past the toes
+- Allow the front knee to travel forward over the toes — as far as your ankle mobility allows
 - The front knee should track in line with the second toe — do not let it cave inward
-- Keep the front heel firmly planted on the floor — if it lifts, you have hit your ankle mobility limit; work on that separately
-- Lower the rear knee all the way to the floor — or as close as possible; full ATG means rear knee touches down gently
+- Keep the front heel firmly planted on the floor — if it lifts, you have hit your ankle mobility limit
+- Lower the rear knee all the way to the floor — or as close as possible
 - Lower slowly and under control — 2–3 seconds on the way down
 - Inhale on the descent
 
 ### Bottom position
 - At full depth, rear knee is on or just above the floor, front shin is angled significantly forward
-- Front heel stays flat — this is non-negotiable; if it rises, you are past your current mobility
+- Front heel stays flat — non-negotiable
 - Pause briefly at the bottom — do not bounce off the floor
-- Both hips should be roughly level — do not let one hip hike up
+- Both hips should be roughly level
 
 ### Execution — drive phase
-- Drive up by pushing through the entire front foot — heel and forefoot both engaged
-- Focus on pushing the floor away with the front leg — the front quad does the majority of the work
-- Keep the torso upright as you rise — do not shoot the hips back
-- Front knee stays tracking over the toes on the way up — do not let it collapse inward
+- Drive up by pushing through the entire front foot
+- Focus on pushing the floor away with the front leg
+- Keep the torso upright as you rise
+- Front knee stays tracking over the toes on the way up
 - Return to the standing split stance position — full hip extension at the top
 - Exhale on the drive up
 
-### Progression — build up to full ATG
-- **Step 1** — Assisted — hold a wall or pole, work on depth and heel contact with no load
-- **Step 2** — Bodyweight — no support, full depth, slow and controlled
-- **Step 3** — Counterweight — hold a small plate at chest to help stay upright
-- **Step 4** — Loaded — dumbbells at sides or goblet position; add weight only once depth and heel contact are consistent
-- Do not rush progression — tendons adapt slower than muscles; add depth before adding load
+### Progression
+- Step 1: Assisted — hold a wall or pole, work on depth and heel contact with no load
+- Step 2: Bodyweight — no support, full depth, slow and controlled
+- Step 3: Counterweight — hold a small plate at chest to help stay upright
+- Step 4: Loaded — dumbbells at sides or goblet position
 
 ### Key cues
-- **Heel stays down** — the single most important cue; a lifted heel means the range exceeds your current ankle mobility
-- **Knee tracks the toe** — no inward collapse at any point during the rep
-- **Chest tall** — upright torso throughout; resist the urge to fold forward as depth increases
-- **Sink, don't lunge** — the movement is straight down, not forward
-- Rear knee touches gently — it is a touch, not a crash landing
-- If the front heel rises, either raise the rear foot on a small platform or work ankle mobility before adding more depth
+- Heel stays down — the single most important cue
+- Knee tracks the toe — no inward collapse at any point
+- Chest tall — resist the urge to fold forward as depth increases
+- Sink, don't lunge — the movement is straight down, not forward
+- Rear knee touches gently
 
 ### Common mistakes
-- ❌ Front heel lifting — the most critical error; ankle mobility must be addressed before forcing more depth
-- ❌ Knee caving inward — valgus collapse puts stress on the knee joint; drive the knee out to track the toe
-- ❌ Excessive forward lean — shifts load away from the quads and onto the hip; keep the chest up
-- ❌ Bouncing off the rear knee — impact loading the knee joint; lower with control and touch gently
-- ❌ Adding load before achieving full depth bodyweight — tendons need to adapt to the range first
-- ❌ Stepping too wide like a lunge — the ATG split squat is a narrow, vertical drop, not a long stride forward
-- ❌ Rushing depth — forcing range beyond current mobility causes compensation elsewhere; earn the depth gradually
+- ❌ Front heel lifting
+- ❌ Knee caving inward
+- ❌ Excessive forward lean
+- ❌ Bouncing off the rear knee
+- ❌ Adding load before achieving full depth bodyweight
+- ❌ Stepping too wide like a lunge
+- ❌ Rushing depth
 
 ### Recommended loading & volume
-- Start with bodyweight or assisted — even strong lifters should earn the range before adding load
+- Start with bodyweight or assisted
 - 2–4 sets of 8–15 reps per leg
-- Can be done daily at low volume as a mobility and tendon conditioning exercise — tendons respond well to frequent low-load work
-- Ankle mobility work (e.g. banded ankle stretches, wall ankle mobilisation) done consistently will unlock more depth over time
+- Can be done daily at low volume as a mobility and tendon conditioning exercise
+- Ankle mobility work done consistently will unlock more depth over time
 
 ## hip-flexor-kickout
 name: Hip Flexor Kickout
-type: Hip flexors / iliopsoas / rectus femoris / VMO
 
 ### What & why
 - A resisted hip flexion drill — the knee drives up against band or cable resistance, then the leg extends (kicks out) at the top
-- Two-phase movement: hip flexion (knee drive) + knee extension (kickout) — trains both the hip flexors and the quads through active range
-- Builds hip flexor strength in a standing, sport-specific position — directly transfers to sprinting, kicking, and athletic movement
+- Two-phase movement: hip flexion (knee drive) + knee extension (kickout)
+- Builds hip flexor strength in a standing, sport-specific position — directly transfers to sprinting, kicking, athletic movement
 - Also trains single-leg balance and hip stability on the standing leg
 
 ### Setup — band version
 - Anchor a resistance band low to the ground behind you — at ankle height
 - Loop the band around the ankle or lower shin of the working leg
-- Step forward enough that there is tension on the band even at the start position — working leg slightly behind you
+- Step forward enough that there is tension on the band even at the start position
 - Stand tall on the supporting leg — hold a wall, rack, or pole lightly for balance if needed
 - Core braced, hips level, chest up before you begin
 
@@ -585,1508 +572,1531 @@ type: Hip flexors / iliopsoas / rectus femoris / VMO
 - Drive the working knee upward and forward against the band/cable resistance
 - Lift the knee to at least hip height — ideally above the hip if mobility allows
 - The movement comes from the hip flexor pulling the thigh up — not from leaning the torso back
-- Keep the torso upright and stable — do not lean back to compensate for weak hip flexors
-- Standing leg stays slightly soft at the knee — do not lock it out rigidly
+- Keep the torso upright and stable
+- Standing leg stays slightly soft at the knee
 
 ### Execution — phase 2: kickout
 - Once the knee is at the top of the drive, extend the lower leg outward — kick the foot forward and up
 - Extend the knee fully — straighten the leg as much as your hamstring flexibility allows
-- Hold the fully extended position for 1 second — squeeze the quad and feel the hip flexor working to hold the leg up
-- The thigh should not drop during the kickout — keep it elevated at the same height throughout both phases
-- Foot is flexed (dorsiflexed) at the top — toes pointing up, not drooping
+- Hold the fully extended position for 1 second — squeeze the quad
+- The thigh should not drop during the kickout — keep it elevated at the same height throughout
+- Foot is flexed (dorsiflexed) at the top
 
 ### Execution — return phase
 - Bend the knee back to the raised position first — reverse the kickout
-- Then lower the thigh slowly back down against the band resistance — resist the pull all the way down
+- Then lower the thigh slowly back down against the band resistance
 - Do not let the band snap the leg back — control the eccentric through the full range
 - Return the foot to just behind the start position — reset and repeat
 
-> The eccentric (lowering) phase is just as important as the drive — resisting the band on the way down builds hip flexor strength through the lengthened range.
-
 ### Key cues
-- **Torso stays upright** — leaning back is the most common compensation; the hip flexor must do the work, not the lower back
-- **Thigh height holds during kickout** — the thigh must not drop as you extend the knee; if it does, the hip flexor is fatiguing
-- **Control the return** — resist the band all the way back; do not let it snap the leg down
-- Think "knee up, then toe out" — two distinct phases, not one sloppy swing
-- Standing leg stays grounded and stable — do not let the hip on the standing side hike or drop
-- Breathe out on the drive up, breathe in on the return
+- Torso stays upright — leaning back is the most common compensation
+- Thigh height holds during kickout — the thigh must not drop as you extend the knee
+- Control the return — resist the band all the way back
+- Think "knee up, then toe out"
+- Standing leg stays grounded and stable
 
 ### Common mistakes
-- ❌ Leaning the torso back to get the knee up — offloads the hip flexor onto the lumbar spine; keep the chest tall
-- ❌ Thigh dropping during the kickout — means hip flexor strength has given out; use a lighter band or reduce range
-- ❌ Swinging the leg up with momentum — the drive should be deliberate and controlled, not a swing
-- ❌ Not fully extending the knee on the kickout — half-extending misses the quad and shortens the drill
-- ❌ Letting the band snap the leg back — always resist the return; the eccentric is part of the exercise
-- ❌ Hip hiking on the standing side — means the glute med is not stabilising; slow down and focus on pelvis control
-- ❌ Band too heavy too soon — use a light band that lets you reach full height and full extension cleanly
+- ❌ Leaning the torso back to get the knee up
+- ❌ Thigh dropping during the kickout
+- ❌ Swinging the leg up with momentum
+- ❌ Not fully extending the knee on the kickout
+- ❌ Letting the band snap the leg back
+- ❌ Hip hiking on the standing side
+- ❌ Band too heavy too soon
 
 ### Recommended loading & volume
-- Start with a light resistance band — the hip flexors fatigue quickly and form breaks down fast under too much resistance
+- Start with a light resistance band
 - 2–3 sets of 8–12 reps per leg
 - Works well as a warm-up before squats, lunges, or any lower body session
-- Also effective as a standalone hip flexor strengthening drill for athletes — can be done daily at low volume
-- Progress by increasing band resistance only when you can hold the thigh height throughout every rep of the kickout
+- Progress by increasing band resistance only when you can hold the thigh height throughout every rep
 
 ## atg-reverse-step-up
-name: ATG Reverse Step Up
-type: VMO / quads / patellar tendon / knee rehab & strength
+name: ATG Reverse Step-Up
 
 ### What & why
 - A Ben Patrick (Knees Over Toes Guy) staple — one of the foundational ATG exercises for knee health and quad strength
-- You stand on an elevated surface and step backward and down with one leg, then drive back up — the working leg on the box does all the work
-- The key feature is maximum forward knee travel over the toes — deliberately training the knee to be strong in a position most exercises avoid
-- Builds the VMO (teardrop quad), patellar tendon, and quad through the deepest range of knee flexion
+- You stand on an elevated surface and step backward and down with one leg, then drive back up
+- The key feature is maximum forward knee travel over the toes
+- Builds the VMO, patellar tendon, and quad through the deepest range of knee flexion
 - Low-impact and unilateral — excellent for rehab, prehab, and building pain-free knee strength
 
 ### Equipment & setup
-- Use a step, box, or platform — start low (10–15 cm) and build height over time as strength improves
+- Use a step, box, or platform — start low (10–15 cm) and build height over time
 - Stand on top of the box with the working foot — toes near the edge, heel on the surface
-- The non-working leg hangs off the back of the box — it will step down behind you
-- Hold a wall, rack, or pole lightly with one hand for balance — especially when learning
-- Can hold a light counterweight (small plate or dumbbell) at chest to help stay upright
-
-> Box height is a major variable — a lower box is easier and requires less range. Start lower than you think you need to and earn height gradually.
+- The non-working leg hangs off the back of the box
+- Hold a wall, rack, or pole lightly with one hand for balance
+- Can hold a light counterweight at chest to help stay upright
 
 ### Foot position on the box
-- Working foot points straight ahead or very slightly out — not angled significantly
+- Working foot points straight ahead or very slightly out
 - The entire foot stays on the box — heel does not hang off the edge
-- Toes can be near the front edge but the heel must remain fully supported on the surface
 - Weight is distributed through the whole foot — do not rock onto the toes
 
 ### Execution — descent phase
 - Hinge slightly at the hip and begin bending the working knee — allow it to travel forward over the toes deliberately
-- Step the non-working foot backward and down off the box — reach toward the floor behind the box
-- The non-working foot is just a balance reference — it should barely graze the floor, not push or bear weight
-- Continue sinking down on the working leg — knee tracks over the second toe, travels as far forward as ankle mobility allows
+- Step the non-working foot backward and down off the box
+- The non-working foot is just a balance reference — should barely graze the floor
+- Continue sinking down on the working leg — knee tracks over the second toe
 - Lower until the rear foot just touches the ground or your working leg reaches its depth limit
-- Keep the torso upright — a slight forward lean is natural but do not collapse forward
-- Working heel stays flat on the box throughout — if it rises, you have hit your ankle mobility ceiling
-- Lower slowly — 2–3 seconds on the way down; do not drop
-- Inhale on the descent
+- Keep the torso upright
+- Working heel stays flat on the box throughout
+- Lower slowly — 2–3 seconds; inhale on the descent
 
 ### Bottom position
 - Rear foot touches the floor lightly — this is the turnaround point
 - Do not transfer weight to the rear foot — it is a tap, not a step
-- Working knee is at maximum forward travel — should be well past the toes if ankle mobility is adequate
 - Brief pause here — do not bounce off the bottom
 
 ### Execution — drive phase
-- Drive up entirely through the working leg — push the box away through the whole foot
-- The rear leg lifts off the floor and returns to hanging — it contributes nothing to the drive
-- Extend the working knee and hip simultaneously to return to standing on top of the box
-- Keep the knee tracking over the toes on the way up — no inward collapse
-- Stand fully tall at the top — complete hip and knee extension before the next rep
-- Exhale on the drive up
+- Drive up entirely through the working leg
+- The rear leg lifts off the floor and returns to hanging — contributes nothing to the drive
+- Extend the working knee and hip simultaneously to return to standing
+- Keep the knee tracking over the toes on the way up
+- Stand fully tall at the top; exhale on the drive up
 
 ### Progression
-- **Step 1** — Low box (10 cm), both hands on support — focus purely on the movement pattern and heel contact
-- **Step 2** — Low box, one hand lightly on support — improve balance and single-leg stability
-- **Step 3** — Low box, no support — full bodyweight, controlled reps
-- **Step 4** — Increase box height gradually — more depth = more quad and patellar tendon demand
-- **Step 5** — Add load — hold dumbbells at sides or a plate at chest once depth and control are solid
-- Never increase box height and load at the same time — progress one variable at a time
+- Step 1: Low box (10 cm), both hands on support
+- Step 2: Low box, one hand lightly on support
+- Step 3: Low box, no support
+- Step 4: Increase box height gradually
+- Step 5: Add load once depth and control are solid
+- Never increase box height and load at the same time
 
 ### Key cues
-- **Heel stays on the box** — the non-negotiable; a rising heel means the range exceeds current ankle mobility
-- **Rear foot is a tap, not a step** — it touches and immediately lifts; all loading stays on the working leg
-- **Knee forward over toes** — this is intentional ATG philosophy; do not hold the knee back
-- **Chest up** — resist the urge to fold forward as depth increases
-- Think "sit into the front knee" — the sensation should be a deep quad and patellar tendon loading
-- If you feel it in the knee joint (pain) rather than the muscle and tendon (working sensation), reduce box height
+- Heel stays on the box — non-negotiable
+- Rear foot is a tap, not a step
+- Knee forward over toes — intentional ATG philosophy
+- Chest up
+- Think "sit into the front knee"
 
 ### Common mistakes
-- ❌ Pushing off the rear foot — immediately unloads the working leg and defeats the exercise entirely
-- ❌ Working heel rising off the box — ankle mobility limitation; address with ankle stretches or lower the box
-- ❌ Knee caving inward — drive the knee out to track over the second toe throughout
-- ❌ Collapsing the torso forward — shifts load away from the quad; keep the chest tall
-- ❌ Box too high too soon — excessive range before the tendon and muscle are ready; earn height gradually
-- ❌ Dropping fast on the descent — control is the whole point; slow eccentric builds tendon resilience
-- ❌ Adding load before mastering bodyweight — tendons adapt slowly; do not rush to weight
+- ❌ Pushing off the rear foot
+- ❌ Working heel rising off the box
+- ❌ Knee caving inward
+- ❌ Collapsing the torso forward
+- ❌ Box too high too soon
+- ❌ Dropping fast on the descent
+- ❌ Adding load before mastering bodyweight
 
 ### Recommended loading & volume
-- Bodyweight to start — even athletes will find a higher box challenging without load
+- Bodyweight to start
 - 2–4 sets of 8–15 reps per leg
-- Can be done daily at low volume — tendons respond well to frequent, controlled loading
+- Can be done daily at low volume
 - Works well as a warm-up before squats or as a standalone knee rehab drill
-- Ankle mobility work done consistently between sessions will unlock more box height over time
 
 ## single-leg-reverse-hyper
 name: Single-Leg Reverse Hyper
-type: Glute / hamstring / lower back / posterior chain
+
+### Current program lower-back restrictions
+- Keep the movement glute-driven and lower under control.
+- Stop before the leg snaps into end-range hyperextension.
+- Shorten the range if the lower back works more than the glute.
 
 ### What & why
 - A unilateral version of the reverse hyperextension — one leg works at a time, increasing glute and hamstring isolation and exposing side-to-side imbalances
 - The working leg extends backward against gravity (or resistance), training hip extension through a full range
-- Decompresses the lumbar spine on the descent — often used as both a strength and spinal health exercise
-- The non-working leg hangs passively or rests on the bench — it contributes nothing to the movement
-- Excellent for glute development, hamstring strengthening, and lower back rehab when done correctly
+- Decompresses the lumbar spine on the descent
+- The non-working leg hangs passively — it contributes nothing to the movement
 
 ### Equipment options
-- **Dedicated machine** — Reverse hyper machine — optimal; provides the smoothest resistance and best range of motion
-- **Bench** — Lie face-down on a flat or slight incline bench with hips at the edge — most common gym alternative
-- **GHD machine** — Face-down with hips at the pad edge — works well for the single leg version
-- **Plyo box** — Lie face-down with hips at the edge — low-tech option that works fine for bodyweight version
+- Dedicated reverse hyper machine — optimal
+- Bench — lie face-down with hips at the edge — most common gym alternative
+- GHD machine — works well for the single leg version
+- Plyo box — low-tech option that works fine for bodyweight version
 
 ### Setup — bench version
 - Lie face-down (prone) on the bench — hips at or just past the edge of the bench
 - The hip crease should be right at the bench edge — not the stomach, not the thighs
-- Grip the sides or end of the bench firmly with both hands — this anchors the upper body
-- Non-working leg: let it hang down toward the floor, foot lightly resting on the floor or hanging freely
+- Grip the sides or end of the bench firmly with both hands
+- Non-working leg: let it hang down toward the floor
 - Working leg: starts hanging down toward the floor, knee can be slightly bent or straight
-- Upper body stays flat and still on the bench throughout — do not rotate or twist the torso
-
-> Hip position at the bench edge is critical — too far forward and you lose range; too far back and the bench digs into the thighs and restricts movement.
+- Upper body stays flat and still on the bench throughout
 
 ### Execution — lift phase
 - Squeeze the glute of the working leg and lift the leg upward and backward — hip extension is the movement
-- Keep the leg straight or very slightly soft at the knee — do not bend it significantly during the lift
-- Raise the working leg until it is in line with the torso or slightly above — do not hyperextend the lower back to get the leg higher
-- At the top, the glute should be fully contracted and hard — squeeze and hold for 1 second
-- The pelvis stays level — do not rotate or hike the hip of the working leg to gain extra height
-- Upper body stays completely still — no pushing off the bench or twisting
+- Keep the leg straight or very slightly soft at the knee
+- Raise the working leg until it is in line with the torso or slightly above — do not hyperextend the lower back
+- At the top, squeeze the glute hard for 1 second
+- The pelvis stays level — do not rotate or hike the hip of the working leg
+- Upper body stays completely still
 - Exhale at the top of the lift
 
 ### Execution — descent phase
 - Lower the leg slowly and under full control — 2–3 seconds on the way down
 - Allow the leg to descend below the bench level — let gravity pull it into a full stretch at the bottom
-- At the bottom, feel a full stretch through the glute and hamstring — do not cut the range short
-- Do not let the leg swing or drop — resist gravity all the way down
-- Brief pause at the bottom in the stretched position before the next rep
-- Inhale on the descent
+- Feel a full stretch through the glute and hamstring — do not cut the range short
+- Do not let the leg swing or drop
+- Brief pause at the bottom in the stretched position; inhale on the descent
 
 ### Knee position options
-- **Straight leg** — More hamstring involvement throughout the range — harder, greater demand on the posterior chain
-- **Bent knee (90°)** — Shortens the hamstring and shifts emphasis almost entirely to the glute — easier to isolate, less hamstring contribution
-- Straight leg is the standard starting point; bent knee is useful if hamstring flexibility is a limiting factor
+- Straight leg — more hamstring involvement, greater demand on the posterior chain
+- Bent knee (90°) — shifts emphasis almost entirely to the glute — easier to isolate
 
 ### Key cues
-- **Glute initiates** — squeeze the glute first, then the leg rises; do not just lift the leg with momentum
-- **Pelvis stays level** — no hip hiking or rotation; both sides of the pelvis stay even throughout
-- **Full range both ends** — leg goes above torso height at the top and drops below bench level at the bottom
-- **Upper body anchored** — grip the bench and stay completely still; any torso movement is compensation
-- Think "long leg, squeeze glute" — not "kick the leg up"
-- The movement should be felt entirely in the glute and hamstring — not the lower back
+- Glute initiates — squeeze the glute first, then the leg rises
+- Pelvis stays level — no hip hiking or rotation
+- Full range both ends
+- Upper body anchored — grip the bench and stay completely still
+- Think "long leg, squeeze glute"
 
 ### Common mistakes
-- ❌ Hyperextending the lower back to get the leg higher — the height comes from hip extension, not lumbar extension; if your back arches sharply, reduce range
-- ❌ Hip rotation/hiking — the working hip should not twist upward to gain height; keep the pelvis flat and level
-- ❌ Swinging the leg up with momentum — kills the glute activation; control the entire rep
-- ❌ Not descending below bench level — cutting the bottom range removes the stretch and shortens the effective ROM
-- ❌ Pushing off the non-working foot — it should hang freely or rest passively; no assistance
-- ❌ Hips too far forward on the bench — restricts range and puts pressure on the abdomen instead of the hip crease
-- ❌ Feeling it in the lower back instead of the glute — reduce range of motion and focus on squeezing the glute before the leg moves
+- ❌ Hyperextending the lower back to get the leg higher
+- ❌ Hip rotation/hiking
+- ❌ Swinging the leg up with momentum
+- ❌ Not descending below bench level
+- ❌ Pushing off the non-working foot
+- ❌ Hips too far forward on the bench
+- ❌ Feeling it in the lower back instead of the glute
 
 ### Adding resistance
-- Bodyweight first — master the range and glute activation before adding any load
-- Ankle weight — easiest way to add resistance on a bench; strap to the working ankle
-- Cable ankle cuff — attach a low cable to the ankle for smooth, consistent resistance
-- Resistance band — loop around a rack and the ankle; resistance increases at the top of the lift
-- Dedicated reverse hyper machine — adds weight via a pendulum; smoothest loading option
+- Bodyweight first
+- Ankle weight, cable ankle cuff, resistance band, or dedicated reverse hyper machine
 
 ### Recommended loading & volume
-- Start with bodyweight — glute activation and range of motion are the priority
+- Start with bodyweight
 - 3–4 sets of 10–15 reps per leg
 - Works well at the end of a lower body session as a finisher or as a lower back decompression and rehab tool
-- Train both legs — always note if one side fatigues faster or has less range; address the weaker side
+- Train both legs — note if one side fatigues faster or has less range
 
-## cable-hip-abduction
-name: Cable Hip Abduction
-type: Glute medius / glute minimus / TFL
+## seated-hamstring-curl
+name: Seated Hamstring Curl
+
+### Current program use
+- Use the machine on Day 1 and Day 2.
+- Its placement keeps direct hamstring work at twice per week even when Day 3 is skipped.
+
+## back-extension
+name: Back Extension
+
+### Setup and execution
+- Use a 45-degree back-extension bench.
+- Hinge at the hips.
+- Squeeze the glutes at the top.
+- Do not hyperextend the lower back at the top.
+
+### Current program order
+- Perform the dynamic repetitions before the back-extension iso hold.
+- These repetitions fatigue the spinal erectors, which is why the leg section comes first.
+
+### Warning
+- The plan avoids heavy spinal loading and deep hip flexion under load.
+
+## back-extension-iso-hold
+name: Back Extension Iso Hold
+
+### Current program use
+- Perform this after the dynamic back extensions as the finisher.
+- Hold the hip-hinged back-extension position without hyperextending the lower back.
+
+### Warning
+- Stop if the lower-back sensation changes from muscular work to compression.
+
+## side-iso-hold
+name: Side Iso Hold
+
+### Current program use
+- This is anti-movement core work.
+- It is used alongside the Pallof press instead of flexion-based abdominal work.
+
+## outer-hip-circuit
+name: Outer Hip Circuit
+
+### Reference
+- https://youtu.be/jFsbu_ofGNM?list=LL
+
+### Key cue
+- Touch only the knee to the ground.
+
+### Program note
+- This circuit overlaps with the standing hip-abductor machine.
+- Both remain in the current plan; the machine is the easier item to trim if the combination feels redundant.
+
+## hip-abductor-machine
+name: Hip Abductor Machine
+
+### Current program equipment note
+- Keep the torso still and do not rock or use momentum.
+- The old plan text says "both legs," while the detailed form guide below describes one working leg at a time; confirm how the specific machine operates.
 
 ### What & why
-- Hip abduction = moving the leg away from the midline of the body — directly targets the glute medius and minimus
-- The glute medius is critical for pelvic stability during walking, running, and single-leg movements — weakness here causes knee valgus, hip drop, and lower back issues
-- Cable provides constant tension throughout the range — unlike a band which only peaks at the end, the cable loads the muscle evenly from start to finish
-- Unilateral — trains each side independently, exposing and correcting imbalances
+- A machine-based version of hip abduction, done standing rather than seated
+- The standing position requires the stance leg to stabilise the pelvis throughout
+- Targets the glute medius and minimus primarily
+- The machine pad provides consistent resistance directly against the outer thigh
 
 ### Setup
-- Set the cable pulley to the lowest position — ankle height
-- Attach an ankle cuff to the working leg
-- Stand side-on to the cable machine — the working leg is the one closest to the machine
-- The cable pulls from the inside (medial side) of the working leg — across your body
-- Step far enough away from the machine that there is tension on the cable at the start position — working leg slightly crossed in front of or behind the standing leg
-- Hold the cable machine frame lightly with the near hand for balance — or hold nothing for an extra stability challenge
-- Stand tall — chest up, core braced, hips level
+- Stand at the machine facing the frame, holding the handles or support bars for balance
+- Position the working leg so the pad or lever rests against the outer thigh, just above the knee
+- Standing leg is planted firmly on the platform — hip-width stance, knee slightly soft
+- Stand tall — chest up, core braced, spine neutral
+- Set the resistance/weight before starting — light to moderate
 
-### Execution — lift phase
-- Keep the working leg straight — only a very slight soft knee, not bent
-- Drive the working leg directly out to the side — pure abduction, away from the midline
-- Lead with the heel, not the toe — this cues a slight internal rotation that better targets the glute med
-- Raise the leg to roughly 30–45° from the standing leg — going higher typically causes the hip to hike or the torso to lean
-- At the top, squeeze the glute medius hard for 1 second
-- The torso stays completely upright — do not lean away from the cable to swing the leg higher
-- Pelvis stays level — the standing hip must not drop or hike during the movement
-- Exhale at the top
+### Execution — abduction phase
+- Keep the working leg straight or with only a very slight soft knee
+- Push the working leg outward against the pad — driving it directly away from the midline
+- Lead with the heel rather than the toe
+- Move through a controlled range — typically 30–45°
+- Squeeze the glute medius hard at the top for 1 second
+- Torso stays upright throughout
+- Pelvis stays level
+- Exhale on the push out
 
 ### Execution — return phase
-- Lower the leg slowly back toward the start — 2–3 seconds on the return
-- Resist the cable pulling the leg back across — control the adduction all the way in
-- Stop just before the leg crosses fully back to neutral — keep the glute med under tension
-- Do not let the cable snap the leg back or allow the leg to cross in front of the standing leg between reps
+- Return the leg slowly back toward the midline — 2–3 seconds
+- Resist the machine's resistance the entire way
+- Stop just before the leg returns to fully neutral
 - Inhale on the return
 
-### Standing leg
-- Slightly soft at the knee — do not lock it out rigidly
-- Foot points straight ahead — do not rotate it outward as a compensation
-- Glute of the standing leg is lightly engaged to keep the pelvis stable — this is part of the exercise
-- If the standing hip drops on every rep, slow down and focus on pelvic control — this is a sign of glute med weakness on the standing side too
+### Standing leg — the stability challenge
+- The standing leg's glute medius must fire isometrically to keep the pelvis level
+- If the standing hip drops during each rep, it signals weakness on that side too
+- Keep the standing foot pointed straight ahead
 
 ### Key cues
-- **Lead with the heel** — slightly internal rotation of the hip better targets the glute medius over the TFL
-- **Torso stays upright** — leaning away from the cable is cheating; the glute med must move the leg, not momentum
-- **Pelvis level throughout** — no hip hiking on either side; this is the core stability challenge of the exercise
-- **Resist the return** — the eccentric is where a significant amount of the training stimulus lives
-- Think "push the floor away with the standing foot" — helps maintain stability and keeps the pelvis from dropping
-- Quality of pelvic control matters more than how high the leg goes
+- Heel leads, not the toe
+- Torso stays upright
+- Pelvis level on both sides
+- Control the return
 
 ### Common mistakes
-- ❌ Leaning the torso away to get the leg higher — uses the obliques and momentum instead of the glute med
-- ❌ Hip hiking on the working side — the hip should stay level; hiking means the QL is compensating
-- ❌ Toe leading instead of heel leading — shifts load to the TFL and away from the glute medius
-- ❌ Leg crossing back too far on the return — loses tension and disrupts balance; stop at neutral
-- ❌ Bending the working knee — reduces the lever arm and makes it easier; keep the leg straight
-- ❌ Going too heavy — heavy weight forces compensation everywhere; the glute med is a small muscle, keep it light and controlled
-- ❌ Standing too close to the machine — removes the starting tension and turns the first part of the rep into a dead zone
+- ❌ Leaning the torso away from the working leg
+- ❌ Hip hiking or dropping on the standing side
+- ❌ Toe leading instead of heel leading
+- ❌ Bending the working knee
+- ❌ Using momentum or bouncing
+- ❌ Too much weight
+- ❌ Gripping the handles hard and pulling to assist
 
 ### Recommended loading & volume
-- Light to moderate weight — the glute medius is a relatively small muscle; form collapses quickly under too much load
+- Light to moderate weight
 - 3–4 sets of 12–20 reps per side
-- Works well as a warm-up before squats, lunges, or deadlifts to activate the glute med before heavy loading
-- Also effective as a finisher or standalone glute med isolation exercise
-- Train the weaker side first — most people have a dominant side that compensates in bilateral movements
+- Works well as a warm-up before squats, lunges, or deadlifts
+- Train the weaker side first
 
-## cable-hip-adduction
-name: Cable Hip Adduction
-type: Adductors / groin / inner thigh
+## hip-adductor-machine
+name: Hip Adductor Machine
+
+### Current program use
+- Keep the torso still and do not rock or use momentum.
 
 ### What & why
-- Hip adduction = moving the leg toward and across the midline of the body — directly targets the adductor group (adductor magnus, longus, brevis) and the gracilis
-- The adductors are chronically undertrained yet critical for hip stability, groin health, and athletic performance
-- Cable provides constant tension through the full range — unlike a machine which may have slack at the start
-- The opposite of hip abduction — together they balance the hip musculature and protect the groin from injury
+- A seated machine that isolates the adductor group
+- Both legs work simultaneously against pads positioned on the inner thighs
+- The seated, supported position removes balance demands entirely
+- Adductors are involved in every squat, lunge, and change-of-direction movement — chronically undertrained
 
 ### Setup
-- Set the cable pulley to the lowest position — ankle height
-- Attach an ankle cuff to the working leg
-- Stand side-on to the cable machine — the working leg is the one furthest from the machine
-- The cable pulls from the outside (lateral side) of the working leg — the leg must cross toward and past the standing leg
-- Step far enough away from the machine that the working leg is held out to the side at the start with good cable tension — roughly 30–45° abducted from the standing leg
-- Hold the cable machine frame lightly with the far hand for balance
-- Stand tall — chest up, core braced, hips level
-
-> Unlike abduction where the working leg is closest to the machine, here the working leg is furthest — the cable pulls it outward and you bring it inward against that resistance.
+- Sit in the machine with your back flat against the pad
+- Adjust the seat position so your knees align with the machine's pivot point
+- Place the outer thighs/knees against the pads at the machine's widest (start) setting
+- Grip the handles lightly to stabilise the torso
+- Feet flat on the footrest if provided
 
 ### Execution — adduction phase
-- From the starting position with the leg out to the side, sweep the working leg inward across your body
-- Keep the leg straight — only a very slight soft knee throughout
-- Drive the leg across the midline and slightly past the standing leg — the full range ends when the leg crosses in front of the standing foot
-- The movement is a smooth arc — not a kick, not a jerk
-- Squeeze the inner thigh and adductors hard at the peak of the crossover — hold for 1 second
-- Torso stays completely upright — do not lean toward the machine as you pull the leg across
-- Pelvis stays level — no hip hiking or dropping on either side
-- Exhale at the peak of the adduction
+- Squeeze both legs together by pressing the pads inward
+- The movement should feel smooth and controlled throughout
+- Bring the legs together until the pads meet or the machine's range ends
+- Squeeze the inner thighs hard at the fully closed position for 1 second
+- Keep the torso still and upright throughout
+- Exhale as the legs come together
 
 ### Execution — return phase
-- Slowly allow the cable to pull the leg back out to the starting position — 2–3 seconds on the return
-- Resist the cable the entire way out — the eccentric stretch of the adductors is a key part of the stimulus
-- Return to the starting abducted position with full tension still on the cable — do not let it go slack
-- Do not swing or let gravity drop the leg outward — control it fully
+- Allow the legs to open back out slowly — 2–3 seconds
+- Resist the machine's resistance the whole way back
+- Open to the full starting range — feel the stretch across the inner thighs
 - Inhale on the return
 
-### Standing leg
-- Slightly soft at the knee — not locked out
-- Foot points straight ahead throughout — do not rotate it to compensate
-- The working leg crosses in front of the standing foot at peak adduction — the standing leg stays still and planted
-- Balance is a real challenge here — use light hand contact on the machine if needed, especially early on
-
 ### Key cues
-- **Leg stays straight** — bending the knee reduces the lever and takes load off the adductors
-- **Cross the midline** — stopping at neutral misses the peak contraction; the leg must travel past the standing leg
-- **Torso upright, no lean** — leaning toward the cable is compensation; the adductors must do the pulling
-- **Resist the return** — the adductors are being stretched under load on the way back; this is where groin injury resilience is built
-- Think "sweep the floor with the heel" — keeps the leg long and the movement controlled
-- Feel it along the inner thigh from the groin to the knee — if you feel it elsewhere, something is compensating
+- Full range both ends
+- Torso stays still
+- Slow and controlled throughout
+- Squeeze at the top
 
 ### Common mistakes
-- ❌ Not crossing the midline — stopping at neutral cuts the range and misses the peak adductor contraction entirely
-- ❌ Leaning toward the machine — uses the obliques and body weight instead of the adductors to pull the leg across
-- ❌ Bending the working knee — shortens the lever and reduces adductor load; keep the leg long
-- ❌ Kicking or swinging the leg — momentum bypasses the adductors; the movement must be slow and deliberate
-- ❌ Hip hiking on the working side — the pelvis must stay level; hiking means the QL or hip flexor is compensating
-- ❌ Letting the cable snap the leg back out — always resist the return; uncontrolled eccentric is a groin strain risk
-- ❌ Standing too close to machine — reduces the starting range and removes tension at the beginning of the rep
-- ❌ Too much weight — forces compensation throughout; adductors fatigue fast, keep the load honest
+- ❌ Partial range of motion
+- ❌ Using momentum
+- ❌ Rocking the torso forward
+- ❌ Letting the machine snap the legs back open
+- ❌ Seat position misaligned with the pivot point
+- ❌ Too much weight too soon
 
 ### Recommended loading & volume
-- Light to moderate weight — adductors are often weak and untrained; build gradually
-- 3–4 sets of 12–20 reps per side
-- Pair with cable hip abduction in the same session for complete hip stability training
-- Works well as a warm-up before squats and deadlifts, or as a standalone groin strengthening and injury prevention exercise
-- If you have a history of groin strains, start with very light resistance and prioritise the slow eccentric — this is where groin resilience is built
+- Moderate weight
+- 3–4 sets of 12–20 reps
+- Pair with the hip abductor machine in the same session
+- If you have a history of groin strains, start light and prioritise the full range and controlled eccentric
 
 ## bench-thoracic-extension
 name: Bench Thoracic Extension
-type: Thoracic spine mobility / posture / upper back extension
+
+### Current program lower-back restrictions
+- Extend through the thoracic spine only.
+- Keep the lower back neutral and do not let it overarch.
+- Use bodyweight or only a light plate.
+- The intended sensation is upper-back opening, not lower-back compression.
 
 ### What & why
 - A thoracic mobility drill — uses the edge of a bench as a fulcrum to extend and open the upper and mid back
-- The thoracic spine (T1–T12) is designed to extend and rotate but becomes stiff and kyphotic (rounded forward) from prolonged sitting, desk work, and heavy pressing
-- Restoring thoracic extension directly improves overhead pressing, pulling mechanics, posture, and reduces strain on the cervical spine and lower back
-- A passive stretch — gravity does the work; you simply relax into the position
+- The thoracic spine becomes stiff and kyphotic (rounded forward) from prolonged sitting, desk work, and heavy pressing
+- Restoring thoracic extension directly improves overhead pressing, pulling mechanics, posture, and reduces strain on the cervical and lower back
+- A passive stretch — gravity does the work
 
 ### Setup
-- Use a flat bench — the edge of the pad acts as the pivot point for the extension
+- Use a flat bench — the edge of the pad acts as the pivot point
 - Sit on the floor in front of the bench with your back facing it
-- Shuffle back until the bench edge sits across your mid-to-upper back — roughly at the level of your shoulder blades (T4–T8 is the most common target zone)
-- Cross your arms over your chest or place both hands behind your head — hands behind the head opens the chest more and is generally preferred
-- Feet flat on the floor, knees bent — this protects the lower back and keeps the pelvis grounded
-
-> If the bench edge feels too sharp or uncomfortable, fold a towel or yoga mat over it to soften the contact point slightly — but too much padding reduces the mobilisation effect.
+- Shuffle back until the bench edge sits across your mid-to-upper back — roughly at shoulder blade level (T4–T8 most common target)
+- Cross your arms over your chest or place both hands behind your head
+- Feet flat on the floor, knees bent — protects the lower back
 
 ### Targeting different thoracic levels
-- The bench edge contacts one segment at a time — where you position your back on the bench determines which vertebral level you mobilise
-- Higher on the back (upper thoracic, T1–T4) — shuffle closer to the bench so the edge is near the tops of the shoulder blades
-- Mid thoracic (T5–T8) — most common and most restricted segment; bench edge sits across the middle of the shoulder blades
-- Lower thoracic (T9–T12) — shuffle further from the bench so the edge is below the shoulder blades
-- Work through multiple levels in one session by shuffling up or down between sets
+- Higher on the back (T1–T4) — shuffle closer to the bench
+- Mid thoracic (T5–T8) — most common and most restricted segment
+- Lower thoracic (T9–T12) — shuffle further from the bench
+- Work through multiple levels in one session
 
 ### Execution — extension
-- Once positioned, allow your upper back to drape over the bench edge — let gravity pull your head and shoulders toward the floor
-- Do not force or push — this is a passive stretch; simply breathe and let the weight of your upper body do the work
-- Head hangs back naturally — do not strain the neck; support it lightly with your hands if it feels uncomfortable
-- Arms stay crossed or hands stay behind the head — do not use the arms to push or assist the extension
+- Allow your upper back to drape over the bench edge — let gravity pull your head and shoulders toward the floor
+- Do not force or push — this is a passive stretch
+- Head hangs back naturally — support it lightly with your hands if uncomfortable
 - Hold each position for 5–10 slow deep breaths — roughly 30–60 seconds per segment
-- On each exhale, consciously let the upper back sink a little further into the stretch — breathing out reduces muscular tension and allows more extension
+- On each exhale, consciously let the upper back sink a little further
 
 ### Active variation — segmental mobilisation
-- Instead of a passive hold, you can add gentle active repetitions — slowly extend over the bench and then curl back up, using the bench as a pivot
+- Add gentle active repetitions — slowly extend over the bench and then curl back up
 - Perform 8–10 slow reps per segment before moving to the next level
-- This dynamic version helps mobilise the facet joints and is often more effective than passive holding alone
-- Control the movement both ways — do not let gravity drop you back hard
 
 ### Protecting the lower back
-- Keep knees bent and feet flat on the floor throughout — this prevents the lumbar spine from extending along with the thoracic
-- The lower back should stay relatively neutral — the extension should happen above the bench edge, not below it
-- If you feel the stretch in your lower back rather than your upper back, the bench edge is too low — move it higher up your back
-- Engage the core very lightly during active reps — just enough to protect the lumbar without bracing so hard that the thoracic can't move
+- Keep knees bent and feet flat on the floor throughout
+- The lower back should stay relatively neutral
+- If you feel the stretch in your lower back rather than upper back, the bench edge is too low
 
 ### Key cues
-- **Relax and breathe** — tension in the back muscles prevents the stretch; exhale and melt into the extension
-- **Bench edge = fulcrum** — all the extension happens at that specific contact point; reposition deliberately to target different segments
-- **Head is heavy — let it hang** — do not hold the head up; its weight assists the extension
-- **Knees bent, feet flat** — protects the lumbar and keeps the pelvis stable throughout
-- Think "open the chest to the ceiling" — this mental cue helps the thoracic extend rather than the lower back compensating
-- Audible clicks or pops are common and normal — this is joint cavitation, not damage
+- Relax and breathe
+- Bench edge = fulcrum
+- Head is heavy — let it hang
+- Knees bent, feet flat
 
 ### Common mistakes
-- ❌ Bench edge too low on the back — extends the lumbar instead of the thoracic; reposition higher
-- ❌ Legs straight on the floor — allows the lumbar to extend along with the thoracic, stressing the lower back
-- ❌ Tensing the back muscles — defeats the passive stretch; consciously release all tension, especially on the exhale
-- ❌ Holding the head up — the head's weight is part of the stretch mechanism; let it hang back
-- ❌ Rushing — 30–60 seconds minimum per segment; connective tissue takes time to respond to a sustained stretch
-- ❌ Only doing one position — work multiple thoracic segments in a session for a comprehensive mobilisation
+- ❌ Bench edge too low on the back
+- ❌ Legs straight on the floor
+- ❌ Tensing the back muscles
+- ❌ Holding the head up
+- ❌ Rushing — 30–60 seconds minimum per segment
+- ❌ Only doing one position
 
 ### Recommended volume & timing
 - 30–60 seconds per thoracic segment — work 2–4 different levels per session
-- Can be done daily — thoracic mobility responds well to frequent, low-intensity work
+- Can be done daily
 - Excellent as a warm-up before any overhead pressing, pulling, or rowing
-- Also highly effective as a daily posture reset — especially useful after long periods of sitting
-- ⚠ Avoid if you have an acute thoracic or cervical spine injury — check with a physio first
+- ⚠ Avoid if you have an acute thoracic or cervical spine injury
 
 ## deep-squat
 name: Deep Squat
-type: Hip / ankle / thoracic mobility · hip flexor · groin · lower back
+
+### Current program use
+- Use support, heel elevation, or a counterbalance as needed.
+- Treat the position as an active supported mobility hold.
+- It should feel like ankle and hip opening rather than lumbar strain.
+- If the pelvis tucks under or the lower back rounds or aches, add support or shorten the holds to 45-60 seconds.
 
 ### What & why
-- A full-depth squat held as a static position — the goal is to sit comfortably at the bottom of a squat with heels flat, chest up, and spine neutral
+- A full-depth squat held as a static position — sit comfortably at the bottom of a squat with heels flat, chest up, spine neutral
 - Simultaneously stretches the hips, groin, adductors, hip flexors, ankles, and thoracic spine
-- Considered a fundamental human resting position — restoring it indicates solid overall lower body and spinal mobility
-- Regular practice reduces lower back tightness, improves squat depth, and builds the hip and ankle range needed for ATG work
+- Considered a fundamental human resting position
+- Regular practice reduces lower back tightness, improves squat depth, and builds hip and ankle range
 
 ### Foot position
-- Feet roughly shoulder-width apart — exact width varies by hip anatomy; find the width that lets you reach depth without heels rising
-- Toes pointed out at 30–45° — a moderate external rotation allows the hips to clear the thighs at depth
-- Both heels must stay flat on the floor — this is the primary goal and the main limiting factor for most people
-- If heels rise, widen the stance slightly or use a heel elevation (see progressions) — do not force flat heels by collapsing the arch
+- Feet roughly shoulder-width apart
+- Toes pointed out at 30–45°
+- Both heels must stay flat on the floor
+- If heels rise, widen the stance slightly or use a heel elevation
 
 ### Getting into position
-- Stand with feet in position, then slowly lower into the squat — do not drop fast
-- If balance is difficult, hold a doorframe, squat rack upright, or TRX strap lightly to assist descent
-- Once at the bottom, adjust foot width and toe angle until you find the most comfortable deep position
-- Sink all the way down — hips below parallel, ideally hips close to or between the heels
+- Slowly lower into the squat — do not drop fast
+- If balance is difficult, hold a doorframe, squat rack upright, or TRX strap lightly
+- Adjust foot width and toe angle until you find the most comfortable deep position
+- Sink all the way down
 
 ### Position at the bottom
-- Heels flat on the floor — non-negotiable for the full version
-- Knees tracking over the toes — in line with the second toe, not caving inward
-- Hips sinking between or just above the heels — true deep squat depth
-- Chest up and torso as upright as possible — some forward lean is natural but the spine should not be rounded into a C-shape
-- Lumbar spine neutral or very slightly rounded — a small amount of posterior pelvic tilt at full depth is normal and acceptable
-- Elbows can be pressed against the inner knees to push them out — this helps keep the knees tracking correctly and opens the hips
-- Arms can hang between the legs, hands pressed together at the chest (prayer position), or extended forward for counterbalance
-
-> The prayer position (palms together at chest, elbows pressing knees outward) is the classic deep squat hold cue — it simultaneously keeps the chest up, opens the hips, and creates a stable position to hold.
+- Heels flat on the floor
+- Knees tracking over the toes
+- Hips sinking between or just above the heels
+- Chest up and torso as upright as possible
+- Elbows can be pressed against the inner knees to push them out
+- Arms can hang, hands pressed together at the chest (prayer position), or extended forward
 
 ### Breathing in the hold
 - Breathe slowly and deeply — do not hold the breath
-- Inhale into the belly — diaphragmatic breathing creates intra-abdominal pressure that stabilises the spine at depth
-- On each exhale, consciously relax the hips, groin, and inner thighs — letting them release further into the stretch
-- Use the breath as a tool — each exhale is an opportunity to sink slightly deeper
+- Inhale into the belly
+- On each exhale, consciously relax the hips, groin, and inner thighs
 
-### Progressions — if you cannot hold the position yet
-- **Heel elevation** — Place a weight plate or wedge under both heels — compensates for limited ankle dorsiflexion; gradually reduce elevation over time
-- **Assisted hold** — Hold a doorframe, rack, or TRX with both hands — allows you to practice the position without falling backward
-- **Counterweight** — Hold a light dumbbell or plate at arm's length in front — shifts centre of mass forward and prevents tipping back
-- **Wider stance** — A wider foot position with more toe-out reduces hip impingement for those with tighter hips
-- Use whatever combination of these allows you to hold the bottom position — then gradually reduce assistance over weeks
+### Progressions
+- Heel elevation — place a weight plate or wedge under both heels
+- Assisted hold — hold a doorframe, rack, or TRX
+- Counterweight — hold a light dumbbell or plate at arm's length in front
+- Wider stance — reduces hip impingement for tighter hips
 
 ### Key cues
-- **Heels down** — the defining feature of a true deep squat hold; everything else adjusts around this
-- **Chest up** — fight the urge to round forward; a tall chest keeps the thoracic spine extended and the position sustainable
-- **Knees out** — use the elbows to push them into alignment if they cave; knees track the toes throughout
-- **Relax into it** — this is a mobility drill, not a strength exercise; tension works against you here
-- Think "sit between your heels, not on top of them" — encourages the hips to sink back and down
-- If it feels like hard work to stay in position, use an assisted variation — the hold should be restorative, not a constant struggle
+- Heels down — the defining feature
+- Chest up
+- Knees out — use elbows to push them into alignment
+- Relax into it — this is a mobility drill, not a strength exercise
+- Think "sit between your heels, not on top of them"
 
 ### Common mistakes
-- ❌ Heels rising — the most common failure; either widen the stance, elevate the heels, or hold support until ankle mobility improves
-- ❌ Knees caving inward — use elbows to push them out; inward collapse stresses the knee joint at this depth
-- ❌ Excessive forward torso lean or full spinal rounding — usually caused by tight hips or ankles; use progressions to find a position where the chest can stay up
-- ❌ Holding the breath — creates unnecessary tension that prevents the hips from relaxing into the stretch
-- ❌ Forcing depth without the mobility — collapsing into a poor position does not build the mobility; use an assisted variation at the correct depth
-- ❌ Only doing it occasionally — thoracic and hip mobility respond to frequency; short daily holds beat long infrequent sessions
+- ❌ Heels rising
+- ❌ Knees caving inward
+- ❌ Excessive forward torso lean or full spinal rounding
+- ❌ Holding the breath
+- ❌ Forcing depth without the mobility
+- ❌ Only doing it occasionally
 
 ### Recommended volume & timing
-- Start with 30 seconds and build toward 2–5 minutes total time in the bottom position per day
-- Can be broken into multiple shorter holds — e.g. 3 × 60 seconds — rather than one long continuous hold
-- Daily practice is ideal — even 60–90 seconds every day produces noticeable mobility gains within weeks
-- Works well as a warm-up before any lower body session or as a standalone daily mobility drill
-- ⚠ Avoid or modify if you have acute knee pain at depth — reduce depth or use heel elevation and check with a physio if pain persists
+- Start with 30 seconds and build toward 2–5 minutes total time per day
+- Can be broken into multiple shorter holds
+- Daily practice is ideal
+- ⚠ Avoid or modify if you have acute knee pain at depth
 
-## loaded-butterfly
-name: Loaded Butterfly
-type: Adductors / groin / hip external rotators / inner thigh
+## loaded-butterfly-stretch
+name: Loaded Butterfly Stretch
 
 ### What & why
-- The butterfly stretch positions the legs in hip external rotation and abduction — stretching the adductors, groin, and hip external rotators simultaneously
-- Adding weight (a plate resting on the inner thighs) increases the stretch intensity passively — gravity and the load do the work rather than active pushing
-- Loaded stretching has been shown to produce greater long-term flexibility gains than unloaded stretching alone — the mechanical load encourages connective tissue remodelling over time
-- Targets one of the most commonly tight and undertrained areas — groin and hip flexibility directly improves squat depth, athletic performance, and reduces injury risk
+- The butterfly stretch positions the legs in hip external rotation and abduction — stretching adductors, groin, and hip external rotators simultaneously
+- Adding weight increases the stretch intensity passively
+- Loaded stretching has been shown to produce greater long-term flexibility gains than unloaded stretching alone
 
 ### Setup
-- Sit on the floor — use a yoga mat for comfort
-- Bring the soles of both feet together in front of you — feet touching, toes pointing forward
-- Pull the feet toward the groin — the closer the feet, the more intense the stretch; start with feet further away and progress closer over time
-- Let both knees fall outward toward the floor — this is the butterfly position
+- Sit on the floor — use a yoga mat
+- Bring the soles of both feet together in front of you
+- Pull the feet toward the groin — closer = more intense
+- Let both knees fall outward toward the floor
 - Place a weight plate flat across both inner thighs — above the knee, never directly on the knee joint
-- Start with 5–10 kg — this is enough load to be effective without being aggressive
-
-> Placing the plate above the knee on the inner thigh (not on the knee itself) is critical — the knee joint should never be directly loaded in this position.
+- Start with 5–10 kg
 
 ### Torso position
-- Sit tall with a neutral spine — do not round the lower back or slump
-- Tilt the pelvis slightly forward (anterior tilt) — sitting on the sit bones opens the hip joint; rocking back onto the tailbone closes it and dramatically reduces the stretch
-- If rounding is unavoidable, sit on a folded towel or yoga block to elevate the hips slightly — this makes the anterior tilt easier to hold
-- Chest up, shoulders relaxed and down — do not hunch forward
-- Can lean forward slightly from the hips (not rounding the lower back) to intensify — keep the spine long as you fold
+- Sit tall with a neutral spine
+- Tilt the pelvis slightly forward (anterior tilt) — sitting on the sit bones opens the hip joint
+- If rounding is unavoidable, sit on a folded towel or yoga block
+- Chest up, shoulders relaxed and down
 
 ### During the hold
 - Do not actively push or bounce the knees down — let the weight sink them passively over time
-- Breathe slowly and deeply — inhale through the nose, exhale through the mouth
-- On each exhale, consciously release tension in the inner thighs and groin — let the knees sink a little further with every breath out
-- Scan for tension in the hips, groin, and inner thighs on every exhale and actively let it go
-- Think "knees melt to the floor" — passive sinking, not active forcing
+- Breathe slowly and deeply
+- On each exhale, consciously release tension in the inner thighs and groin
 
 ### Foot distance variations
-- **Feet far from groin** — Less intense — easier starting point, more comfortable for tight hips
-- **Feet close to groin** — More intense — greater hip external rotation demand and adductor stretch
-- Progress feet closer to the groin over weeks as flexibility improves — do not force it early
+- Feet far from groin — less intense, easier starting point
+- Feet close to groin — more intense
+- Progress feet closer to the groin over weeks
 
 ### Key cues
-- **Sit on your sit bones** — posterior tilt closes the hip; anterior tilt opens it — this single adjustment can double the effectiveness of the stretch
-- **Weight on the thighs, not knees** — above the knee only; never load the knee joint directly in this position
-- **Relax, don't force** — the load does the work; actively bouncing or pressing can strain the groin
-- **Exhale to deepen** — each breath out is the cue to release and sink further
-- If one knee is significantly higher than the other, note the asymmetry — the tighter side will catch up with consistent practice
+- Sit on your sit bones — posterior tilt closes the hip; anterior tilt opens it
+- Weight on the thighs, not knees
+- Relax, don't force
+- Exhale to deepen
 
 ### Common mistakes
-- ❌ Rocking back onto the tailbone — closes the hip joint and kills the stretch; sit tall on the sit bones
-- ❌ Plate directly on the knee joint — uncomfortable and potentially harmful; place it on the inner thigh above the knee
-- ❌ Bouncing the knees — ballistic stretching of the adductors risks groin strain; passive and slow only
-- ❌ Too much weight too soon — start light; the groin is a sensitive area under load
-- ❌ Rounding the lower back — reduces hip opening and compresses the lumbar; use a block under the hips if needed
-- ❌ Holding the breath — creates tension that prevents the groin from releasing; breathe continuously
-- ❌ Feet too far from the groin — reduces stretch intensity significantly; pull feet closer over time to progress
+- ❌ Rocking back onto the tailbone
+- ❌ Plate directly on the knee joint
+- ❌ Bouncing the knees
+- ❌ Too much weight too soon
+- ❌ Rounding the lower back
+- ❌ Holding the breath
+- ❌ Feet too far from the groin
 
 ### Recommended volume & timing
-- Hold for 60–120 seconds per set — adductor connective tissue responds to sustained holds, not short ones
+- Hold for 60–120 seconds per set
 - 2–3 sets per session
-- Start with 5 kg and progress slowly — 10–15 kg is plenty for most people long term
-- Can be done daily — passive loaded stretching at this intensity is restorative, not fatiguing
-- Best done when tissues are warm — after a lower body session or a light warm-up
-- ⚠ History of groin strains — start completely unloaded and progress very gradually; the adductors are vulnerable under stretch load
+- Start with 5 kg and progress slowly — 10–15 kg is plenty long term
+- Can be done daily
+- ⚠ History of groin strains — start completely unloaded and progress very gradually
 
-## vajrasana
-name: Vajrasana
-type: Kneeling pose · quad stretch · ankle dorsiflexion · knee health
+## foot-sit
+name: Foot Sit
 
 ### What & why
-- Vajrasana (thunderbolt or diamond pose) is a kneeling seated position — you sit back on the heels with the tops of the feet flat on the floor
-- Stretches the quadriceps, hip flexors, ankles, and tops of the feet simultaneously
-- Builds ankle plantar flexion range — the ankle is loaded in full plantar flexion with bodyweight, which is rarely trained directly
-- Used in yoga, martial arts, and ATG-style training as a foundational kneeling position and restorative pose
-- Also gently loads the knee joint through flexion — over time builds knee resilience when approached gradually
-
-### Setup — getting into position
-- Start kneeling upright on a soft surface — yoga mat, carpet, or pad under the knees
-- Knees together or hip-width apart — together is traditional and more quad intensive; hip-width is easier for beginners
-- Tops of the feet flat on the floor — toes pointing straight back, not splayed out to the sides
-- Slowly lower the hips back toward the heels — sit the glutes down onto or between the heels
-- Use your hands on the floor beside you to control the descent — especially if the quads or ankles are tight
-- Once seated, place hands on the thighs, palms down — or rest them in the lap
-
-> If the hips cannot reach the heels without significant pain, place a folded blanket, yoga block, or rolled towel between the thighs and calves — this reduces the range and makes the position immediately more accessible.
-
-### Full position — body alignment
-- Hips rest on or between the heels — glutes fully in contact with the heels in the full expression
-- Spine tall and neutral — sit upright, do not slump forward or lean back
-- Shoulders relaxed and down — away from the ears
-- Head neutral — chin slightly tucked, crown of the head reaching up
-- Tops of feet are flat and symmetrical — both feet pointing straight back, no rolling to the outside edges
-- Big toes may touch or be slightly apart — do not let the feet splay wide outward
-- Knees remain on or close to the floor throughout — do not let them lift
-
-### Where you should feel it
-- A stretch across the tops of the feet and ankles — plantar flexion loading
-- A stretch along the front of the shins and lower quads
-- Compression or mild pressure behind the knee joint — normal; if it is sharp pain, come out and use a prop
-- A gentle quad stretch across the front of the thigh — more pronounced the more upright the torso
-
-### Breathing & holding
-- Breathe slowly and naturally — deep diaphragmatic breathing
-- On each exhale, relax the quads and allow the hips to sink slightly heavier onto the heels
-- Do not fight the position with muscle tension — the goal is to soften into it over time
-- If numbness in the feet develops during a long hold, come out briefly, shake out the legs, then return
-
-### Progressions — if you cannot sit fully back
-- **Prop between thighs and calves** — Place a folded blanket, yoga block, or rolled towel in the crease behind the knees — reduces the depth of knee flexion immediately
-- **Pad under the ankles** — Place a rolled towel under the ankles if the tops of the feet are very tight — reduces the plantar flexion demand
-- **Knees apart** — Wider knee position makes the hip sit lower between the calves rather than on top of them — often more comfortable for tight hips
-- **Partial sit** — Hover the hips slightly above the heels — builds quad and ankle tolerance without full depth; lower gradually over weeks
-- Remove props gradually as the ankles, quads, and knees adapt over time
-
-### Loading variation — weighted vajrasana
-- Once the unloaded position is comfortable, a light plate can be placed on the thighs to increase the stretch stimulus
-- 5–10 kg is sufficient — the extra load deepens the quad and ankle stretch passively
-- Only add load once you can sit comfortably in the full position for at least 60 seconds unloaded
-
-### Key cues
-- **Tops of feet flat** — feet must not roll outward; the instep stays in contact with the floor
-- **Sit tall** — slumping forward reduces the quad stretch and stresses the lower back; upright posture is key
-- **Use a prop rather than forcing depth** — a prop at the right height allows a comfortable hold; forcing past your limit causes pain and compensation
-- **Exhale to sink** — use each breath out to release tension and let gravity do the work
-- Tingling or mild foot numbness during long holds is normal — come out briefly if it develops and return
-
-### Common mistakes
-- ❌ Feet splaying outward — the tops of the feet roll to the outside edge; keep feet pointing straight back and flat
-- ❌ Leaning forward to compensate for tight quads — reduces the stretch and strains the lower back; sit upright and use a prop instead
-- ❌ Forcing full depth with sharp knee pain — sharp joint pain is a signal to stop; use a prop or reduce depth
-- ❌ Holding breath or tensing — prevents the tissues from relaxing into the stretch; breathe continuously
-- ❌ Knees too wide — changes the angle and reduces the quad stretch; keep knees hip-width or closer
-- ❌ Skipping props out of pride — using a prop at the right height is far more effective than suffering through a painful half-position
-
-### Recommended volume & timing
-- Hold for 30–120 seconds per set — build up gradually, especially if new to kneeling positions
-- 2–3 sets per session
-- Can be done daily — excellent as a post-workout cooldown or standalone ankle and quad mobility drill
-- Pairs well after ATG split squats, reverse step-ups, or any quad-dominant work to restore the ankle and quad range used during training
-- ⚠ Existing knee issues — approach carefully; sharp pain inside the joint is a reason to stop; mild stretch discomfort behind the knee is generally normal and improves with time
-
-## toe-sit-stretch
-name: Toe Sit Stretch
-type: Plantar fascia / toe flexors / sole of foot / ankle
-
-### What & why
-- The toe sit is the opposite of vajrasana — instead of sitting with the tops of the feet flat, you sit back on the heels with the toes tucked under (dorsiflexed)
-- Directly stretches the plantar fascia, the toe flexor tendons, and the entire sole of the foot under significant load
-- One of the most intense foot and plantar fascia stretches available — bodyweight alone creates enormous tension through the sole
+- The opposite of vajrasana — sit back on the heels with the toes tucked under (dorsiflexed)
+- Directly stretches the plantar fascia, toe flexor tendons, and entire sole of the foot under significant load
+- One of the most intense foot and plantar fascia stretches available
 - Highly beneficial for plantar fasciitis, tight calves, poor ankle dorsiflexion, and general foot health
-- Also used in ATG and martial arts training as a foundational foot conditioning drill
-- Notoriously uncomfortable for most people initially — especially those with chronically tight feet
+- Notoriously uncomfortable for most people initially
 
 ### Setup — getting into position
-- Start kneeling upright on a soft surface — yoga mat or carpet
-- Tuck all ten toes under — curl them so the pads of the toes are on the floor and the toes are bent back (dorsiflexed)
-- Both feet tucked symmetrically — toes pointing forward, not splaying out to the sides
-- Make sure the little toes are also tucked — they tend to escape; use your hands to manually tuck them if needed
-- Slowly sit the hips back onto the heels — use your hands on the floor to control the descent and manage the intensity
-- Once seated, place hands on the thighs or in the lap
-
-> The stretch can feel intense almost immediately — this is normal. The plantar fascia and toe flexors are rarely loaded this way and will be very reactive at first. Start with short holds and build over time.
+- Start kneeling upright on a soft surface
+- Tuck all ten toes under — curl them so the pads of the toes are on the floor
+- Both feet tucked symmetrically
+- Make sure the little toes are also tucked
+- Slowly sit the hips back onto the heels — use your hands to control the descent
 
 ### Full position — body alignment
-- Hips fully back on the heels — full bodyweight loading the plantar fascia and toes
-- Sit tall with a neutral spine — upright posture, do not slump or lean forward
-- Shoulders relaxed and down — away from the ears
-- Head neutral — chin slightly tucked
-- All ten toes remain tucked throughout — do not let any toes uncurl or flatten out
-- Knees stay on or close to the floor — do not let them lift off the ground
-- Heels stay together or hip-width apart — whichever is more comfortable
+- Hips fully back on the heels
+- Sit tall with a neutral spine
+- All ten toes remain tucked throughout
+- Knees stay on or close to the floor
 
 ### Where you should feel it
-- Intense stretch along the entire sole of the foot — from the heel to the ball of the foot
-- Strong pull along the plantar fascia — the band of connective tissue running the length of the foot
-- Stretch across the tops of the toes and the toe joints
-- Possible pulling sensation along the Achilles and lower calf — as the ankle is held in dorsiflexion under load
-- Mild compression behind the knee — normal; sharp pain inside the joint is not
+- Intense stretch along the entire sole of the foot
+- Strong pull along the plantar fascia
+- Stretch across the tops of the toes and toe joints
+- Possible pulling sensation along the Achilles and lower calf
 
 ### Managing intensity
-- **Reduce load** — Keep hands on the floor and bear some weight through the arms — reduces how much bodyweight loads the feet
-- **Partial sit** — Hover the hips slightly above the heels — reduces intensity significantly; gradually lower further over weeks
-- **Prop between thighs and calves** — A folded blanket reduces knee flexion depth and spreads the load — useful if the knees are also a limiting factor
-- **One foot at a time** — Tuck one foot and sit on it while the other foot rests normally — half the load, good starting point for very tight feet
-- Progress by gradually removing support and lowering hips over multiple sessions
+- Reduce load — keep hands on the floor and bear some weight through the arms
+- Partial sit — hover the hips slightly above the heels
+- Prop between thighs and calves
+- One foot at a time
 
 ### Breathing & holding
-- Breathe slowly and continuously — the urge to hold the breath is strong here; resist it
-- Inhale through the nose — exhale through the mouth slowly
-- On each exhale, consciously soften the feet and allow the hips to settle slightly heavier onto the heels
-- The intense sensation typically peaks within the first 30 seconds and then softens as the fascia begins to release — riding through this window is where the adaptation happens
-- Do not white-knuckle through sharp pain — distinguish between intense stretch discomfort (acceptable) and sharp joint or nerve pain (stop)
+- Breathe slowly and continuously — the urge to hold the breath is strong here
+- The intense sensation typically peaks within the first 30 seconds and then softens
+- Do not white-knuckle through sharp pain
 
 ### Key cues
-- **All ten toes tucked** — every toe must be curled under, including the little toes; missing toes reduces the stretch significantly
-- **Sit tall** — upright posture maximises the stretch through the foot and prevents lower back compensation
-- **Breathe through the intensity** — the sensation is fierce at first but softens within 30–60 seconds if you keep breathing and relaxing
-- **Hips fully back** — half-sitting above the heels reduces the load; commit to sitting fully back for the full effect
-- Think "melt the sole of the foot into the floor" — encourages the fascia to release rather than brace against the stretch
+- All ten toes tucked
+- Sit tall
+- Breathe through the intensity
+- Hips fully back
 
 ### Common mistakes
-- ❌ Little toes escaping — not tucking all toes means parts of the plantar fascia are not loaded; manually tuck every toe
-- ❌ Leaning forward — reduces the load on the feet and turns it into a different stretch; stay upright
-- ❌ Holding the breath — dramatically increases perceived pain and prevents the fascia from releasing; breathe continuously
-- ❌ Coming out too quickly — the peak intensity is in the first 30 seconds; most people bail before the tissue begins to release; stay in longer
-- ❌ Toes splaying sideways — feet should be symmetrical, toes pointing straight forward; splayed toes change the stretch angle
-- ❌ Skipping this because it hurts — the intensity is feedback about how tight the plantar fascia is, not a reason to avoid it; use a modified version instead
+- ❌ Little toes escaping
+- ❌ Leaning forward
+- ❌ Holding the breath
+- ❌ Coming out too quickly
+- ❌ Toes splaying sideways
+- ❌ Skipping this because it hurts
 
 ### Recommended volume & timing
-- Start with 20–30 seconds — this will feel like a long time initially
+- Start with 20–30 seconds
 - Build toward 1–2 minutes per set over several weeks
 - 1–3 sets per session
-- Can be done daily — especially effective first thing in the morning when the plantar fascia is tightest, or after training
-- Pairs naturally with vajrasana — alternate between the two (toes flat then toes tucked) for a complete foot and ankle mobility sequence
-- ⚠ Acute plantar fasciitis flare — start with a very light partial sit; the stretch is therapeutic but too much load on an inflamed fascia can aggravate it; build up carefully
-- ⚠ Sharp toe joint pain — reduce load using the arm support or partial sit variation; do not force through joint pain
+- Can be done daily — especially first thing in the morning or after training
+- Pairs naturally with vajrasana
+- ⚠ Acute plantar fasciitis flare — start with a very light partial sit
+- ⚠ Sharp toe joint pain — reduce load
 
-## long-lunge
-name: Long Lunge
-type: Iliopsoas / rectus femoris / hip flexors / anterior hip
+## hip-flexor-stretch
+name: Long Lunge or Couch Stretch
+type: Hip flexor / quadriceps mobility
 
-### What & why
-- A kneeling lunge position with a long stride — the greater the distance between the front and rear foot, the deeper the hip flexor stretch on the rear leg
-- Primarily stretches the iliopsoas and rectus femoris of the rear leg — the hip flexors that attach to the lumbar spine and are chronically shortened by prolonged sitting
-- Tight hip flexors contribute to anterior pelvic tilt, lower back pain, and reduced glute activation — this stretch directly addresses all three
-- The long stride differentiates this from a standard lunge stretch — more distance = more hip extension on the rear hip = deeper stretch
+### Current program use
+- Pick one version per session rather than performing both.
+- Alternating versions between Day 1 and Day 2 preserves the original variation.
+- Keep the lower back neutral and maintain the posterior pelvic tilt; do not use anterior pelvic tilt to fake depth.
+- The couch stretch is the deeper, more static option; the long lunge is the more dynamic opener.
 
-### Setup
-- Kneel on a soft surface — yoga mat or pad under the rear knee
-- Step the front foot forward into a long stride — significantly further than a standard lunge; front foot should be well in front of the knee
+### What & why — Long Lunge
+- A kneeling lunge position with a long stride — the greater the distance between front and rear foot, the deeper the hip flexor stretch on the rear leg
+- Primarily stretches the iliopsoas and rectus femoris of the rear leg
+- Tight hip flexors contribute to anterior pelvic tilt, lower back pain, and reduced glute activation
+
+### Setup — Long Lunge
+- Kneel on a soft surface
+- Step the front foot forward into a long stride
 - Front foot flat on the floor, toes pointing forward
-- Rear knee resting on the floor — top of the rear foot can be flat on the floor (relaxed) or toes tucked under (slightly more quad stretch)
-- Front knee bent at roughly 90° or slightly more — shin vertical or slightly past vertical is fine
-- Hands can rest on the front knee, on the floor either side of the front foot, or on the hips
+- Rear knee resting on the floor — top of rear foot flat or toes tucked under
+- Front knee bent at roughly 90° or slightly more
 
-> The longer the stride, the more the rear hip is extended and the deeper the hip flexor stretch. If you feel very little in the hip flexor, step the front foot further forward.
-
-### The most important cue — posterior pelvic tilt
-- This is the single most important technique detail and is almost universally missed
+### The most important cue — posterior pelvic tilt — Long Lunge
 - Before sinking into the stretch, tuck the pelvis under — posteriorly tilt the pelvis by squeezing the glute of the rear leg and tucking the tailbone down and forward
-- This flattens the lumbar arch and directly engages the stretch on the iliopsoas — without this tilt, the lower back arches and the hip flexor stretch is minimal
-- Think "tuck the tailbone toward the floor" or "zip up the lower abs" before and during the stretch
-- Maintain the posterior tilt throughout the entire hold — do not let the lower back arch as you sink deeper
+- This flattens the lumbar arch and directly engages the stretch on the iliopsoas
+- Think "tuck the tailbone toward the floor"
+- Maintain the posterior tilt throughout the entire hold
 
-### Execution — sinking into the stretch
-- With the pelvis tucked, gently shift the hips forward and down — sinking toward the floor
-- The stretch should be felt in the front of the rear hip and thigh — deep in the groin and anterior hip
-- Keep the torso upright — do not lean forward over the front knee
-- Sink only as far as you can while maintaining the posterior pelvic tilt — depth without the tilt is wasted range
-- Hold the position — breathe slowly and allow the hip flexor to release on each exhale
-- On each exhale, gently sink a little further into the stretch
+### Execution — sinking into the stretch — Long Lunge
+- With the pelvis tucked, gently shift the hips forward and down
+- The stretch should be felt in the front of the rear hip and thigh
+- Keep the torso upright
+- Sink only as far as you can while maintaining the posterior pelvic tilt
+- On each exhale, gently sink a little further
 
-### Variations to intensify
-- **Arm reach overhead** — Raise the arm on the same side as the rear leg overhead — creates a lateral stretch along the hip flexor and anterior torso simultaneously
-- **Rear foot elevated** — Place the rear foot on a bench or box — increases hip extension range and significantly deepens the rectus femoris stretch
-- **Lean back slightly** — With the pelvis tucked, lean the torso slightly backward — increases the stretch on the rectus femoris and anterior hip
-- **Active contraction (PNF)** — Gently press the rear knee into the floor for 5–10 seconds (isometric contraction of hip flexors), then relax and sink deeper — contract-relax technique that rapidly increases range
+### Variations to intensify — Long Lunge
+- Arm reach overhead
+- Rear foot elevated
+- Lean back slightly (with pelvis tucked)
+- Active contraction (PNF) — press rear knee into floor for 5–10 sec, relax, sink deeper
 
-### Key cues
-- **Posterior pelvic tilt first** — tuck the tailbone before sinking; without this, you are stretching the lower back, not the hip flexor
-- **Long stride** — if you feel nothing in the hip flexor, step the front foot further forward
-- **Torso upright** — leaning forward over the front knee collapses the position; stay tall
-- **Squeeze the rear glute** — actively contracting the glute of the rear leg helps drive the posterior tilt and deepens the iliopsoas stretch
-- Think "push the front hip forward while tucking the tailbone down" — two simultaneous actions that create the maximum stretch
-- The stretch should be felt deep in the front of the rear hip — not in the lower back or the front knee
+### Key cues — Long Lunge
+- Posterior pelvic tilt first
+- Long stride
+- Torso upright
+- Squeeze the rear glute
 
-### Common mistakes
-- ❌ No posterior pelvic tilt — the most critical error; the lower back arches, the hip flexor barely stretches, and the lumbar spine takes the stress instead
-- ❌ Stride too short — front foot close to the rear knee means the rear hip barely extends; take a genuinely long stride
-- ❌ Leaning the torso forward — closes the hip angle and removes the stretch; keep the chest tall throughout
-- ❌ Feeling it in the lower back — means the lumbar is extending instead of the hip; re-tuck the pelvis and reduce depth
-- ❌ Front knee caving inward — keep it tracking over the second toe
-- ❌ Holding the breath — prevents the hip flexor from releasing; breathe slowly and continuously
-- ❌ Rushing — hip flexors are dense connective tissue; they need sustained holds of at least 45–60 seconds to begin releasing
+### Common mistakes — Long Lunge
+- ❌ No posterior pelvic tilt
+- ❌ Stride too short
+- ❌ Leaning the torso forward
+- ❌ Feeling it in the lower back
+- ❌ Front knee caving inward
+- ❌ Holding the breath
+- ❌ Rushing
 
-### Recommended volume & timing
-- Hold for 45–90 seconds per side — hip flexors respond to sustained holds, not brief touches
+### Recommended volume & timing — Long Lunge
+- Hold for 45–90 seconds per side
 - 2–3 sets per side per session
-- Can be done daily — especially valuable for people who sit for long periods
-- Best done when warm — after training, after a walk, or after a light warm-up
-- Pairs well after ATG split squats, hip flexor kickouts, or any quad and hip flexor dominant work
-- ⚠ If you feel it in the front of the knee rather than the hip — the stride may be too short or the front shin too vertical; adjust position and re-tuck the pelvis
+- Can be done daily
+- Best done when warm
+- ⚠ If you feel it in the front of the knee rather than the hip — adjust stride and re-tuck the pelvis
 
-## couch-stretch
-name: Couch Stretch
-type: Rectus femoris / hip flexors / iliopsoas / anterior hip capsule
+### What & why — Couch Stretch
+- One of the most effective hip flexor and quad stretches available — popularised by Kelly Starrett
+- The rear shin is elevated against a wall or couch — creates a much deeper hip flexor and rectus femoris stretch than a standard lunge
+- Simultaneously stretches the iliopsoas, rectus femoris, and anterior hip capsule
+- More intense than a long lunge stretch because the elevated shin locks the knee into flexion
+
+### Setup — wall version — Couch Stretch
+- Find a wall, sofa back, or bench at roughly shin height
+- Place a mat or pad on the floor for the rear knee
+- Back up to the wall and place the rear shin flat against it
+- The rear knee should be as close to the wall as possible
+- Step the front foot forward into a lunge position
+- Both knees bent at 90° is the target position
+
+### The critical cue — posterior pelvic tilt — Couch Stretch
+- Tuck the tailbone under — squeeze the glute of the rear leg
+- Think "flatten the lower back"
+- Without the posterior tilt, the lower back arches and the lumbar spine takes all the stress
+
+### Execution — two stage progression — Couch Stretch
+- Stage 1 — hands on floor: less intense, good starting point
+- Stage 2 — upright torso: walk hands up onto front knee, raise torso to vertical — significantly more intense
+
+### Where you should feel it — Couch Stretch
+- Deep in the front of the rear hip
+- Along the front of the rear thigh
+- Possibly into the lower quad near the knee
+- If primarily in the lower back — the pelvis is not tucked; reset
+
+### Intensification options — Couch Stretch
+- Arms overhead
+- Reach opposite arm across the body
+- PNF contraction
+- Rear knee closer to wall
+
+### Key cues — Couch Stretch
+- Posterior pelvic tilt always
+- Rear knee close to wall
+- Torso upright in stage 2
+- Squeeze the rear glute
+
+### Common mistakes — Couch Stretch
+- ❌ No posterior pelvic tilt
+- ❌ Rear knee too far from wall
+- ❌ Leaning forward in stage 2
+- ❌ Skipping stage 1
+- ❌ Feeling it in the lower back
+- ❌ Front foot too close to the wall
+- ❌ Holding the breath
+
+### Recommended volume & timing — Couch Stretch
+- Hold for 60–120 seconds per side
+- 2–3 sets per side per session
+- Can be done daily
+- Pairs directly with the long lunge stretch
+- ⚠ Knee discomfort on the rear knee — use extra padding
+- ⚠ Sharp anterior knee pain — reduce the knee-to-wall distance
+
+## slight-incline-db-press
+name: Slight-Incline DB Press
+
+### Current program shoulder restrictions
+- Use a neutral grip and controlled depth.
+- Keep the elbows slightly forward and do not let them travel behind the torso at the bottom.
+- Do not chase a deep stretch.
+- If this angle causes a flare, increase the bench angle.
 
 ### What & why
-- One of the most effective hip flexor and quad stretches available — popularised by Kelly Starrett and used widely in CrossFit and mobility training
-- The rear shin is elevated against a wall or couch — this pins the rear foot high and creates a much deeper hip flexor and rectus femoris stretch than a standard lunge
-- Simultaneously stretches the iliopsoas (hip flexion), rectus femoris (knee flexion + hip extension), and anterior hip capsule
-- Directly addresses the tightness caused by prolonged sitting, heavy squatting, and running — one of the most impactful stretches for lower back health and anterior chain flexibility
-- More intense than a long lunge stretch because the elevated shin locks the knee into flexion, removing any slack in the rectus femoris
-
-### Setup — wall version (most common)
-- Find a wall, sofa back, or bench — any vertical surface at roughly shin height
-- Place a mat or pad on the floor in front of the wall for the rear knee
-- Back up to the wall and place the rear shin flat against it — shin vertical, top of the foot resting against the wall, knee on the floor at the base of the wall
-- The rear knee should be as close to the wall as possible — ideally touching the base of the wall
-- Step the front foot forward into a lunge position — front foot flat on the floor, front knee at roughly 90°
-- Both knees bent at 90° is the target position — rear knee on the floor, rear shin up the wall, front foot forward
-
-> The closer the rear knee is to the wall, the more intense the stretch. Start with the knee a few inches from the wall if needed and work it progressively closer over time.
-
-### The critical cue — posterior pelvic tilt
-- Exactly as with the long lunge, the posterior pelvic tilt is what makes this stretch work
-- Before upright the torso, tuck the tailbone under — squeeze the glute of the rear leg and posteriorly tilt the pelvis
-- Think "flatten the lower back" or "tuck the tailbone toward the floor"
-- Without the posterior tilt, the lower back arches, the hip flexor shortens, and the lumbar spine takes all the stress
-- Maintain the tilt throughout the entire hold — do not let the arch creep back in as you relax
-
-### Execution — two stage progression
-- **Stage 1 — hands on floor** — Stay low with hands on the floor either side of the front foot — less intense, good starting point; pelvis tuck still applies
-- **Stage 2 — upright torso** — Walk the hands up onto the front knee and raise the torso to vertical — significantly more intense; tuck pelvis before rising
-- Only progress to stage 2 once stage 1 is comfortable — the intensity jump is significant
-- In stage 2, the torso should be fully upright — not leaning forward or to the side
-- Hands can rest on the front knee, on the hips, or arms can reach overhead for maximum intensity
-
-### Where you should feel it
-- Deep in the front of the rear hip — the iliopsoas and anterior hip capsule
-- Along the front of the rear thigh — the rectus femoris from hip to knee
-- Possibly into the lower quad near the knee — where the rectus femoris attaches
-- If you feel it primarily in the lower back — the pelvis is not tucked; reset and re-tuck before continuing
-
-### Intensification options
-- **Arms overhead** — Raise both arms overhead in the upright position — further opens the anterior chain and increases the iliopsoas stretch
-- **Reach opposite arm** — Reach the arm opposite to the rear leg across the body — adds a lateral component to the stretch
-- **PNF contraction** — Gently press the rear knee into the floor and shin into the wall for 5–10 seconds isometrically, then relax and sink deeper — rapidly increases range
-- **Rear knee closer to wall** — Incrementally move the rear knee closer to the wall base between sets — the most direct way to progress intensity
-
-### Key cues
-- **Posterior pelvic tilt always** — non-negotiable; tuck before every stage of the stretch
-- **Rear knee close to wall** — the distance between the knee and wall determines intensity; closer = deeper stretch
-- **Torso upright in stage 2** — leaning forward eliminates the stretch; stay tall
-- **Squeeze the rear glute** — actively contracting it drives the posterior tilt and deepens the iliopsoas stretch simultaneously
-- Think "push the front hip forward, tuck the tailbone down, stand tall" — three cues that stack to create the full stretch
-- Breathe slowly — on each exhale, consciously release the hip flexor and allow the pelvis to sink slightly
-
-### Common mistakes
-- ❌ No posterior pelvic tilt — the most critical error; lower back arches, hip flexor escapes the stretch, lumbar gets compressed
-- ❌ Rear knee too far from wall — reduces the stretch dramatically; work the knee progressively closer
-- ❌ Leaning forward in stage 2 — closes the hip angle and removes the stretch; stay upright
-- ❌ Skipping stage 1 — going upright before the position is established leads to a compensated stretch; earn stage 2
-- ❌ Feeling it in the lower back — the pelvis has anteriorly tilted; tuck it again and reduce depth if needed
-- ❌ Front foot too close to the wall — limits the front knee angle and makes the upright position unstable; step it further forward
-- ❌ Holding the breath — creates tension that prevents the hip flexor from releasing; breathe slowly throughout
-
-### Recommended volume & timing
-- Hold for 60–120 seconds per side — hip flexors and rectus femoris are dense tissue; they need sustained holds
-- 2–3 sets per side per session
-- Can be done daily — especially powerful for people with desk jobs or heavy training loads
-- Best done warm — after training, after walking, or after a light warm-up
-- Pairs directly with the long lunge stretch — the couch stretch adds the elevated shin component for deeper rectus femoris targeting
-- ⚠ Knee discomfort on the rear knee — use extra padding; the knee on the floor should be comfortable enough to hold the position
-- ⚠ Sharp anterior knee pain at the rear leg — reduce the knee-to-wall distance; the rectus femoris tension near the patella can be significant; back off and progress gradually
-
-## low-incline-db-press
-name: Low-Incline DB Press
-type: Mid & upper chest / anterior delt / triceps
-
-### What & why
-- 15° is a very slight incline — barely above flat; it subtly shifts emphasis toward the upper-mid chest (clavicular head) while still heavily loading the overall pec
-- Many lifters prefer this angle over flat because it reduces shoulder impingement risk while maintaining a similar stimulus to flat pressing
-- Neutral grip (palms facing each other) keeps the shoulder in a safer, less internally rotated position throughout — reduces anterior shoulder stress compared to a pronated grip
-- The combination of low incline + neutral grip makes this one of the most shoulder-friendly pressing variations available
-- Allows a slightly longer range of motion at the bottom compared to a barbell flat press — the dumbbells can drop lower than a bar allows
+- 15° is a very slight incline — barely above flat; subtly shifts emphasis toward the upper-mid chest while still heavily loading the overall pec
+- Many lifters prefer this angle over flat because it reduces shoulder impingement risk
+- Neutral grip keeps the shoulder in a safer, less internally rotated position throughout
+- One of the most shoulder-friendly pressing variations available
 
 ### Bench setup
 - Set the bench to 15° — one notch up from flat on most adjustable benches
-- If your bench does not have a 15° setting, the lowest incline notch (usually 15–20°) is the right starting point
-- Sit fully back into the bench — entire back in contact with the pad, not perched forward
-- Feet flat on the floor, hip-width apart — press them firmly into the ground for a stable base
-- Head, upper back, and glutes all maintain contact with the bench throughout — minimal arch is fine, excessive arch is not
-
-> At only 15°, this feels very close to flat pressing — the incline is subtle but meaningful. The key difference from flat is the slight upward press path and the reduced anterior shoulder stress.
+- Sit fully back into the bench
+- Feet flat on the floor, hip-width apart
+- Head, upper back, and glutes all maintain contact with the bench
 
 ### Scapular setup — before you press
-- Before the dumbbells go up, retract and depress the shoulder blades — pull them together and down into the pad
-- This creates a stable platform to press from and protects the shoulder joint throughout the set
-- Think "chest up, shoulders back and down" — hold this position for the entire set
-- Do not let the shoulder blades protract (round forward) at the top of the press — this is the most common breakdown point
+- Retract and depress the shoulder blades — pull them together and down into the pad
+- Do not let the shoulder blades protract (round forward) at the top of the press
 
 ### Getting dumbbells into position
-- Rest dumbbells on thighs before lying back — use a knee kick to drive them up one at a time as you recline
-- Start with dumbbells at chest level, neutral grip — palms facing each other, ends of dumbbells pointing forward and back
-- Elbows at roughly 45° from the torso — not flared to 90° and not fully tucked against the sides
-- Forearms vertical or very close to vertical at the bottom position
+- Rest dumbbells on thighs before lying back
+- Start with dumbbells at chest level, neutral grip
+- Elbows at roughly 45° from the torso
 
 ### Execution — press phase
-- Press the dumbbells upward along a very slight arc — up and very slightly inward toward each other
-- The path should match the chest's line of pull — not straight up like a shoulder press, not dramatically inward like a fly
-- Maintain the neutral grip throughout — palms stay facing each other; do not rotate to pronated at the top
-- Extend to near-lockout at the top — a slightly soft elbow is fine; full extension is also acceptable
-- Stop just short of dumbbells touching at the top — maintain tension on the pec
-- Shoulder blades stay retracted — do not let them round forward as the arms extend
-- Press through the heel of the palm — push the dumbbell away rather than just lifting
+- Press the dumbbells upward along a very slight arc — up and very slightly inward
+- Maintain the neutral grip throughout
+- Extend to near-lockout at the top
+- Stop just short of dumbbells touching
+- Press through the heel of the palm
 - Exhale on the press up
 
 ### Execution — descent phase
 - Lower the dumbbells slowly — 2–3 seconds on the way down
-- Elbows stay at 45° from the torso — do not let them flare wide as you lower
-- Lower until the upper arms are just below the bench level — dumbbells drop lower than a barbell allows; use this range advantage
-- Feel a full stretch across the mid and upper chest at the bottom — do not cut the range short
-- Do not bounce out of the bottom — brief pause and press from a controlled position
+- Elbows stay at 45° from the torso
+- Lower only to the current pain-free controlled depth; do not let the elbows travel behind the torso
 - Inhale on the way down
 
 ### How this differs from flat and high incline
-- **vs Flat press** — Slight upper chest shift, less shoulder impingement risk, very similar overall load — many lifters replace flat pressing entirely with this angle
-- **vs High incline (60°+)** — Far more overall chest mass involved at 15°; high incline shifts heavily to anterior delt — 15° keeps the pec as the dominant muscle
-- At 15° you should be able to use close to your flat press weight — strength drop-off is minimal at this angle
+- vs Flat press: slight upper chest shift, less shoulder impingement risk, very similar overall load
+- vs High incline (60°+): far more overall chest mass involved at 15°
 
 ### Key cues
-- **Neutral grip throughout** — do not rotate to pronated at the top; the shoulder-friendly benefit disappears the moment you do
-- **Elbows at 45°** — not flared wide; at any incline angle, flared elbows stress the anterior shoulder capsule
-- **Scapulae retracted and depressed** — the platform must stay stable; shoulder blade protracting at the top is the most common form breakdown
-- **Full range at the bottom** — the dumbbell depth advantage over a barbell is one of the main reasons to use dumbbells; use it
-- Think "press up and slightly in" along the grain of the chest fibres — not straight up
-- Chest should be the primary sensation — if you feel it primarily in the anterior delt or tricep, check elbow angle and scapular position
+- Neutral grip throughout
+- Elbows at 45°
+- Scapulae retracted and depressed
+- Controlled pain-free depth at the bottom; no deep stretch under the current restriction
 
 ### Common mistakes
-- ❌ Rotating to pronated grip at the top — immediately reintroduces internal shoulder rotation; keep palms facing each other the whole rep
-- ❌ Elbows flaring to 90° — at any pressing angle this places excessive stress on the anterior shoulder; keep them at 45°
-- ❌ Shoulder blades protracting at the top — loses the stable pressing platform and shifts stress to the shoulder joint
-- ❌ Not using the full bottom range — stopping high at the bottom wastes the main advantage dumbbells have over a barbell
-- ❌ Excessive lower back arch — fine to have a natural arch but should not be bridging off the bench; glutes stay in contact
-- ❌ Head jutting forward off the pad — keep the head back; neck stays neutral throughout
-- ❌ Pressing straight up — at 15° the press should still have a slight inward arc following the chest fibre direction
+- ❌ Rotating to pronated grip at the top
+- ❌ Elbows flaring to 90°
+- ❌ Shoulder blades protracting at the top
+- ❌ Forcing depth beyond the current shoulder-safe range
+- ❌ Excessive lower back arch
+- ❌ Head jutting forward off the pad
+- ❌ Pressing straight up
 
 ### Recommended loading & volume
-- Expect near-flat press strength — the 15° angle has minimal strength impact compared to steeper inclines
-- 3–4 sets of 6–15 reps depending on the goal — strength at lower reps, hypertrophy at higher
-- Works well as a primary chest movement or as a second movement after a heavier compound press
+- Expect near-flat press strength
+- 3–4 sets of 6–15 reps depending on the goal
 - If shoulder discomfort on flat press is a recurring issue, this angle and grip combination is one of the best direct substitutes
 
-### Plan-specific shoulder notes
-- Use a neutral grip.
-- Keep elbows slightly forward; do not let them drop behind the torso at the bottom.
-- Use controlled depth.
-- If this ever flares the shoulder, increase the bench angle.
-- Do not chase a deep stretch at the bottom.
+## lateral-raise-machine
+name: Lateral Raise Machine
 
-## db-lateral-raise
-name: DB Lateral Raise
-type: Medial delt / supraspinatus / rotator cuff
+### Current program shoulder restrictions
+- Let the machine pads guide the path; do not force the arms behind the body's plane.
+- Use a light, controlled load and lead with the elbow rather than the hand.
+- Stop the set when the traps begin to take over from the delts.
 
 ### What & why
-- A lateral raise performed in the scapular plane — arms raise at roughly 30° forward of directly to the side, not straight out laterally
-- The scapular plane is the natural resting angle of the shoulder blade — raising in this plane aligns the humerus with the glenoid socket, significantly reducing impingement risk
-- Compared to a pure lateral raise (arms straight to the side), the scapular plane version is more shoulder-friendly, allows slightly more range before impingement, and still maximally targets the medial delt
-- Also called a "scaption" when performed with a neutral or thumbs-up grip — a staple in shoulder rehab and prehab protocols
-- The primary target is the medial (side) delt — the muscle responsible for shoulder width
+- A machine-based isolation exercise for the medial (side) deltoid
+- Provides resistance that stays relatively consistent throughout the range — unlike dumbbells which rely on gravity
+- The fixed path and seated/supported position removes almost all ability to cheat with momentum
+- Excellent for high-rep, high-frequency medial delt training
 
 ### Setup
-- Stand tall — feet shoulder-width apart, soft knees, core lightly braced
-- Hold a dumbbell in each hand — light weight; this is an isolation exercise
-- Arms hang at sides at the start — slight soft elbow, not locked out
-- Shoulders back and down — retracted and depressed before the first rep
-- Torso has a very slight forward lean — 5–10° — this shifts the medial delt into a more mechanically advantaged position and is intentional
+- Sit in the machine with your back flat against the pad
+- Adjust the seat height so the pivot point of the machine aligns with your shoulder joint — critical
+- Place your upper arms against the pads or grip the handles — elbows bent at roughly 90°
+- Feet flat on the floor, torso braced against the backrest
+- Start position has arms down at your sides, or as low as the machine's range allows
 
-> The slight forward lean is a well-supported technique detail — it rotates the medial delt to be more directly opposing gravity at the start of the lift. Do not lean excessively; 5–10° is enough.
-
-### The scapular plane — key detail
-- Stand facing a mirror — at the bottom, your arms hang straight down
-- Rather than raising directly to the side (pure coronal plane), angle the arms roughly 30° forward of that — your hands move diagonally forward-outward as they rise
-- Think of raising toward the front corners of the room rather than directly to the sides
-- This 30° forward angle is the scapular plane — it matches where the shoulder blade sits on the ribcage
-- The difference from a standard lateral raise is subtle but biomechanically significant for shoulder health
-
-### Grip & wrist position
-- **Pronated (standard)** — Palms facing down at the top — the most common; targets medial delt well
-- **Thumbs up (neutral)** — Palms facing each other / thumbs pointing up throughout — more shoulder-friendly, reduces impingement further, slightly more supraspinatus involvement; the true "scaption" grip
-- **Pinky up (slight internal rotation)** — Tilt the dumbbell so the pinky side is higher — a classic lateral raise cue that increases medial delt activation; use only in the coronal plane version, not scapular plane
-- For the scapular plane version, thumbs-up or neutral grip is the most commonly recommended
-- Wrist stays straight throughout — no bending at the wrist in any direction
-
-### Execution — lift phase
-- Initiate by engaging the medial delt — think of the movement starting at the shoulder, not the hand
-- Raise both arms simultaneously along the scapular plane — forward-outward diagonal, not purely sideways
-- Keep the slight elbow bend constant throughout — do not straighten or bend it further as you raise
-- Raise to shoulder height — parallel to the floor is the standard endpoint; slightly above is acceptable
-- Do not raise above shoulder height — above 90° the supraspinatus and traps take over from the medial delt, and impingement risk increases
-- Pause briefly at the top — squeeze the medial delt for 1 second
-- Keep shoulders depressed throughout — do not let them shrug up as the arms rise
+### Execution — raise phase
+- Push the pads or handles outward and upward by leading with the elbows, not the hands
+- Keep the elbow angle constant throughout
+- Raise until the upper arms are roughly parallel to the floor
+- Do not raise above shoulder height
+- Squeeze the medial delt at the top for 1 second
+- Keep the shoulders depressed throughout
 - Exhale on the way up
 
 ### Execution — descent phase
-- Lower the dumbbells slowly — 2–3 seconds on the way down
-- Resist gravity the whole way — do not let the arms drop
-- Return to the starting position with arms just in front of the hips — do not let the dumbbells swing back behind the body
-- Maintain shoulder depression on the return — do not let them creep up
+- Lower slowly — 2–3 seconds under control
+- Resist the weight stack the entire way down
+- Return to the start position with the arms low
 - Inhale on the descent
 
 ### Key cues
-- **30° forward of the side** — raise toward the front corners of the room, not straight out laterally
-- **Shoulders stay down** — the most common breakdown; shrugging recruits the upper trap and removes load from the medial delt
-- **Lead with the elbow** — think of driving the elbow upward rather than lifting the hand; keeps the delt as the prime mover
-- **Stop at shoulder height** — going higher shifts load away from medial delt and into impingement territory
-- **Slow the eccentric** — the lowering phase is where much of the stimulus lives; resist gravity deliberately
-- Think "pour water out of a jug held at arm's length" — the slight forward tilt of the dumbbell naturally cues the scapular plane angle
+- Seat height first
+- Lead with the elbow
+- Shoulders stay down
+- Stop at shoulder height
+- Control the negative
 
 ### Common mistakes
-- ❌ Shrugging the traps — the most common error; upper trap takes over from the medial delt; consciously keep shoulders pressed down throughout
-- ❌ Raising in the pure coronal plane (straight to the side) — increases impingement risk; bring the arms 30° forward
-- ❌ Going above shoulder height — medial delt activation drops sharply above 90°; stop at parallel
-- ❌ Using momentum / body swing — rocking the torso to get the weight up means it is too heavy; medial delt is a small muscle
-- ❌ Bending the elbows more on the way up — shortens the lever arm to make it easier; keep the elbow angle constant
-- ❌ Dropping the arms fast on the descent — the eccentric is important; resist all the way down
-- ❌ Too much weight — the medial delt is small; ego weight forces the traps and momentum to take over immediately
+- ❌ Seat set too high or too low
+- ❌ Shrugging the traps
+- ❌ Raising above shoulder height
+- ❌ Leaning forward off the backrest
+- ❌ Letting the weight stack drop on the return
+- ❌ Too much weight
 
 ### Recommended loading & volume
-- Light weight — most people use far less than they expect; form collapse is almost immediate under too much load
-- 3–4 sets of 12–20 reps — higher rep ranges work well for medial delt hypertrophy
-- Cable lateral raises or band lateral raises are excellent alternatives that provide constant tension through the full range — gravity-based dumbbell raises have very low tension at the bottom
-- Works well as a shoulder warm-up, standalone isolation exercise, or finisher after compound pressing and pulling
+- Light to moderate weight
+- 3–4 sets of 12–20 reps
+- Works well as a primary medial delt isolation exercise
+- Can be trained more frequently than heavier compound shoulder work
 
-## chest-supported-rear-delt-fly
+## reverse-flye
 name: Chest-Supported Reverse Flye
-type: Rear delts / mid trap / rhomboids / infraspinatus
+
+### Current program use
+- Keep the chest fully supported so the lower back is removed from the movement.
+- Use a light load; this is rear-delt and scapular work rather than a strength lift.
+- Squeeze the shoulder blades without shrugging the traps.
+- This exercise is included to balance the pressing and side-delt work.
 
 ### What & why
-- A rear delt fly performed lying face-down on an incline bench — the chest support removes all lower back involvement and eliminates the ability to use body momentum
-- The incline angle (typically 30–45°) positions the torso so gravity loads the rear delt directly at the top of the movement — more effective than a bent-over version where the angle is inconsistent
-- One of the most honest rear delt isolation exercises available — every rep is pure posterior shoulder work
-- Targets the rear delt primarily, with secondary involvement of the mid trap, rhomboids, and infraspinatus depending on grip and elbow path
+- A rear delt fly performed lying face-down on an incline bench — removes all lower back involvement and eliminates momentum
+- The incline angle (30–45°) positions the torso so gravity loads the rear delt directly at the top
+- One of the most honest rear delt isolation exercises available
 
 ### Bench setup
-- Set an incline bench to 30–45° — 30° is more horizontal and increases the rear delt load at the top; 45° is a good all-around starting point
-- Lie face-down (prone) on the bench — chest flat against the pad, head just off the top edge
-- Hips and stomach in contact with the bench — the entire front of the torso supported
-- Feet on the floor or hooked behind the foot pad if available — either works
-- Let the dumbbells hang straight down toward the floor before starting — full dead hang at the bottom
-
-> The lower the bench angle (closer to horizontal), the more directly gravity loads the rear delt at the top of the raise. A 30° angle is harder than 45° for this reason — gravity works more against the movement.
+- Set an incline bench to 30–45° — 30° increases rear delt load at the top; 45° is a good all-around starting point
+- Lie face-down on the bench — chest flat against the pad
+- Hips and stomach in contact with the bench
+- Let the dumbbells hang straight down toward the floor before starting
 
 ### Grip options
-- **Neutral grip** — Palms facing each other — most natural starting position; elbows track slightly back; balanced rear delt and mid trap activation
-- **Pronated grip** — Palms facing behind you — elbows flare wider; more upper trap and rhomboid involvement
-- **Thumbs up / supinated** — Palms facing forward — increases external rotation at the top; maximum rear delt isolation; harder to control
-- Neutral grip is the recommended default — most comfortable and effective for rear delt targeting
+- Neutral grip — palms facing each other — most natural, balanced rear delt and mid trap
+- Pronated grip — palms facing behind — more upper trap and rhomboid involvement
+- Thumbs up / supinated — increases external rotation, maximum rear delt isolation, harder to control
+- Neutral grip is the recommended default
 
 ### Execution — fly phase
-- Initiate by retracting the shoulder blades slightly — a small squeeze before the arms move primes the rear delt
+- Initiate by retracting the shoulder blades slightly
 - Raise both arms outward and upward in a wide arc — like opening wings
-- Arms move in the transverse plane relative to the torso — out to the sides, not toward the feet or toward the head
-- Elbows stay soft — a slight bend throughout; do not lock them straight or bend them excessively
-- Raise until the arms are roughly parallel to the floor — in line with the torso or just above
-- At the top, actively squeeze the rear delts and feel the shoulder blades pinching together
-- Hold the peak contraction for 1 second — the squeeze at the top is where most of the rear delt activation happens
+- Elbows stay soft — a slight bend throughout
+- Raise until the arms are roughly parallel to the floor
+- At the top, actively squeeze the rear delts
+- Hold the peak contraction for 1 second
 - Exhale at the top
 
 ### Elbow path & rear delt targeting
 - Elbows at roughly 70–90° from the torso — flared relatively wide — maximises rear delt activation
-- Elbows closer to the body (45°) shifts more load to the mid trap and rhomboids — more of a row pattern
-- For pure rear delt isolation, keep the elbows wide and the movement arc broad
-- The rear delt's line of pull is transverse (horizontal) — the fly motion directly matches this; rowing motions do not
+- Elbows closer to the body (45°) shifts more load to the mid trap and rhomboids
 
 ### Execution — descent phase
-- Lower the dumbbells slowly along the same arc — 2–3 seconds on the way down
-- Resist gravity all the way — do not let the arms drop passively
-- Return to a full dead hang at the bottom — allow the shoulder to fully protract and the rear delt to stretch
-- The stretch at the bottom is important — do not cut the range short by stopping above the hang position
+- Lower the dumbbells slowly along the same arc — 2–3 seconds
+- Return to a full dead hang at the bottom
+- The stretch at the bottom is important — do not cut the range short
 - Inhale on the descent
 
 ### Key cues
-- **Wide arc, elbows high** — the movement is a broad fly outward, not a row backward; elbows stay wide relative to the torso
-- **Squeeze at the top** — the peak contraction is everything on this exercise; a 1-second squeeze activates far more rear delt than a quick rep
-- **Chest stays on the bench** — if it lifts, you are using momentum; lower the weight
-- **Full hang at the bottom** — letting the shoulder protract fully at the bottom maximises the range and the stretch stimulus
-- Think "open like wings" — the mental image of spreading wings keeps the arc wide and the elbows from drifting back into a row
-- Keep the neck neutral — do not crane it up to watch yourself; let the head hang naturally
+- Wide arc, elbows high
+- Squeeze at the top
+- Chest stays on the bench
+- Full hang at the bottom
 
 ### Common mistakes
-- ❌ Turning it into a row — elbows pulling back toward the hips rather than flaring out to the sides; shifts load entirely to the mid back and away from the rear delt
-- ❌ No squeeze at the top — just swinging the weight up and down with no peak contraction; the rear delt barely activates without the deliberate squeeze
-- ❌ Chest lifting off the bench — using momentum defeats the purpose of the chest support; lower the weight
-- ❌ Shrugging the traps at the top — upper trap taking over; keep the shoulders depressed and focus the squeeze on the back of the shoulder
-- ❌ Not going to a full hang at the bottom — cutting the bottom range removes the stretch and shortens the effective ROM
-- ❌ Too much weight — rear delts are small; heavy dumbbells force compensation immediately; keep it light and feel every rep
-- ❌ Locking the elbows straight — creates elbow joint stress; maintain a consistent soft elbow throughout
+- ❌ Turning it into a row
+- ❌ No squeeze at the top
+- ❌ Chest lifting off the bench
+- ❌ Shrugging the traps at the top
+- ❌ Not going to a full hang at the bottom
+- ❌ Too much weight
+- ❌ Locking the elbows straight
 
 ### Recommended loading & volume
-- Very light — rear delts are a small muscle; most people find 5–12 kg is plenty with strict form
-- 3–4 sets of 12–20 reps — higher rep ranges with a peak hold work best for rear delt hypertrophy
-- Works well paired with chest supported rows in the same session — rows hit mid back, flies hit rear delt; together they cover the full posterior shoulder complex
-- The 1-second squeeze at the top on every rep matters more than the load — prioritise feel over weight
+- Very light — 5–12 kg is plenty with strict form
+- 3–4 sets of 12–20 reps
+- Works well paired with chest supported rows in the same session
+- The 1-second squeeze at the top matters more than the load
 
-## tricep-rope-pushdown
-name: Tricep Rope Pushdown
-type: Triceps brachii — all three heads / lateral head emphasis
+## triceps-pushdown
+name: Triceps Rope Pushdown
 
 ### What & why
-- A cable isolation exercise for the triceps — the rope attachment allows the hands to split apart at the bottom, adding a flare-out that increases range of motion and peak contraction
-- Trains all three tricep heads (long, lateral, medial) but emphasises the lateral head — the one most visible from the side
-- The rope allows a more natural wrist position compared to a straight bar — reduces wrist stress and allows the forearms to rotate at the bottom
-- The cable provides constant tension throughout the range — unlike a dumbbell kickback where tension varies significantly with arm position
+- A cable isolation exercise for the triceps — the rope attachment allows the hands to split apart at the bottom
+- Trains all three tricep heads but emphasises the lateral head
+- The rope allows a more natural wrist position compared to a straight bar
+- The cable provides constant tension throughout the range
 
 ### Setup
-- Set the cable pulley to the highest position — the rope pulls from above
+- Set the cable pulley to the highest position
 - Attach a rope handle — grip each end with a neutral grip (thumbs pointing up)
-- Stand facing the cable machine — feet shoulder-width apart or one foot slightly forward for stability
-- Step back slightly from the machine — enough that there is tension on the cable at the start position with elbows bent
-- Hinge very slightly forward at the hips — 5–15° forward lean; this keeps the cable path in line with the tricep's line of pull and is intentional
-- Core braced, chest up — spine neutral throughout
-
-> A slight forward lean is correct and supported — it aligns the resistance with the tricep's pulling angle. Avoid being completely upright (reduces tension) or leaning excessively forward (shifts it into a different movement).
+- Stand facing the cable machine
+- Step back slightly — enough that there is tension on the cable at the start
+- Hinge very slightly forward at the hips — 5–15°
+- Core braced, chest up
 
 ### Elbow position — the most critical detail
 - Pin your elbows to your sides — they must stay fixed throughout the entire rep
-- Elbows should be tucked close to the ribcage — not flaring out to the sides
+- Elbows should be tucked close to the ribcage
 - The upper arm stays completely vertical and stationary — only the forearm moves
-- Any elbow movement forward, backward, or outward turns it into a compound movement and takes load off the tricep
-- At the start position, elbows are bent at roughly 90° or slightly more acute
 
 ### Execution — push phase
-- Push the rope downward by extending the elbows — the forearms move, the upper arms do not
-- As the arms approach full extension at the bottom, split the rope ends apart — flare the hands outward away from each other
-- The split at the bottom adds the last few degrees of elbow extension and maximises the peak tricep contraction
-- At full extension, the knuckles should be pointing down and slightly outward — wrists neutral or very slightly pronated
-- Squeeze the triceps hard at the bottom for 1 second — the split and squeeze together are the signature of the rope pushdown
-- Arms fully extended at the bottom — elbows locked out completely
+- Push the rope downward by extending the elbows
+- As the arms approach full extension at the bottom, split the rope ends apart — flare the hands outward
+- At full extension, knuckles pointing down and slightly outward
+- Squeeze the triceps hard at the bottom for 1 second
+- Arms fully extended at the bottom
 - Exhale on the push down
 
 ### Execution — return phase
-- Allow the rope to return upward slowly — 2–3 seconds on the way back
+- Allow the rope to return upward slowly — 2–3 seconds
 - Bring the hands back together as the elbows return to the start position
-- Return until forearms are roughly parallel to the floor or slightly above — feel a stretch in the tricep at the top
-- Do not let the cable pull the elbows upward or forward — resist it all the way back
-- Elbows stay pinned to the sides throughout the return — do not let them drift forward
+- Return until forearms are roughly parallel to the floor or slightly above
+- Elbows stay pinned to the sides throughout
 - Inhale on the return
 
 ### The rope split — why it matters
-- A straight bar pushdown stops at full elbow extension — no further range is possible
-- The rope split allows the hands to travel outward past the body at the bottom — adding a few extra degrees of extension and a stronger peak contraction
-- The split also adds a slight pronation at the wrist at the bottom — this further activates the lateral tricep head
-- Without the split, you lose the main advantage of the rope over a bar attachment
+- A straight bar pushdown stops at full elbow extension
+- The rope split allows extra range and a stronger peak contraction
+- The split also adds a slight pronation at the wrist at the bottom
 
 ### Key cues
-- **Elbows pinned to sides** — the foundation of the exercise; any elbow drift defeats the isolation
-- **Split at the bottom** — flare the hands apart at the end of every rep; this is what separates the rope from a bar
-- **Squeeze at full extension** — 1 second hard contraction at the bottom of every rep
-- **Slow the return** — the tricep is under load on the way back too; resist the cable deliberately
-- Think "push through the heel of the hand" — keeps the wrist neutral and the force directed downward
-- Upper arms are stationary pillars — only the forearms move like hinges below them
+- Elbows pinned to sides
+- Split at the bottom
+- Squeeze at full extension
+- Slow the return
 
 ### Common mistakes
-- ❌ Elbows drifting forward on the return — the most common error; immediately takes load off the tricep and turns the top of the rep into a front raise
-- ❌ No rope split at the bottom — not flaring the hands means missing the peak contraction range; the split is not optional
-- ❌ Using body momentum — dipping the torso to initiate the push means the weight is too heavy
-- ❌ Elbows flaring outward — changes the muscle emphasis and reduces tricep isolation; keep them tucked
-- ❌ Not reaching full extension — stopping short at the bottom cuts the peak contraction; lock out fully on every rep
-- ❌ Wrists bending back under load — sign the weight is too heavy; keep wrists firm and neutral
-- ❌ Standing too upright with no forward lean — reduces the mechanical advantage of the cable angle; a slight forward lean is correct
-- ❌ Letting the cable snap back on the return — always control the eccentric; don't let the weight stack crash
+- ❌ Elbows drifting forward on the return
+- ❌ No rope split at the bottom
+- ❌ Using body momentum
+- ❌ Elbows flaring outward
+- ❌ Not reaching full extension
+- ❌ Wrists bending back under load
+- ❌ Standing too upright with no forward lean
+- ❌ Letting the cable snap back on the return
 
 ### Recommended loading & volume
-- Moderate weight — heavy enough to feel, light enough to maintain elbow position and get a clean split at the bottom
+- Moderate weight
 - 3–4 sets of 10–15 reps
-- Works well as a primary tricep isolation exercise or as a finisher after close-grip pressing
-- Can superset with overhead tricep work (e.g. cable overhead extension) to hit the long head in a stretched position — the pushdown hits the lateral head in a shortened position; together they cover the full tricep
-
-## pallof-press
-name: Pallof Press
-type: Core anti-rotation / obliques / transverse abdominis / glute med
-
-### What & why
-- An anti-rotation core exercise — the goal is to resist the cable pulling you toward the machine, not to rotate with it
-- Unlike crunches or sit-ups that train flexion, the Pallof press trains the core's ability to resist rotation — the most functionally important core quality for athletics, lifting, and spinal health
-- The obliques, transverse abdominis, and deep spinal stabilisers are the primary muscles challenged — not the rectus abdominis (six-pack)
-- The press movement itself creates the anti-rotation challenge — as the hands extend away from the body, the rotational torque from the cable increases significantly
-- Simple to set up, highly effective, and appropriate for all levels including rehab
-
-### Setup
-- Set the cable pulley to chest height — roughly sternum level when standing
-- Attach a D-handle or rope — D-handle is most common
-- Stand side-on to the cable machine — the cable pulls from one side of the body
-- Step away from the machine until there is good tension on the cable at the start position — hands held at the chest
-- Feet shoulder-width apart — stand square, toes pointing forward, perpendicular to the cable
-- Grip the handle with both hands — inside hand closest to the machine grips first, outside hand covers it
-- Hold the handle at the chest, at sternum level — this is the start and end position of every rep
-
-> Distance from the machine determines difficulty — further away = more cable tension = harder anti-rotation challenge. Start closer and step out as strength improves.
-
-### Body position
-- Stand tall — spine neutral, chest up, shoulders back and down
-- Core braced firmly — engage the abs as if bracing for a punch before every press
-- Hips square to the front — do not let them rotate toward or away from the cable
-- Slight soft knee — do not lock the legs out rigidly
-- Glutes lightly engaged — helps keep the pelvis stable and the hips square
-- Body faces directly forward, perpendicular to the cable direction — this is the anti-rotation challenge position
-
-### Execution — press phase
-- From the handle held at the chest, press both hands straight out in front of you — directly away from the sternum
-- Arms extend fully — elbows straight, hands at chest height
-- As the arms extend, the cable pulls harder toward the machine — this is the rotational force you must resist
-- The torso must stay completely square — do not let the body rotate even slightly toward the cable
-- Hips stay square, shoulders stay square, spine stays neutral — nothing rotates
-- Hold the extended position for 1–3 seconds — the longer the hold, the greater the anti-rotation demand
-- Exhale during the press out
-
-### Execution — return phase
-- Pull the handle back to the chest slowly and under control
-- Resist the cable on the return — do not let it snap the hands back
-- Keep the torso square throughout the return — the rotation challenge exists on both the press and the pull back
-- Reset the brace before the next rep if needed
-- Inhale on the return
-
-### Stance variations
-- **Standing** — Standard version — feet shoulder-width, square to the front; most common
-- **Half kneeling** — Inside knee down, outside knee up — removes the lower body and increases the core isolation demand; harder to stabilise
-- **Tall kneeling** — Both knees on the floor — completely removes leg drive; most isolated core version
-- **Split stance** — Staggered feet — adds a balance challenge; good progression from standing
-- Half kneeling is often preferred as it removes lower body compensation entirely
-
-### Key cues
-- **Brace before you press** — the core must be engaged before the hands leave the chest; pressing with a relaxed core defeats the exercise
-- **Hips and shoulders stay square** — any rotation means the cable is winning; reduce weight or step closer
-- **Press straight out, not toward the machine** — hands go directly in front of the sternum, not angled toward the cable
-- **Breathe** — do not hold the breath for the entire set; brace on the press, breathe on the return
-- Think "someone is trying to rotate you and you are refusing" — that is exactly what is happening
-- Train both sides equally — do the same sets and reps facing each direction
-
-### Common mistakes
-- ❌ Torso rotating toward the cable — the exercise has failed the moment rotation occurs; reduce weight or step closer
-- ❌ Hips rotating — subtle and common; the hips must stay square just as much as the shoulders
-- ❌ Pressing at an angle toward the machine — hands should go directly forward from the sternum, not diagonally
-- ❌ No core brace — the exercise becomes a shoulder press with no core challenge; brace firmly before every press
-- ❌ Too much weight — heavy cable forces rotation immediately; this is a core stability exercise, not a pressing strength exercise
-- ❌ Standing too close to the machine — insufficient cable tension makes the anti-rotation challenge too easy; step far enough away to feel genuine resistance
-- ❌ Only training one side — anti-rotation asymmetry is common; always do equal work on both sides
-
-### Recommended loading & volume
-- Light to moderate weight — the anti-rotation challenge comes from distance and hold time, not heavy loading
-- 2–4 sets of 8–12 reps per side — or time-based holds of 20–40 seconds in the extended position
-- Progress by stepping further from the machine, increasing hold time at extension, or moving to a more challenging stance (half kneeling, tall kneeling)
-- Works well as a core warm-up before heavy compound lifting, or as a standalone core exercise
-- Pairs well with anti-lateral flexion work (e.g. suitcase carry) and anti-extension work (e.g. ab wheel) for a complete core stability programme
-
-## tibialis-raise
-name: Tibialis Raise
-type: Tibialis anterior / shin / ankle dorsiflexion strength
-
-### What & why
-- Directly strengthens the tibialis anterior — the muscle running along the front of the shin responsible for dorsiflexion (pulling the toes up toward the shin)
-- The tibialis anterior is almost never directly trained yet is critical for ankle stability, knee health, shin splint prevention, and ATG squat depth
-- Popularised by Ben Patrick (Knees Over Toes Guy) as a foundational lower leg exercise alongside the ATG split squat and reverse step up
-- Strengthening the tibialis anterior balances the calf-to-shin strength ratio — an imbalance here is a primary driver of shin splints and anterior knee pain
-- Also directly improves ankle dorsiflexion range — a weak tibialis anterior limits how far the ankle can flex, which restricts squat depth
-
-### Setup — wall version (most common)
-- Stand with your back against a wall — heels roughly 30–45 cm away from the wall base
-- The further the heels are from the wall, the greater the range of motion and the harder the exercise
-- Lean your upper back, hips, and glutes against the wall for support — arms crossed over chest or hands at sides
-- Legs straight — knees not bent
-- Feet hip-width apart, toes pointing straight forward
-- Start with feet flat on the floor — heels down, toes down
-
-> The wall version is the standard bodyweight version. For a loaded version, a tibialis raise machine, a weight plate hooked over the toes, or a resistance band can be used.
-
-### Execution — raise phase
-- Keeping the heels on the floor, lift both forefeet as high as possible — pull the toes up toward the shins as far as you can
-- The movement is pure ankle dorsiflexion — only the feet and ankles move; everything else stays still
-- Raise as high as your range allows — the goal is maximum dorsiflexion at the top
-- At the top, squeeze the tibialis anterior hard — you should feel the muscle along the shin contract firmly
-- Hold the peak contraction for 1–2 seconds
-- Toes can be slightly pulled back (curled) at the top to maximise the contraction
-- Exhale on the raise
-
-### Execution — descent phase
-- Lower the feet slowly back toward the floor — 2–3 seconds on the way down
-- Do not just drop the feet — control the descent fully; the eccentric strengthens the tibialis anterior through its lengthening range
-- Lower all the way to the floor — full range at the bottom
-- Allow a brief rest at the bottom before the next rep if needed — especially early on when the muscle fatigues quickly
-- Inhale on the descent
-
-### Loading options — progression
-- **Bodyweight wall version** — Start here — deceptively tiring for most people; the tibialis anterior fatigues very quickly if untrained
-- **Feet further from wall** — Step heels further out — increases the range of motion and difficulty with no added equipment
-- **Weight plate on toes** — Hook a small plate (2.5–5 kg) over the toes — adds load; commonly done seated on a bench
-- **Resistance band** — Loop a band around a low anchor and over the forefoot — provides resistance through the range
-- **Tibialis raise machine** — Dedicated machine with a pad that sits over the shin — the most effective loaded option; allows progressive overload precisely
-- **Single leg** — Perform one foot at a time — doubles the load per leg and exposes side-to-side asymmetry
-
-### Seated plate version — setup
-- Sit on a bench or chair — knees bent at 90°, feet flat on the floor
-- Hook a weight plate over the toes — the plate rests on top of the forefoot
-- Lift the forefoot against the plate resistance — same motion as the wall version but seated
-- Keep the heel on the floor throughout — only the forefoot rises
-- The seated version allows heavier loading and is easier to progress systematically
-
-### Key cues
-- **Heels stay down** — the heel is the fixed pivot point; it must not lift during the raise
-- **Pull toes up as high as possible** — maximum dorsiflexion range; do not settle for a small movement
-- **Squeeze at the top** — the tibialis anterior needs a deliberate contraction cue; passively raising the toes is not enough
-- **Slow the descent** — the eccentric is where shin splint prevention and tendon resilience are built
-- Think "pull the toes toward the knee" — this cue drives maximum dorsiflexion range
-- The burn along the front of the shin is normal and expected — the tibialis anterior is untrained in most people and fatigues fast
-
-### Common mistakes
-- ❌ Heels lifting off the floor — the heel must stay grounded; if it lifts, the movement pattern breaks down
-- ❌ Small range of motion — barely lifting the toes; pull them as high as possible on every rep
-- ❌ No pause or squeeze at the top — just rocking the feet up and down with no muscle activation focus
-- ❌ Dropping the feet on the descent — the eccentric is equally important; control all the way down
-- ❌ Bending the knees — changes the mechanics; keep legs straight in the wall version
-- ❌ Feet too close to the wall — reduces the range of motion significantly; step heels further out
-
-### Recommended loading & volume
-- Start with bodyweight — 2–3 sets of 20–30 reps; the tibialis anterior fatigues very quickly at first
-- Can be done daily — tendons and smaller muscles respond well to frequent low-load work
-- Progress to loaded versions (plate or machine) once bodyweight feels easy for 3 sets of 25+ reps
-- Works best as a daily practice — even 2–3 sets before or after training adds up quickly over weeks
-- Pairs naturally with calf raises — train the full ankle in both directions for balanced lower leg strength
-- ⚠ Shin splints — start very conservatively; the tibialis anterior will be extremely reactive; build volume slowly over several weeks
+- Can superset with overhead tricep work to hit the long head in a stretched position
 
 ## cable-glute-kickback
 name: Cable Glute Kickback
-type: Glute maximus / hamstrings / hip extension
+
+### Current program lower-back restrictions
+- Keep the ribs down and the pelvis stable.
+- Stop the leg before the lower back begins to arch.
+- Shorten the range if the lower back works more than the glute.
 
 ### What & why
-- A hip extension isolation exercise — the working leg drives backward against cable resistance, loading the glute maximus through its full range
-- The cable provides constant tension throughout the range — unlike a bodyweight kickback where tension drops at the bottom
-- Trains the glute maximus in both a shortened position (top of the kick) and a lengthened position (bottom) — important for complete glute development
-- Unilateral — trains each glute independently, exposing and correcting side-to-side strength imbalances
-- Lower impact than squats and deadlifts — useful as a glute finisher or for those with knee limitations
+- A hip extension isolation exercise — the working leg drives backward against cable resistance
+- The cable provides constant tension throughout the range
+- Trains the glute maximus in both a shortened position (top) and a lengthened position (bottom)
+- Unilateral — trains each glute independently
 
 ### Setup
 - Set the cable pulley to the lowest position — ankle height
 - Attach an ankle cuff to the working leg
-- Face the cable machine — stand close enough to hold the frame lightly with both hands for support
-- Hinge slightly forward at the hips — 15–30° forward lean; this is intentional and positions the glute to work through a better range of motion
-- Standing leg slightly soft at the knee — not locked out
-- Working leg starts with the foot close to the cable machine — slight tension already on the cable at the start
-- Core braced, spine neutral — do not let the lower back arch excessively
-
-> The forward hip hinge is key — a fully upright torso limits how far back the working leg can travel and reduces glute activation. The hinge allows full hip extension range.
+- Face the cable machine — stand close enough to hold the frame lightly for support
+- Hinge slightly forward at the hips — 15–30° forward lean
+- Standing leg slightly soft at the knee
+- Core braced, spine neutral
 
 ### Execution — kickback phase
 - Squeeze the glute of the working leg and drive it backward and slightly upward — pure hip extension
-- Keep the working leg relatively straight — a soft knee is fine; avoid bending it significantly as this shifts load to the hamstring
-- Drive the leg back until the hip is fully extended — thigh roughly in line with the torso or slightly above
-- At the top, squeeze the glute maximally for 1–2 seconds — this peak contraction is the most important part of the rep
-- The movement comes from the hip joint — the pelvis and lower back should not move; only the leg travels
-- Do not hyperextend the lower back to get the leg higher — height comes from hip extension, not lumbar extension
-- Foot stays neutral or slightly plantarflexed — do not dorsiflex aggressively
+- Keep the working leg relatively straight
+- Drive the leg back until the hip is fully extended
+- At the top, squeeze the glute maximally for 1–2 seconds
+- The movement comes from the hip joint — the pelvis and lower back should not move
+- Do not hyperextend the lower back
 - Exhale on the kick back
 
 ### Execution — return phase
-- Lower the leg forward slowly — 2–3 seconds on the return
-- Resist the cable pulling the leg forward — the eccentric is where glute lengthening strength is built
-- Return until the hip is in a slightly flexed position — feel a full stretch through the glute at the front of the range
-- Do not let the cable snap the leg forward — control the entire return
+- Lower the leg forward slowly — 2–3 seconds
+- Resist the cable pulling the leg forward
+- Return until the hip is in a slightly flexed position — feel a full stretch
 - Inhale on the return
 
 ### Knee position options
-- **Straight leg** — More hamstring co-activation, longer lever, harder to control — targets glute through a longer range
-- **Bent knee (90°)** — Shortens the hamstring and shifts emphasis almost entirely to the glute maximus — easier to isolate; very common variation
-- Bent knee is often recommended for pure glute isolation — the shortened hamstring cannot assist the movement as much
+- Straight leg — more hamstring co-activation, longer lever
+- Bent knee (90°) — shifts emphasis almost entirely to the glute maximus
 
 ### Key cues
-- **Glute initiates** — squeeze the glute before the leg moves; do not lead with the foot or the hamstring
-- **Pelvis stays still** — no hip hiking, no rotation, no lower back arch; the pelvis is fixed and only the leg moves
-- **Squeeze at the top** — 1–2 second peak contraction on every rep; this is non-negotiable for glute activation
-- **Hinge forward slightly** — the forward lean is intentional; it opens the hip extension range and prevents lumbar compensation
-- Think "push the floor away behind you" — keeps the movement grounded and the glute as the driver
-- If you feel it in the lower back, you are hyperextending — reduce range and focus on squeezing the glute before moving
+- Glute initiates
+- Pelvis stays still
+- Squeeze at the top
+- Hinge forward slightly
 
 ### Common mistakes
-- ❌ Hyperextending the lower back — using lumbar extension to get the leg higher; height must come from the hip, not the spine
-- ❌ Hip hiking or rotating — the pelvis must stay level and square; any movement defeats the glute isolation
-- ❌ No squeeze at the top — swinging the leg back and forth with no peak contraction; glute activation is minimal without the deliberate squeeze
-- ❌ Kicking with momentum — the leg should move with deliberate control, not a fast swing; momentum bypasses the glute
-- ❌ Standing too upright — limits the range of hip extension; the slight forward hinge is necessary
-- ❌ Not controlling the return — letting the cable snap the leg forward removes the eccentric stimulus entirely
-- ❌ Too much weight — forces lower back compensation and hip rotation immediately; keep it light enough to feel the glute on every rep
+- ❌ Hyperextending the lower back
+- ❌ Hip hiking or rotating
+- ❌ No squeeze at the top
+- ❌ Kicking with momentum
+- ❌ Standing too upright
+- ❌ Not controlling the return
+- ❌ Too much weight
 
 ### Recommended loading & volume
-- Light to moderate weight — glute isolation requires feel over load; form breaks down fast under too much weight
+- Light to moderate weight
 - 3–4 sets of 12–20 reps per side
-- Works well as a glute finisher after compound movements like squats, deadlifts, or hip thrusts
-- Also effective as a glute activation warm-up before heavy lower body training
-- Train both sides equally — always note if one glute feels weaker or less activatable
-- ⚠ Lower back discomfort — reduce range of motion immediately and focus entirely on the glute squeeze; the lower back should be passive throughout
+- Works well as a glute finisher after compound movements
+- ⚠ Lower back discomfort — reduce range and focus entirely on the glute squeeze
+
+## pallof-press
+name: Pallof Press
+
+### Current program use
+- The current plan uses a resistance band; the same anti-rotation pattern described below applies.
+- This and the side iso hold are the plan's anti-movement core work.
+
+### What & why
+- An anti-rotation core exercise — the goal is to resist the cable pulling you toward the machine, not to rotate with it
+- Trains the core's ability to resist rotation — the most functionally important core quality for athletics, lifting, and spinal health
+- The obliques, transverse abdominis, and deep spinal stabilisers are the primary muscles challenged
+
+### Setup
+- Set the cable pulley to chest height
+- Attach a D-handle or rope
+- Stand side-on to the cable machine
+- Step away from the machine until there is good tension on the cable at the start position
+- Feet shoulder-width apart — stand square, perpendicular to the cable
+- Hold the handle at the chest, at sternum level
+
+### Body position
+- Stand tall — spine neutral, chest up, shoulders back and down
+- Core braced firmly — engage the abs as if bracing for a punch
+- Hips square to the front
+- Slight soft knee
+- Body faces directly forward, perpendicular to the cable direction
+
+### Execution — press phase
+- From the handle held at the chest, press both hands straight out in front of you
+- As the arms extend, the cable pulls harder toward the machine — this is the rotational force you must resist
+- The torso must stay completely square
+- Hold the extended position for 1–3 seconds
+- Exhale during the press out
+
+### Execution — return phase
+- Pull the handle back to the chest slowly and under control
+- Resist the cable on the return
+- Keep the torso square throughout the return
+- Inhale on the return
+
+### Stance variations
+- Standing — standard version
+- Half kneeling — removes the lower body, increases core isolation demand
+- Tall kneeling — completely removes leg drive, most isolated core version
+- Split stance — adds a balance challenge
+
+### Key cues
+- Brace before you press
+- Hips and shoulders stay square
+- Press straight out, not toward the machine
+- Breathe — brace on the press, breathe on the return
+
+### Common mistakes
+- ❌ Torso rotating toward the cable
+- ❌ Hips rotating
+- ❌ Pressing at an angle toward the machine
+- ❌ No core brace
+- ❌ Too much weight
+- ❌ Standing too close to the machine
+- ❌ Only training one side
+
+### Recommended loading & volume
+- Light to moderate weight
+- 2–4 sets of 8–12 reps per side, or time-based holds of 20–40 seconds
+- Progress by stepping further from the machine, increasing hold time, or moving to a more challenging stance
+- Works well as a core warm-up before heavy compound lifting
 
 ## deep-calf-raise
 name: Deep Calf Raise
-type: Gastrocnemius / soleus / Achilles tendon / plantar fascia
 
 ### What & why
-- A calf raise performed with the heel dropping below the level of the foot — on a step, plate, or edge — allowing a full stretch at the bottom that flat-floor calf raises never reach
-- The deep stretch at the bottom is the entire point — research consistently shows that training muscles through their full lengthened range produces significantly greater hypertrophy than partial-range training
-- Targets both the gastrocnemius (outer calf, crosses the knee) and the soleus (deeper, does not cross the knee) depending on knee position
-- Also loads the Achilles tendon and plantar fascia through their full range — excellent for tendon health and Achilles injury prevention and rehab
-- The calves are one of the most stubborn muscle groups — full range with a slow eccentric and deep stretch is the most effective stimulus for growth
+- A calf raise performed with the heel dropping below the level of the foot — allowing a full stretch at the bottom
+- Training muscles through their full lengthened range produces significantly greater hypertrophy than partial-range training
+- Targets both the gastrocnemius and soleus depending on knee position
+- Also loads the Achilles tendon and plantar fascia through their full range
 
 ### Setup
-- Use a step, weight plate, or raised edge — the ball of the foot rests on the edge, the heel hangs off freely
-- Position the foot so the ball of the foot (just behind the toes) is on the edge — not the arch or midfoot
-- Hold a wall, rack, or handrail lightly for balance — use as little support as needed; the goal is balance, not load-bearing
-- Start with both feet for the bilateral version, or one foot for the single-leg version
-- For loaded versions: hold a dumbbell in one hand, use a smith machine, or use a dedicated calf raise machine
-- Knee straight for gastrocnemius emphasis — knee slightly bent (15–20°) for soleus emphasis
-
-> A single-leg calf raise doubles the load per leg and is far more effective than bilateral — bodyweight on one leg is typically sufficient stimulus for most people, especially through a full range.
+- Use a step, weight plate, or raised edge — ball of the foot on the edge, heel hangs off freely
+- Hold a wall, rack, or handrail lightly for balance
+- Knee straight for gastrocnemius emphasis; knee slightly bent (15–20°) for soleus emphasis
+- Single-leg calf raise doubles the load per leg and is far more effective than bilateral
 
 ### Execution — descent to deep stretch
-- From a neutral foot position, lower the heel as far below the step as possible — full range dorsiflexion
-- Lower slowly — 3–5 seconds on the way down; this is where the growth stimulus lives
-- At the bottom, the heel should be as low as your ankle mobility allows — feel a deep, intense stretch through the entire calf and Achilles
-- Pause at the bottom for 1–2 seconds — do not bounce out of the stretch
-- The stretch should be felt from the bottom of the calf up through the Achilles — intense is normal and expected
-- Keep the knee in the same position throughout — do not bend or extend it to assist the descent
+- Lower the heel as far below the step as possible — full range dorsiflexion
+- Lower slowly — 3–5 seconds
+- At the bottom, feel a deep, intense stretch through the entire calf and Achilles
+- Pause at the bottom for 1–2 seconds — do not bounce
+- Keep the knee in the same position throughout
 - Inhale on the descent
 
 ### Execution — rise phase
-- From the deep stretch, push through the ball of the foot and rise up onto the toes — full plantar flexion at the top
-- Rise as high as possible — maximum plantarflexion, weight on the big toe and second toe side
-- At the top, squeeze the calf hard for 1 second — hold the peak contraction
-- The movement is smooth and controlled — not a fast bounce or a jerk off the bottom
-- Keep the ankle moving in a straight line — do not let it roll inward (pronation) or outward (supination) during the raise
+- Push through the ball of the foot and rise up onto the toes
+- Rise as high as possible — maximum plantarflexion
+- At the top, squeeze the calf hard for 1 second
+- Keep the ankle moving in a straight line — no rolling
 - Exhale on the rise
 
 ### Gastrocnemius vs soleus — knee position
-- **Knee straight** — Targets the gastrocnemius — the larger, visible outer calf muscle that crosses the knee joint; more responsible for the calf's size and shape
-- **Knee bent (seated or slight bend)** — Takes the gastrocnemius slack and shifts emphasis to the soleus — sits underneath the gastroc, adds thickness and width; often undertrained
-- Train both positions in a programme for complete calf development — most people only ever do straight-leg raises and neglect the soleus entirely
-- Seated calf raise is the most effective soleus isolation — bent knee removes gastrocnemius contribution almost entirely
+- Knee straight — targets the gastrocnemius (larger, visible outer calf)
+- Knee bent (seated) — shifts emphasis to the soleus
+- Train both positions for complete calf development
 
 ### Foot position variations
-- **Toes straight ahead** — Balanced gastrocnemius activation — standard starting position
-- **Toes slightly out** — More inner calf (medial gastrocnemius) emphasis
-- **Toes slightly in** — More outer calf (lateral gastrocnemius) emphasis
-- Toes straight is the recommended default — variations can be added for completeness
+- Toes straight ahead — balanced gastrocnemius activation
+- Toes slightly out — more inner calf emphasis
+- Toes slightly in — more outer calf emphasis
 
 ### Key cues
-- **Deep stretch at the bottom** — the heel must go below the step level; stopping at neutral defeats the entire purpose
-- **Slow eccentric** — 3–5 seconds down; the lowering phase is the primary growth stimulus for calves
-- **Pause at the bottom** — 1–2 seconds in the stretch; eliminates the stretch reflex and forces the muscle to work from a dead stop
-- **Full rise at the top** — do not stop halfway; maximum plantarflexion with a squeeze at the peak
-- Think "heel as low as possible, then as high as possible" — full range every rep, no cheating either end
-- Ankle stays neutral — no rolling inward or outward; the foot moves straight up and down
+- Deep stretch at the bottom
+- Slow eccentric — 3–5 seconds down
+- Pause at the bottom
+- Full rise at the top
 
 ### Common mistakes
-- ❌ Not dropping the heel below the step — the single most common error; partial-range calf raises on a flat floor are significantly less effective for growth
-- ❌ Bouncing out of the bottom — using the stretch reflex removes the deep stretch stimulus; pause at the bottom every rep
-- ❌ Fast reps — calves respond poorly to quick reps; slow eccentric is mandatory for both growth and tendon health
-- ❌ Not rising fully at the top — stopping below full plantarflexion cuts the contraction short
-- ❌ Ankle rolling inward — pronation during the raise puts stress on the medial ankle; keep the ankle stacked
-- ❌ Using the handrail to assist — light touch for balance only; pulling on the support to help the rise defeats the load
-- ❌ Only doing bilateral — two-leg calf raises with bodyweight are too easy for most people; progress to single-leg
+- ❌ Not dropping the heel below the step
+- ❌ Bouncing out of the bottom
+- ❌ Fast reps
+- ❌ Not rising fully at the top
+- ❌ Ankle rolling inward
+- ❌ Using the handrail to assist
+- ❌ Only doing bilateral
 
 ### Recommended loading & volume
-- Single-leg bodyweight is the best starting point — far more challenging than it looks through a full range
-- 3–4 sets of 10–15 reps per leg — prioritise range and slow eccentric over rep count
-- Progress to holding a dumbbell once bodyweight is easy for 15+ reps with perfect form
-- Calves respond well to higher frequency — 3–4 sessions per week is appropriate
-- Pairs naturally with tibialis raises — train ankle plantarflexion and dorsiflexion together for complete lower leg balance
-- ⚠ Achilles tendinopathy — the deep stretch is therapeutic but must be introduced very gradually; start with a smaller range and build over weeks; do not push through sharp Achilles pain
+- Single-leg bodyweight is the best starting point
+- 3–4 sets of 10–15 reps per leg
+- Progress to holding a dumbbell once bodyweight is easy for 15+ reps
+- Calves respond well to higher frequency — 3–4 sessions per week
+- Pairs naturally with tibialis raises
+- ⚠ Achilles tendinopathy — introduce the deep stretch very gradually
 
 ## standing-shoulder-cars
 name: Standing Shoulder CARs
-type: Controlled Articular Rotations — shoulder joint mobility / capsule health / full ROM ownership
+
+### Current program shoulder restrictions
+- Stay within a pain-free range.
+- Do not push into end-range internal rotation.
+- Move slowly and smoothly; do not grind through stiffness.
+- The standing version replaces prone CARs to avoid anterior-capsule loading under gravity.
 
 ### What & why
-- CARs = Controlled Articular Rotations — a concept from Functional Range Conditioning (FRC) developed by Dr Andreo Spina
-- The goal is to actively move the shoulder joint through its absolute maximum range in every direction — not a passive stretch but an active, irradiated movement
-- CARs maintain and expand the usable range of a joint by stimulating the mechanoreceptors in the joint capsule — the nervous system learns to own and control that range
-- Irradiation is the key principle — the entire body is maximally tensed while only the shoulder moves; this creates the neurological signal that drives joint health adaptations
-- Daily CARs are one of the most evidence-supported practices for long-term joint health, injury prevention, and mobility maintenance
-- Unlike passive stretching, CARs build active control at end range — the positions you can move into and own, not just fall into
+- CARs = Controlled Articular Rotations — from Functional Range Conditioning (FRC), developed by Dr Andreo Spina
+- The goal is to actively move the shoulder joint through its maximum pain-free range in every direction
+- Irradiation is the key principle — the entire body is maximally tensed while only the shoulder moves
+- One of the most evidence-supported practices for long-term joint health, injury prevention, and mobility maintenance
 
 ### Setup
 - Stand tall — feet shoulder-width apart, soft knees
-- Work one arm at a time — keep the non-working arm relaxed at the side or place the hand on the hip
+- Work one arm at a time
 - Before starting each CAR, irradiate the entire body — squeeze everything: grip the fist, brace the core, tighten the glutes, press the feet into the floor, tense the legs
-- This full-body irradiation is maintained throughout the entire rotation — do not let go of the tension at any point
-- The rest of the body must stay completely still — only the working shoulder moves
-
-> Irradiation is the non-negotiable part of CARs — without it you are just doing a passive arm circle. The full-body tension is what creates the neurological drive that makes CARs therapeutically and neurologically meaningful.
+- This full-body irradiation is maintained throughout the entire rotation
+- The rest of the body must stay completely still
 
 ### The rotation — step by step
-- Start with the arm hanging at the side — this is position zero
-- **Forward:** Lift the arm forward into flexion — keeping the elbow straight, raise it directly in front of you, maximally reaching forward and up
-- **Overhead:** Continue lifting the arm overhead — reach as high as possible, externally rotating the shoulder; think "armpit facing forward" as the arm passes overhead
-- **Behind:** Continue the arc behind the body — the arm moves into extension behind the torso; internally rotate the shoulder to get the arm as far back as possible; think "back of the hand facing the ceiling"
-- **Down and forward:** Swing the arm back forward and down in a wide arc, completing the full circle back to the start position
-- The full rotation should take 8–10 seconds — it is slow, deliberate, and controlled at every point
-- Complete 3–5 rotations in one direction, then reverse and do 3–5 in the opposite direction
-
-### The rotation — what to feel at each stage
-- **Front/flexion:** Anterior delt and pec minor working to lift; feel the reach actively extending
-- **Overhead:** The transition point — actively externally rotate as the arm passes overhead; feel the shoulder capsule stretching at the back
-- **Behind/extension:** Posterior capsule and anterior shoulder stretching; feel the internal rotation being actively driven; this is where most people have the least range
-- **Return:** Controlled re-entry — resist gravity and maintain tension through the downward arc
-- Note where the range feels limited or uncomfortable — these are the areas needing the most attention
+- Start with the arm hanging at the side
+- Forward: Lift the arm forward into flexion — raise it directly in front of you, reaching forward and up only as far as pain-free
+- Overhead: Continue lifting the arm overhead — reach as high as possible, externally rotating the shoulder
+- Behind: Continue the arc behind the body — internally rotate the shoulder to get the arm as far back as possible
+- Down and forward: Swing the arm back forward and down, completing the full circle
+- The full rotation should take 8–10 seconds
+- Complete 3–5 rotations in one direction, then reverse
 
 ### Rotation & grip changes through the arc
-- The shoulder rotates continuously throughout the CAR — it is not just moving the arm up and down
-- Front to overhead — externally rotate; thumb moves from pointing forward to pointing back
-- Overhead to behind — continue external rotation into internal rotation; the transition is the most challenging part neurologically
-- Behind back to down — internally rotated; back of the hand faces up or behind
-- Down back to front — return to neutral; thumb faces forward again
-- Think of wringing out a towel as the arm moves — continuous rotation throughout, not discrete positions
+- Front to overhead — externally rotate
+- Overhead to behind — continue external rotation into internal rotation
+- Behind back to down — internally rotated
+- Down back to front — return to neutral
 
 ### Key cues
-- **Irradiate the whole body** — squeeze everything before and throughout; this is the most important cue and the most skipped
-- **Maximise the range at every point** — always reaching the absolute end of available range, not a comfortable mid-range circle
-- **Slow is the only speed** — 8–10 seconds per full rotation; fast arm circles are not CARs
-- **Torso stays still** — any torso lean or rotation is compensation for a lack of shoulder range; reduce the range and keep the body stationary
-- Think "paint the biggest possible circle on the wall" — maximise the arc at every point in the rotation
-- Note discomfort vs pain — discomfort and tightness at end range is expected and productive; sharp pain is a signal to reduce range
+- Irradiate the whole body
+- Maximise the pain-free range at every point
+- Slow is the only speed — 8–10 seconds per full rotation
+- Torso stays still
 
 ### Common mistakes
-- ❌ No irradiation — doing a relaxed arm circle; completely misses the neurological mechanism that makes CARs effective
-- ❌ Too fast — speed allows the body to skip the restricted ranges; slow forces every limitation to be confronted
-- ❌ Torso leaning or rotating — compensating for limited shoulder range by moving the body; stay absolutely still
-- ❌ Elbow bending — shortening the lever reduces the range demand; keep the arm straight throughout
-- ❌ Not rotating the shoulder — treating it like a flat arm circle with no axial rotation; the shoulder must spin through external and internal rotation throughout the arc
-- ❌ Stopping in comfortable ranges only — CARs must push into the end range; staying in comfortable ranges produces no adaptation
-- ❌ Only doing one direction — always do both clockwise and counter-clockwise for each shoulder
+- ❌ No irradiation
+- ❌ Too fast
+- ❌ Torso leaning or rotating
+- ❌ Elbow bending
+- ❌ Not rotating the shoulder
+- ❌ Forcing beyond the current pain-free range
+- ❌ Only doing one direction
 
 ### Recommended volume & timing
-- 3–5 rotations each direction per shoulder — quality over quantity; 5 perfect CARs beats 20 sloppy ones
-- Daily practice is ideal — CARs are restorative and can be done every day; joint health responds to frequency
-- Takes only 2–3 minutes total for both shoulders — no excuse to skip
+- 3–5 rotations each direction per shoulder
+- Daily practice is ideal
+- Takes only 2–3 minutes total for both shoulders
 - Works well as a daily morning practice, pre-training warm-up, or end-of-day mobility routine
-- Particularly valuable before overhead pressing, pulling, or any shoulder-dominant training
-- Also apply CARs to the hip, wrist, neck, and thoracic spine for a complete joint health programme
-- ⚠ Acute shoulder injury or post-surgical shoulder — check with a physio before performing full-range CARs; reduce the range to pain-free only and work within that window
+- Also apply to the hip, wrist, neck, and thoracic spine
+- ⚠ Acute shoulder injury or post-surgical shoulder — check with a physio before performing full-range CARs
 
-### Plan-specific shoulder prep
-- Use these in the Day 3 mobility block to help prime the shoulder.
+## chest-supported-db-row
+name: Chest-Supported Dumbbell Row
+
+### What & why
+- The chest support eliminates the lower back from the equation entirely
+- Ideal for people with lower back issues, or anyone who tends to cheat on bent-over rows
+
+### Bench setup
+- Set an incline bench to 30–45° — 30° gives a more horizontal torso and hits more mid-back and lats; 45° is more upright and hits more upper back and rear delts
+- Lie face-down (prone) on the bench — chest and stomach flat against the pad
+- Your chest should be at or near the top of the pad — head slightly off the top edge
+- Feet flat on the floor or hooked behind the footrest
+- Let the dumbbells hang straight down toward the floor before starting
+
+### Grip options
+- Pronated — palms facing back — more upper trap and rear delt, elbows flare wider
+- Neutral — palms facing each other — most comfortable, good lat and mid-back activation
+- Supinated — palms facing forward — more bicep involvement, good for lower lat emphasis
+- Neutral grip is the most commonly recommended starting point
+
+### Execution — pull phase
+- Initiate the row by retracting your shoulder blades — squeeze them together before your arms do any work
+- Drive your elbows up and back — think "elbows to the ceiling"
+- Pull until your upper arms are roughly parallel to the floor or slightly above
+- At the top, hold for 1 second and actively squeeze the shoulder blades together and down
+- Keep your chest in contact with the bench throughout
+- Exhale at the top of the pull
+
+### Elbow path by target
+- Elbows flared wide at ~70–80° from torso — more rear delt and upper trap emphasis
+- Elbows at ~45° from torso — balanced mid-back and lat emphasis; recommended default
+- Elbows close to the body at ~20–30° — more lat emphasis
+
+### Execution — descent phase
+- Lower the dumbbells slowly and under full control — 2–3 seconds on the way down
+- Allow the shoulder blades to fully protract (spread apart) at the bottom
+- Do not cut the range short at the bottom
+- Inhale on the way down
+
+### Key cues
+- Scapula first — initiate every rep with a shoulder blade squeeze, not a bicep curl
+- Elbows up, not out — the drive is vertical, not horizontal
+- Chest stays on the pad — if it lifts, you are using momentum
+- Full stretch at the bottom — let the scapula protract completely
+- Think "bend the bar apart" with your hands
+
+### Common mistakes
+- ❌ Lifting the chest off the pad
+- ❌ Pulling with the biceps instead of initiating with the scapula
+- ❌ Not protracting at the bottom
+- ❌ Shrugging the traps up at the top
+- ❌ Going too heavy
+- ❌ Inconsistent elbow angle between reps
+- ❌ Rushing the eccentric
+
+### Recommended loading
+- 3–4 sets of 8–15 reps for hypertrophy
+- Use a weight where you can feel every rep in your back
+- Straps are fine once grip becomes a limiting factor
+
+## cable-hip-abduction
+name: Cable Hip Abduction
+
+### What & why
+- Hip abduction = moving the leg away from the midline of the body — directly targets the glute medius and minimus
+- Critical for pelvic stability during walking, running, and single-leg movements — weakness causes knee valgus, hip drop, lower back issues
+- Cable provides constant tension throughout the range
+- Unilateral — trains each side independently
+
+### Setup
+- Set the cable pulley to the lowest position — ankle height
+- Attach an ankle cuff to the working leg
+- Stand side-on to the cable machine — the working leg is closest to the machine
+- The cable pulls from the inside (medial side) of the working leg — across your body
+- Step far enough away for tension at the start position
+- Hold the cable machine frame lightly with the near hand for balance
+- Stand tall — chest up, core braced, hips level
+
+### Execution — lift phase
+- Keep the working leg straight — only a very slight soft knee
+- Drive the working leg directly out to the side — pure abduction, away from the midline
+- Lead with the heel, not the toe — cues a slight internal rotation that better targets the glute med
+- Raise the leg to roughly 30–45° from the standing leg
+- At the top, squeeze the glute medius hard for 1 second
+- The torso stays completely upright
+- Pelvis stays level — the standing hip must not drop or hike
+- Exhale at the top
+
+### Execution — return phase
+- Lower the leg slowly back toward the start — 2–3 seconds on the return
+- Resist the cable pulling the leg back across
+- Stop just before the leg crosses fully back to neutral
+- Inhale on the return
+
+### Standing leg
+- Slightly soft at the knee
+- Foot points straight ahead
+- Glute of the standing leg is lightly engaged to keep the pelvis stable
+- If the standing hip drops on every rep, slow down and focus on pelvic control
+
+### Key cues
+- Lead with the heel — slightly internal rotation better targets the glute medius over the TFL
+- Torso stays upright — leaning away from the cable is cheating
+- Pelvis level throughout — no hip hiking on either side
+- Resist the return — the eccentric is where a significant amount of training stimulus lives
+
+### Common mistakes
+- ❌ Leaning the torso away to get the leg higher
+- ❌ Hip hiking on the working side
+- ❌ Toe leading instead of heel leading
+- ❌ Leg crossing back too far on the return
+- ❌ Bending the working knee
+- ❌ Going too heavy
+- ❌ Standing too close to the machine
+
+### Recommended loading & volume
+- Light to moderate weight
+- 3–4 sets of 12–20 reps per side
+- Works well as a warm-up before squats, lunges, or deadlifts to activate the glute med
+- Train the weaker side first
+
+## cable-hip-adduction
+name: Cable Hip Adduction
+
+### What & why
+- Hip adduction = moving the leg toward and across the midline of the body — directly targets the adductor group and gracilis
+- Chronically undertrained yet critical for hip stability, groin health, and athletic performance
+- Cable provides constant tension through the full range
+
+### Setup
+- Set the cable pulley to the lowest position — ankle height
+- Attach an ankle cuff to the working leg
+- Stand side-on to the cable machine — the working leg is furthest from the machine
+- The cable pulls from the outside (lateral side) of the working leg
+- Step far enough away that the working leg is held out to the side at the start with good cable tension — roughly 30–45° abducted
+- Hold the cable machine frame lightly with the far hand for balance
+- Stand tall — chest up, core braced, hips level
+
+### Execution — adduction phase
+- From the starting position with the leg out to the side, sweep the working leg inward across your body
+- Keep the leg straight — only a very slight soft knee
+- Drive the leg across the midline and slightly past the standing leg
+- The movement is a smooth arc — not a kick, not a jerk
+- Squeeze the inner thigh and adductors hard at the peak of the crossover — hold for 1 second
+- Torso stays completely upright
+- Pelvis stays level
+- Exhale at the peak of the adduction
+
+### Execution — return phase
+- Slowly allow the cable to pull the leg back out to the starting position — 2–3 seconds
+- Resist the cable the entire way out
+- Return to the starting abducted position with full tension still on the cable
+- Inhale on the return
+
+### Key cues
+- Leg stays straight — bending the knee reduces the lever and takes load off the adductors
+- Cross the midline — stopping at neutral misses the peak contraction
+- Torso upright, no lean
+- Resist the return — the adductors are being stretched under load on the way back
+
+### Common mistakes
+- ❌ Not crossing the midline
+- ❌ Leaning toward the machine
+- ❌ Bending the working knee
+- ❌ Kicking or swinging the leg
+- ❌ Hip hiking on the working side
+- ❌ Letting the cable snap the leg back out
+- ❌ Standing too close to machine
+- ❌ Too much weight
+
+### Recommended loading & volume
+- Light to moderate weight
+- 3–4 sets of 12–20 reps per side
+- Pair with cable hip abduction in the same session
+- If you have a history of groin strains, start with very light resistance and prioritise the slow eccentric
+
+## vajrasana
+name: Vajrasana
+
+### What & why
+- Vajrasana (thunderbolt or diamond pose) is a kneeling seated position — you sit back on the heels with the tops of the feet flat on the floor
+- Stretches the quadriceps, hip flexors, ankles, and tops of the feet simultaneously
+- Builds ankle plantar flexion range
+- Used in yoga, martial arts, and ATG-style training as a foundational kneeling position
+
+### Setup — getting into position
+- Start kneeling upright on a soft surface
+- Knees together or hip-width apart
+- Tops of the feet flat on the floor — toes pointing straight back
+- Slowly lower the hips back toward the heels
+- Use your hands on the floor beside you to control the descent
+- If hips cannot reach the heels without pain, place a folded blanket, yoga block, or rolled towel between the thighs and calves
+
+### Full position — body alignment
+- Hips rest on or between the heels
+- Spine tall and neutral
+- Shoulders relaxed and down
+- Tops of feet are flat and symmetrical
+- Knees remain on or close to the floor throughout
+
+### Where you should feel it
+- A stretch across the tops of the feet and ankles
+- A stretch along the front of the shins and lower quads
+- Compression or mild pressure behind the knee joint — normal; sharp pain is not
+
+### Progressions
+- Prop between thighs and calves
+- Pad under the ankles
+- Knees apart
+- Partial sit — hover the hips slightly above the heels
+
+### Loading variation
+- Once comfortable unloaded, a light plate (5–10 kg) can be placed on the thighs to increase the stretch
+
+### Key cues
+- Tops of feet flat
+- Sit tall
+- Use a prop rather than forcing depth
+- Exhale to sink
+
+### Common mistakes
+- ❌ Feet splaying outward
+- ❌ Leaning forward to compensate for tight quads
+- ❌ Forcing full depth with sharp knee pain
+- ❌ Holding breath or tensing
+- ❌ Knees too wide
+- ❌ Skipping props out of pride
+
+### Recommended volume & timing
+- Hold for 30–120 seconds per set
+- 2–3 sets per session
+- Can be done daily
+- Pairs well after ATG split squats, reverse step-ups, or any quad-dominant work
+- ⚠ Existing knee issues — approach carefully
+
+## db-lateral-raise
+name: DB Lateral Raise — Scapular Plane
+
+### What & why
+- A lateral raise performed in the scapular plane — arms raise at roughly 30° forward of directly to the side
+- Aligns the humerus with the glenoid socket, significantly reducing impingement risk
+- Also called a "scaption" — a staple in shoulder rehab and prehab protocols
+- The primary target is the medial (side) delt
+
+### Setup
+- Stand tall — feet shoulder-width apart, soft knees, core lightly braced
+- Hold a dumbbell in each hand — light weight
+- Arms hang at sides at the start — slight soft elbow
+- Shoulders back and down
+- Torso has a very slight forward lean — 5–10°
+
+### The scapular plane — key detail
+- Rather than raising directly to the side, angle the arms roughly 30° forward
+- Think of raising toward the front corners of the room rather than directly to the sides
+- This 30° forward angle matches where the shoulder blade sits on the ribcage
+
+### Grip & wrist position
+- Pronated (standard) — palms facing down at the top
+- Thumbs up (neutral) — more shoulder-friendly, the true "scaption" grip
+- Pinky up — coronal plane version only, not scapular plane
+- For scapular plane version, thumbs-up or neutral grip is most commonly recommended
+
+### Execution — lift phase
+- Initiate by engaging the medial delt
+- Raise both arms simultaneously along the scapular plane
+- Keep the slight elbow bend constant throughout
+- Raise to shoulder height
+- Do not raise above shoulder height
+- Pause briefly at the top — squeeze the medial delt for 1 second
+- Keep shoulders depressed throughout
+- Exhale on the way up
+
+### Execution — descent phase
+- Lower the dumbbells slowly — 2–3 seconds on the way down
+- Resist gravity the whole way
+- Return to the starting position with arms just in front of the hips
+- Inhale on the descent
+
+### Key cues
+- 30° forward of the side
+- Shoulders stay down
+- Lead with the elbow
+- Stop at shoulder height
+- Slow the eccentric
+
+### Common mistakes
+- ❌ Shrugging the traps
+- ❌ Raising in the pure coronal plane
+- ❌ Going above shoulder height
+- ❌ Using momentum / body swing
+- ❌ Bending the elbows more on the way up
+- ❌ Dropping the arms fast on the descent
+- ❌ Too much weight
+
+### Recommended loading & volume
+- Light weight
+- 3–4 sets of 12–20 reps
+- Cable or band lateral raises are excellent alternatives that provide constant tension
+- Works well as a shoulder warm-up, standalone isolation exercise, or finisher

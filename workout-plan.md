@@ -24,34 +24,34 @@ name: Shoulder Rehab Warmup
 
 #### face-pull
 name: Face Pull
-prescription: 2x15–20
+prescription: 2x15-20
 
-#### db-external-rotation
-name: DB External Rotation
+#### external-rotation
+name: External Rotation (Cable or DB)
 prescription: 2x15 each side
 
 #### trap-3-raise
 name: Trap-3 Raise
-prescription: 2x12–15
+prescription: 2x12-15
 
 #### dead-hang
 name: Dead Hang
-prescription: 2x20–30s
+prescription: 2x20-30s
 
 ### upper-body
 name: Upper Body
 
-#### chest-supported-row
-name: Chest-Supported Row
-prescription: 3x8–12
+#### chest-supported-t-bar-row
+name: Chest-Supported T-Bar Row
+prescription: 3x8-12
 
 #### high-incline-db-press
 name: High-Incline DB Press
-prescription: 3x10–12
+prescription: 3x10-12
 
 #### hammer-curl
 name: Hammer Curl
-prescription: 2x12–15
+prescription: 2x12-15
 
 ### legs
 name: Legs
@@ -65,12 +65,12 @@ name: Hip Flexor Kickout
 prescription: 2x5 with 5s hold
 
 #### atg-reverse-step-up
-name: ATG Reverse Step Up
+name: ATG Reverse Step-Up
 prescription: 2x25 each leg
 
 #### single-leg-reverse-hyper
 name: Single-Leg Reverse Hyper
-prescription: 2x10–12 each leg
+prescription: 2x10-12 each leg
 
 #### seated-hamstring-curl
 name: Seated Hamstring Curl
@@ -81,7 +81,7 @@ name: Back & Core
 
 #### back-extension
 name: Back Extension
-prescription: 2x12–15
+prescription: 2x12-15
 
 #### back-extension-iso-hold
 name: Back Extension Iso Hold
@@ -98,12 +98,12 @@ name: Hips
 name: Outer Hip Circuit
 prescription: 1 set
 
-#### cable-hip-abduction
-name: Cable Hip Abduction
+#### hip-abductor-machine
+name: Hip Abductor Machine
 prescription: 2x15
 
-#### cable-hip-adduction
-name: Cable Hip Adduction
+#### hip-adductor-machine
+name: Hip Adductor Machine
 prescription: 2x15
 
 ### mobility
@@ -111,31 +111,27 @@ name: Mobility
 
 #### bench-thoracic-extension
 name: Bench Thoracic Extension
-prescription: 2x8–10
+prescription: 2x8-10
 
 #### deep-squat
 name: Deep Squat
-prescription: 2x2m
+prescription: 2x2 min
 
-#### loaded-butterfly
-name: Loaded Butterfly
-prescription: 2x1m
+#### loaded-butterfly-stretch
+name: Loaded Butterfly Stretch
+prescription: 2x1 min
 
 #### open-book-stretch
 name: Open Book Stretch
 prescription: 2x8 each side
 
-#### toe-sit-stretch
-name: Toe Sit Stretch
-prescription: 1–2x45s
+#### foot-sit
+name: Foot Sit
+prescription: 1-2x45s
 
-#### long-lunge
-name: Long Lunge
-prescription: 1–2x30–45s each side (pick one)
-
-#### couch-stretch
-name: Couch Stretch
-prescription: 1–2x30–45s each side (pick one)
+#### hip-flexor-stretch
+name: Long Lunge or Couch Stretch
+prescription: 1-2x30-45s each side
 
 ## day-2
 name: Day 2
@@ -160,34 +156,34 @@ name: Shoulder Rehab Warmup
 
 #### face-pull
 name: Face Pull
-prescription: 2x15–20
+prescription: 2x15-20
 
-#### db-external-rotation
-name: DB External Rotation
+#### external-rotation
+name: External Rotation (Cable or DB)
 prescription: 2x15 each side
 
 #### trap-3-raise
 name: Trap-3 Raise
-prescription: 2x12–15
+prescription: 2x12-15
 
 #### dead-hang
 name: Dead Hang
-prescription: 2x20–30s
+prescription: 2x20-30s
 
 ### upper-body
 name: Upper Body
 
-#### chest-supported-row
-name: Chest-Supported Row
-prescription: 3x8–12
+#### chest-supported-t-bar-row
+name: Chest-Supported T-Bar Row
+prescription: 3x8-12
 
 #### high-incline-db-press
 name: High-Incline DB Press
-prescription: 3x10–12
+prescription: 3x10-12
 
 #### hammer-curl
 name: Hammer Curl
-prescription: 2x12–15
+prescription: 2x12-15
 
 ### legs
 name: Legs
@@ -201,12 +197,12 @@ name: Hip Flexor Kickout
 prescription: 2x5 with 5s hold
 
 #### atg-reverse-step-up
-name: ATG Reverse Step Up
+name: ATG Reverse Step-Up
 prescription: 2x25 each leg
 
 #### single-leg-reverse-hyper
 name: Single-Leg Reverse Hyper
-prescription: 2x10–12 each leg
+prescription: 2x10-12 each leg
 
 #### seated-hamstring-curl
 name: Seated Hamstring Curl
@@ -217,7 +213,7 @@ name: Back & Core
 
 #### back-extension
 name: Back Extension
-prescription: 2x12–15
+prescription: 2x12-15
 
 #### back-extension-iso-hold
 name: Back Extension Iso Hold
@@ -234,12 +230,12 @@ name: Hips
 name: Outer Hip Circuit
 prescription: 1 set
 
-#### cable-hip-abduction
-name: Cable Hip Abduction
+#### hip-abductor-machine
+name: Hip Abductor Machine
 prescription: 2x15
 
-#### cable-hip-adduction
-name: Cable Hip Adduction
+#### hip-adductor-machine
+name: Hip Adductor Machine
 prescription: 2x15
 
 ### mobility
@@ -247,31 +243,27 @@ name: Mobility
 
 #### bench-thoracic-extension
 name: Bench Thoracic Extension
-prescription: 2x8–10
+prescription: 2x8-10
 
 #### deep-squat
 name: Deep Squat
-prescription: 2x2m
+prescription: 2x2 min
 
-#### loaded-butterfly
-name: Loaded Butterfly
-prescription: 2x1m
+#### loaded-butterfly-stretch
+name: Loaded Butterfly Stretch
+prescription: 2x1 min
 
 #### open-book-stretch
 name: Open Book Stretch
 prescription: 2x8 each side
 
-#### toe-sit-stretch
-name: Toe Sit Stretch
-prescription: 1–2x45s
+#### foot-sit
+name: Foot Sit
+prescription: 1-2x45s
 
-#### long-lunge
-name: Long Lunge
-prescription: 1–2x30–45s each side (pick one)
-
-#### couch-stretch
-name: Couch Stretch
-prescription: 1–2x30–45s each side (pick one)
+#### hip-flexor-stretch
+name: Long Lunge or Couch Stretch
+prescription: 1-2x30-45s each side
 
 ## day-3
 name: Day 3
@@ -285,33 +277,33 @@ prescription: 5 min
 
 #### leg-swings
 name: Leg Swings
-prescription: —
+prescription: front/back + side/side
 
 #### band-pull-aparts
 name: Band Pull-Aparts
-prescription: 2–3x10
+prescription: 2-3x10
 
 ### upper-body
 name: Upper Body
 
-#### low-incline-db-press
-name: Low-Incline DB Press
-prescription: 3x10–12
+#### slight-incline-db-press
+name: Slight-Incline DB Press
+prescription: 3x10-12
 
 #### lat-pulldown
 name: Lat Pulldown
-prescription: 3x10–12
+prescription: 3x10-12
 
-#### db-lateral-raise
-name: DB Lateral Raise
-prescription: 2x12–15
+#### lateral-raise-machine
+name: Lateral Raise Machine
+prescription: 2x12-15
 
-#### chest-supported-rear-delt-fly
+#### reverse-flye
 name: Chest-Supported Reverse Flye
-prescription: 2x12–15
+prescription: 2x12-15
 
-#### tricep-rope-pushdown
-name: Tricep Rope Pushdown
+#### triceps-pushdown
+name: Triceps Pushdown
 prescription: 2x10
 
 ### lower-body
@@ -348,12 +340,12 @@ prescription: 1x5 each side
 
 #### deep-squat
 name: Deep Squat
-prescription: 2x2m
+prescription: 2x2 min
 
 #### open-book-stretch
 name: Open Book Stretch
 prescription: 2x8 each side
 
-#### toe-sit-stretch
-name: Toe Sit Stretch
-prescription: 1–2x45s
+#### foot-sit
+name: Foot Sit
+prescription: 1-2x45s
